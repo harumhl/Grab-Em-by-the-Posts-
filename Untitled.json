@@ -1,0 +1,113 @@
+{
+  u'contributors': None,
+  u'truncated': True,
+  u'text': u"One of China's first female fighter pilots was killed in a training accident, according to state-run media reports\u2026 https://t.co/DoEZLme8Cq",
+  u'is_quote_status': False,
+  u'in_reply_to_status_id': None,
+  u'id': 798054109286985728,
+  u'favorite_count': 281,
+  u'entities': {
+    u'symbols': [
+      
+    ],
+    u'user_mentions': [
+      
+    ],
+    u'hashtags': [
+      
+    ],
+    u'urls': [
+      {
+        u'url': u'https://t.co/DoEZLme8Cq',
+        u'indices': [
+          116,
+          139
+        ],
+        u'expanded_url': u'https://twitter.com/i/web/status/798054109286985728',
+        u'display_url': u'twitter.com/i/web/status/7\u2026'
+      }
+    ]
+  },
+  u'retweeted': False,
+  u'coordinates': None,
+  u'source': u'<a href="https://www.sprinklr.com" rel="nofollow">Sprinklr</a>',
+  u'in_reply_to_screen_name': None,
+  u'in_reply_to_user_id': None,
+  u'retweet_count': 189,
+  u'id_str': u'798054109286985728',
+  u'favorited': False,
+  u'user': {
+    u'follow_request_sent': False,
+    u'has_extended_profile': False,
+    u'profile_use_background_image': False,
+    u'default_profile_image': False,
+    u'id': 759251,
+    u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg',
+    u'verified': True,
+    u'translator_type': u'regular',
+    u'profile_text_color': u'000000',
+    u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png',
+    u'profile_sidebar_fill_color': u'EEEEEE',
+    u'entities': {
+      u'url': {
+        u'urls': [
+          {
+            u'url': u'http://t.co/IaghNW8Xm2',
+            u'indices': [
+              0,
+              22
+            ],
+            u'expanded_url': u'http://www.cnn.com',
+            u'display_url': u'cnn.com'
+          }
+        ]
+      },
+      u'description': {
+        u'urls': [
+          
+        ]
+      }
+    },
+    u'followers_count': 29506416,
+    u'profile_sidebar_border_color': u'000000',
+    u'id_str': u'759251',
+    u'profile_background_color': u'323232',
+    u'listed_count': 120584,
+    u'is_translation_enabled': True,
+    u'utc_offset': -18000,
+    u'statuses_count': 105943,
+    u'description': u'It\u2019s our job to #GoThere and tell the most difficult stories. Come with us!',
+    u'friends_count': 1121,
+    u'location': u'',
+    u'profile_link_color': u'004287',
+    u'profile_image_url': u'http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png',
+    u'following': False,
+    u'geo_enabled': True,
+    u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/759251/1478698521',
+    u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/515228058286952449/zVfUxqPl.jpeg',
+    u'screen_name': u'CNN',
+    u'lang': u'en',
+    u'profile_background_tile': False,
+    u'favourites_count': 1434,
+    u'name': u'CNN',
+    u'notifications': False,
+    u'url': u'http://t.co/IaghNW8Xm2',
+    u'created_at': u'Fri Feb 09 00:35:02 +0000 2007',
+    u'contributors_enabled': False,
+    u'time_zone': u'Eastern Time (US & Canada)',
+    u'protected': False,
+    u'default_profile': False,
+    u'is_translator': False
+  },
+  u'geo': None,
+  u'in_reply_to_user_id_str': None,
+  u'possibly_sensitive': False,
+  u'lang': u'en',
+  u'created_at': u'Mon Nov 14 06:45:01 +0000 2016',
+  u'in_reply_to_status_id_str': None,
+  u'place': None,
+  u'metadata': {
+    u'iso_language_code': u'en',
+    u'result_type': u'recent'
+  }
+}
