@@ -6,6 +6,8 @@ access_token_secret='nTvOhlNytYiiK5O9DJaZnG7gTIAXxee9ANNSSSqt2sceV'
 
 import tweepy
 import time
+import json
+import os
 
 #major_news_outlets = ['CNN','FoxNews','MSNBC','USATODAY','nytimes','wsj','cbsnews']
 
@@ -26,15 +28,55 @@ def limit_handled(cursor):
             return
             #print "Exception: " + e.msg
 
+def make_dir(directory):
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
 def process(unfiltered_json_tweet):
-    f = open("test.txt",'a')
-    f.write(str(unfiltered_json_tweet))
-    f.write("\n")
+    time_stamp = unfiltered_json_tweet["created_at"].split()
+    month = month_to_num(time_stamp[1])
+    day = time_stamp[2]
+    year = time_stamp[5]
+    twitter_account = unfiltered_json_tweet["user"]["screen_name"]
+    #print month,day,year
+    #print twitter_account
+    file_path = twitter_account + "/" + \
+                year + "/" + \
+                month + "/" + \
+                twitter_account + "-" + \
+                year + "-" + month + "-" + day + ".txt"
+
+    make_dir(twitter_account)
+    make_dir(twitter_account + "/" + year)
+    make_dir(twitter_account + "/" + year + "/" + month)
+
+    with open(file_path, 'a') as outfile:
+        json.dump(unfiltered_json_tweet, outfile)
+        outfile.write("\n")
+    #f = open("test.txt",'a')
+    #f.write(str(unfiltered_json_tweet))
+    #f.write("\n")
 
     #return filtered_json_tweet
 
 def save(json_tweet):
     return
+
+def month_to_num(month_abbr):
+    return{
+        "Jan":"1",
+        "Feb":"2",
+        "Mar":"3",
+        "Apr":"4",
+        "May":"5",
+        "Jun":"6",
+        "Jul":"7",
+        "Aug":"8",
+        "Sep":"9",
+        "Oct":"10",
+        "Nov":"11",
+        "Dec":"12"
+    }[month_abbr]
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
