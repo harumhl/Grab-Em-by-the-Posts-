@@ -4,8 +4,8 @@ import datetime
 import csv
 import time
 
-APP_ID="1303950803000918"
-APP_SECRET="0ed9079d51e40ed406168bf199cf7425"
+APP_ID=""
+APP_SECRET=""
 
 ACCESS_TOKEN = APP_ID + "|" + APP_SECRET
 
