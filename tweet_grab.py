@@ -17,16 +17,23 @@ def limit_handled(cursor):
     while True:
         try:
             yield cursor.next()
-        except tweepy.RateLimitError:
+        except tweepy.RateLimitError as e:
+            print type(e)
             print "Waiting..."
-            time.sleep(15 * 60)
-        except tweepy.TweepError:
+            sleep(15)
+        except tweepy.TweepError as e:
+            print type(e)
             print "Waiting..."
-            time.sleep(15 * 60)
+            sleep(15)
         except StopIteration as e:
             print type(e)
-            return
+            #return
             #print "Exception: " + e.msg
+
+def sleep(minutes):
+    for i in range(minutes):
+        print "Sleeping for minute ",i
+        time.sleep(60)
 
 def make_dir(directory):
     if not os.path.exists(directory):
@@ -40,15 +47,17 @@ def process(unfiltered_json_tweet):
     twitter_account = unfiltered_json_tweet["user"]["screen_name"]
     #print month,day,year
     #print twitter_account
-    file_path = twitter_account + "/" + \
+    file_path = "tweets" + "/" + \
+                twitter_account + "/" + \
                 year + "/" + \
                 month + "/" + \
                 twitter_account + "-" + \
                 year + "-" + month + "-" + day + ".txt"
 
-    make_dir(twitter_account)
-    make_dir(twitter_account + "/" + year)
-    make_dir(twitter_account + "/" + year + "/" + month)
+    make_dir("tweets")
+    make_dir("tweets" + "/" + twitter_account)
+    make_dir("tweets" + "/" + twitter_account + "/" + year)
+    make_dir("tweets" + "/" + twitter_account + "/" + year + "/" + month)
 
     with open(file_path, 'a') as outfile:
         json.dump(unfiltered_json_tweet, outfile)
@@ -87,11 +96,18 @@ api = tweepy.API(auth)
 
 #limit_handled(tweepy.Cursor(api.search,q="since:2015-4-12 until:2016-11-14 donald OR trump OR hillary OR clinton from:CNN ")
 
-query_string = "since:2015-4-12 until:2016-11-14 donald OR trump OR hillary OR clinton from:"
+start_date="2016-4-1"
+end_date="2016-11-3"
+
+#Test Start dates
+#start_date="2016-11-14"
+#end_date="2016-11-15"
+
+query_string = "since:" + start_date + " until:" + end_date + " donald OR trump OR hillary OR clinton from:"
 
 for news_outlet in major_news_outlets:
     query_string += news_outlet
-    for tweet in limit_handled(tweepy.Cursor(api.search,q="since:2016-11-10 until:2016-11-14 donald OR trump OR hillary OR clinton from:CNN").items()):
+    for tweet in limit_handled(tweepy.Cursor(api.search,q=query_string).items()):
         print query_string
         #print 'type: ' + str(type(tweet))
         #print tweet._json
