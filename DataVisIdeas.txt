@@ -1,8 +1,33 @@
-Scatter Plot Chart of sentiment over time
+(Highest level)
+----------------------------------------------------------------------------
+Bar graph of number of posts total 
+	Y axis: number of posts
+	X:axis: news stations
+	-Each x will have three bars representing CLinton, Trump, other. 
+	
+Pie chart
+	Showing percentage of posts in regard to Clinton. Trump, other.
 
-Bar graph of sentiment over time
+----------------------------------------------------------------------------
 
-Overall bias - Pie Chart
+Woorcloud
+	Grab all posts within time frame (Ex: debate months)
+	Produce wordcloud on those posts to find the biggest topic at that time
 
+
+
+Boxplot
+	X: each media
+	y: min is neg max is postive
+		range of pos-neg overall (2014-2016) if the box is large that media changes there "bias" over that time frame. if it is small then they usually stick with either "pos" or "neg" posts etc.
+
+
+
+
+(Lowest Level)
+----------------------------------------------------------------------------
+Scatter plot
+	X axis: time
+	Y axis: 
 
 
