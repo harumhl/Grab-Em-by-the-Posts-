@@ -4,14 +4,14 @@ import datetime
 import csv
 import time
 
-APP_ID=""
-APP_SECRET=""
+#APP_ID=""
+#APP_SECRET=""
 
 ACCESS_TOKEN = APP_ID + "|" + APP_SECRET
 
 #page_id = 'nytimes'
 
-RELEVANT_NEWS_SITES = ['cnn','FoxNews','msnbc']
+RELEVANT_NEWS_SITES = ['usatoday','wsj','CBSNews']
 
 WORDS_IN_RELEVNT_STATUSES = ['donald','trump','hillary','clinton','electoral','election','president-elect']
 
@@ -137,7 +137,7 @@ def scrapeFacebookPageFeedStatus(page_id, access_token):
                 day = int(date[2].split()[0])
                 status=status_data[1]
 
-                print year,month,day
+                #print year,month,day
                 #print "status:",status
 
 
