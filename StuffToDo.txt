@@ -1,0 +1,11 @@
+Brandon
+-Look into Data Vis
+-Classifying as Trump Clinton or other
+Carlos
+-Look into Data Visualization
+Jared
+-Combining tweets into Dataframe
+-When done, help Haru with Classification
+-If possible, look into Data Vis
+Haru
+-Continuing work on classification
