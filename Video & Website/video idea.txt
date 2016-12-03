@@ -1,0 +1,37 @@
+Video IDEAS  -- Subject to change as we get more analysis complete
+
+============================================================================================
+
+Introduction:
+- Who are we, what are we doing
+- the question: Does media bias change with major polictical events?
+- Motivation for this project
+	- why does this matter? 
+- what is the conclusion
+
+============================================================================================
+Setup:
+- explain the different news media we wanted to work with (pro-liberal, pro-conservative)
+- explain which news media we decided to work with
+	- why did we pick these?
+
+- explain what data we worked with
+	-why Facebook?
+	-what time frame?
+	-how did we get the data?
+	-how we cleaned it
+	-explain reasoning behind using 3 sentimental categories (pos, neg, neutral)
+
+============================================================================================
+
+Analysis:
+*** I think would be best to show only findings that relate to the conclusion
+- show simple graphs to throw numbers at the audience (# posts each/total, % of pos/neg etc)
+- if we find cool word clouds with more in depth show and explain that
+
+============================================================================================
+
+Key takeaways:
+- repeat question & conclusion
+
+============================================================================================
