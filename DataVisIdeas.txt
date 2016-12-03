@@ -1,8 +1,0 @@
-Scatter Plot Chart of sentiment over time
-
-Bar graph of sentiment over time
-
-Overall bias - Pie Chart
-
-
-
