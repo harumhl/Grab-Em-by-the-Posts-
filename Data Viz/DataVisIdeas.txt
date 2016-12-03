@@ -3,14 +3,20 @@
 Bar graph of number of posts total 
 	Y axis: number of posts
 	X:axis: news stations
-	-Each x will have three bars representing CLinton, Trump, other. 
+	-Each x will have three bars representing Clinton, Trump, other. 
 	
 Pie chart
 	Showing percentage of posts in regard to Clinton. Trump, other.
 
+Pie chart for Trump
+	Showing percentage of Trump posts that are positive, negative, neutral
+
+Pie chart for Clinton
+	Showing percentage of Clinton posts that are positive, negative, neutral
+
 ----------------------------------------------------------------------------
 
-Woorcloud
+Wordcloud
 	Grab all posts within time frame (Ex: debate months)
 	Produce wordcloud on those posts to find the biggest topic at that time
 
