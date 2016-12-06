@@ -1,11 +1,19 @@
 Brandon
--Look into Data Vis
--Classifying as Trump Clinton or other
+- Make Data Viz for Jared’s and Haru’s classification and see which tells “better” story
+- Work on website
+
 Carlos
--Look into Data Visualization
+- Make Data Viz for Jared’s and Haru’s classification and see which tells “better” story
+- Work on website
+- Start working on videos/powerpoint
+
 Jared
--Combining tweets into Dataframe
--When done, help Haru with Classification
--If possible, look into Data Vis
+- Get done with classification (produce classified posts)
+- Get turk accuracy 
+
 Haru
--Continuing work on classification
+- Get done with classification (produce classified posts)
+- Get start with Data viz
+- Try LDA & Data viz
+
+DEADLINE: FRIDAY 9th -> So we can record the video on Saturday
