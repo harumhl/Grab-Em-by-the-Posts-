@@ -1,11 +1,11 @@
 (Highest level)
 ----------------------------------------------------------------------------
-Bar graph of number of posts total 
+(DONE!!)Bar graph of number of posts total 
 	Y axis: number of posts
 	X:axis: news stations
 	-Each x will have three bars representing Clinton, Trump, other. 
 	
-Pie chart
+(DONE!!)Pie chart
 	Showing percentage of posts in regard to Clinton. Trump, other.
 
 Pie chart for Trump
@@ -16,9 +16,15 @@ Pie chart for Clinton
 
 ----------------------------------------------------------------------------
 
-Wordcloud
+Word cloud
 	Grab all posts within time frame (Ex: debate months)
 	Produce wordcloud on those posts to find the biggest topic at that time
+	- Date time frames to look at:
+		- 3 debates —> (Sept 26, 2016 - Oct 19, 2016)
+		- email scandal —>
+		- republican/Democratic conventions —>
+		- “grab em by the pussy” scandal —> (Oct 7, 2016 — Oct 14, 2016)
+		- Trump’s announcement —> (June 6, 2015 - June 13, 2015)
 
 
 
@@ -34,6 +40,13 @@ Boxplot
 ----------------------------------------------------------------------------
 Scatter plot
 	X axis: time
-	Y axis: 
+	Y axis: % of pos posts?
+
+
+
+
+
+
+
 
 
