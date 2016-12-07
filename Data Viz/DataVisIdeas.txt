@@ -38,9 +38,16 @@ Boxplot
 
 (Lowest Level)
 ----------------------------------------------------------------------------
-Scatter plot
+Line chart
 	X axis: time
-	Y axis: % of pos posts?
+	Y axis: % of pos/neg posts over Trump/Clinton
+
+	(brandon)
+	—> VERY Interesting graphs 
+	-> I think from Clinton we can easily see like when the email scandal was big, 
+	-> with trump its pretty much mostly all negative posts. I think it is because of the fact that america still can’t believe what is actually happening and didn’t before
+	-> why does Clinton have a super high point of POS posts around 16-02 and 16-03 what was going on during that time?
+		——> research what happened
 
 
 
