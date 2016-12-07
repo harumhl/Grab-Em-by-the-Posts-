@@ -2,7 +2,7 @@
 0,"Democrats’ poor showing in last week’s elections has begun to shake the party’s foundations on Capitol Hill, triggering a likely challenge to House Minority Leader Nancy Pelosi that risks upending more than a decade of continuity within the House Democratic caucus.",neg
 1,"In a letter to the president-elect, Sen. Elizabeth Warren specifically noted three members of the Trump transition team with ties to Wall Street and “demonstrated records of failure during the 2008 financial crisis” whom she would find unacceptable for top positions: David Malpass,Paul Atkins and Steve Mnuchin.",neg
 2,House Republicans sent a letter on Tuesday to every government agency asking them to halt all rulemaking until President-elect Donald Trump takes office.,neg
-3,"The American Civil Liberties Union says Donald Trump's presidential victory marked a defeat for American rights. But for the ACLU itself, the election is proving to be a winner.",neg
+3,"The American Civil Liberties Union says Donald Trump's presidential victory marked a defeat for American rights. But for the ACLU itself, the election is proving to be a winner.",pos
 4,Ukraine’s President Petro Poroshenko appealed to U.S. President-elect Donald Trump on Tuesday to counter “Russian aggression” against Kiev.,pos
 5,"""This was a conscious effort by a nation state to attempt to achieve a specific effect,"" says NSA chief Admiral Michael S. Rogers of recent actions by WikiLeaks interpreted by many within the intelligence community as an attempt to influence the U.S. presidential election. 
 
@@ -15,10 +15,10 @@ Full coverage of #WSJCEOCouncil http://on.wsj.com/2fTRsqR",pos
 11,"""People didn't vote for Donald Trump so that he could bring a white supremacist into the White House."" 
 —U.S. Senator Elizabeth Warren on Stephen Bannon, ex-chairman of Breitbart News and President-elect Donald Trump's newly appointed chief strategist. 
 
-Follow all of our coverage of #WSJCEOCouncil http://on.wsj.com/2furUnj",pos
+Follow all of our coverage of #WSJCEOCouncil http://on.wsj.com/2furUnj",neg
 12,"America’s European allies are insisting that the West must not compromise on its principles or weaken its support for Ukraine, in response to a call this week between President-Elect Donald Trump and Russian President Vladimir Putin.",neg
 13,Donald Trump will enter the White House with more potential conflicts of interest and less transparency about his finances than any recent president.,neg
-14,"Kellyanne Conway, one of President-elect Donald Trump’s top advisers, scolded the media and bid good riddance to the old Republican order at the WSJ CEO Council gathering on Monday night.",pos
+14,"Kellyanne Conway, one of President-elect Donald Trump’s top advisers, scolded the media and bid good riddance to the old Republican order at the WSJ CEO Council gathering on Monday night.",neg
 15,"The 10-Point: Gerard Baker on today's top news, including day two of WSJ CEO Council, Donald Trump's appointments and more. Sign up here for the daily newsletter: http://on.wsj.com/2gd8ep7",pos
 16,Obama is expected to reassure nervous world leaders of continuity in U.S. alliances and key policies in the wake of Donald Trump’s election victory.,pos
 17,A global selloff in government bonds following Donald J. Trump’s election has boosted yields.,neg
@@ -37,8 +37,8 @@ Follow all of our coverage of #WSJCEOCouncil http://on.wsj.com/2furUnj",pos
 30,Trump spokespeople rushed to defend the president-elect’s pick of Steve Bannon for senior White House strategist.,neg
 31,"Russian President Vladimir Putin spoke by phone on Monday with U.S. President-elect Donald Trump, as the transition to a new administration began in Washington.",neg
 32,"Donald Trump’s appointment of Steve Bannon to an influential White House post drew sharp criticism from Democrats, who cited his news outlet’s incendiary articles about ethnic and religious minorities during his tenure.",neg
-33,"Donald Trump’s election has turned markets topsy-turvy, a boon for Wall Street and day traders alike who can profit from the increased trading volume.",neg
-34,"The presidency is ""bigger than any one person,"" President Obama said in his first news conference since the election.",neg
+33,"Donald Trump’s election has turned markets topsy-turvy, a boon for Wall Street and day traders alike who can profit from the increased trading volume.",pos
+34,"The presidency is ""bigger than any one person,"" President Obama said in his first news conference since the election.",pos
 35,Aides to President-elect Donald Trump are focusing on former New York City Mayor Rudy Giuliani and former U.S. Ambassador to the United Nations John Bolton as the leading candidates to be the next secretary of state.,neg
 36,"Live Coverage: President Obama holds a press conference before departing Washington on his final trip abroad for Europe, and then Peru. His final world tour comes under a cloud of uncertainty regarding America's role on the international stage following Donald Trump's election.",pos
 37,"After Trump's election, markets have run too far, too fast, and are increasingly vulnerable to any slip as a result.",neg
@@ -52,7 +52,7 @@ Sign up here: http://on.wsj.com/2fqJWXr",pos
 44,The planned speech underscores the differences between Theresa May and Donald J. Trump on trade.,neg
 45,"Mark Zuckerberg vigorously defended Facebook against criticism that fake news and misinformation on the social media site may have swayed the outcome of the presidential election, emphasizing his view that Facebook’s role isn’t to be “arbiters of truth.”",neg
 46,Donald Trump campaigned on a promise to resurrect the ailing U.S. coal industry and put miners back to work. Delivering on that vow could prove nearly impossible.,pos
-47,"President-elect Donald Trump’s promised trade tariffs on China would likely hurt U.S. allies Japan and South Korea, which have become increasingly dependent on the Chinese market.",pos
+47,"President-elect Donald Trump’s promised trade tariffs on China would likely hurt U.S. allies Japan and South Korea, which have become increasingly dependent on the Chinese market.",neg
 48,"Investors are selling gold as markets reassess what Donald Trump’s presidency could mean for U.S. economic growth, inflation and interest rates.",neg
 49,"The upset win by Donald Trump was a coup for a tiny data firm called Cambridge Analytica that helped the campaign target ads based on psychological approach, using reams of information about voters harvested from databases, the internet and field operatives.",pos
 50,"Donald Trump’s election victory is seen as a blow to Silicon Valley, putting the presidency in the hands of a vocal critic of several big technology companies and an advocate of policies executives have said could hurt the industry’s development.",neg
@@ -64,7 +64,7 @@ Mr. Trump also named Steve Bannon, who was in consideration for the White House�
 54,U.S. allies in Asia are moving to preserve their security ties to Washington after Donald J. Trump’s victory threatened to overturn the geopolitical landscape.,neg
 55,"Unlike Donald J. Trump’s many other policy promises, his commitment to sanction China for its currency policy has been one of his most explicit.",pos
 56,"“I knew there would be demand for Trump flags after the election, so I made extra. But it’s not enough, so now I have to make more.”",neg
-57,"President-elect Donald J. Trump's transition team is promising to “dismantle” the Dodd-Frank law, the Obama administration’s signature response to the financial crisis.",pos
+57,"President-elect Donald J. Trump's transition team is promising to “dismantle” the Dodd-Frank law, the Obama administration’s signature response to the financial crisis.",neg
 58,"Donald Trump is promising an infrastructure boom once he is sworn in. In some parts of the country, a burst of new construction spending by states and cities is already under way.",pos
 59,"Peggy Noonan writes in WSJ Opinion: ""Donald J. Trump doesn’t know how to be president. There’s little reason to believe he knows how to do this. The next president needs you. This is our country. Help him.""",neg
 60,"“Obama tried to do well, and it didn’t turn out how we thought.”
@@ -73,19 +73,19 @@ Meet the places and people that delivered the presidency to Donald Trump",neg
 62,"For the world, Donald J. Trump’s victory portends a profoundly new geopolitical climate.",neg
 63,"""In office, Donald J. Trump will discover an enduring reality, as his predecessors did: No global problem can be solved without China’s help, and America can only prosper if China does.""",neg
 64,"Donald Trump’s election to the U.S. presidency has upended global markets as it has altered basic assumptions on policies and growth. Here, in nine charts, are some ways the investing world has changed since Tuesday.",neg
-65,"President-elect Donald Trump campaigned on his status as an outsider who was not beholden to lobbyists or special interests, with “Drain the swamp!” as a frequent rallying cry at his events. Now, the Republican is tapping a slew of lobbyists and top donors to head his transition team.",pos
+65,"President-elect Donald Trump campaigned on his status as an outsider who was not beholden to lobbyists or special interests, with “Drain the swamp!” as a frequent rallying cry at his events. Now, the Republican is tapping a slew of lobbyists and top donors to head his transition team.",neg
 66,"The clearest precedent for Trump is the anti-elite, big-government conservatism of Nixon.",neg
 67,"After a campaign fueled by promises to eliminate the Affordable Care Act, President-elect Donald Trump has told the Wall Street Journal in an exclusive interview that he is open to keeping parts of it in tact.",neg
 68,"New Jersey Gov. Chris Christie was removed as transition chairman on Friday, a position that will now be filled by Vice President-elect Mike Pence.",neg
 69,"Donald Trump’s proposal to devote $1 trillion to new infrastructure construction relies entirely on private financing, which industry experts say is likely to fall far short of adequately funding improvements to roads, bridges and airports.",neg
 70,"Donald Trump is poised inherit one of the longest-lived economic expansions since the World War II era. Barring any shock or sudden acceleration, the president-elect will also will take office during the weakest.",pos
 71,"“I would say ‘Hello’ and ‘How can I help you’,” said Gabriele Riede, a bakery saleswoman in Donald Trump's ancestral town. “But he certainly would have to pay like everyone else.”",pos
-72,Trump's Wall Street policy guru: his “basic judgments are questioning regulation and being very pro” deregulation.,neg
+72,Trump's Wall Street policy guru: his “basic judgments are questioning regulation and being very pro” deregulation.,pos
 73,"As much of the world pondered the implications of a Donald Trump presidency, China dived headlong into a day of unabashed consumerism.",neg
 74,"New Balance publicly backed President-elect Donald Trump over his stance on the Trans-Pacific Partnership, sparking controversy on social media with hundreds of users posting photos of sneakers thrown in the trash and even set on fire.",neg
 75,"In today's 10-Point, take a look at Trump's transition team, holiday spending forecasts, and the  difference between a ""modern"" home and a ""contemporary"" one (hint: it's not just style, but price tag).",pos
 76,"If 'hair of the dog' seems like the worst solution to your election hangover, perhaps try a TV show with an alternate reality, some Leonard Cohen music, or an adult coloring book this weekend.",neg
-77,"Even after President-elect Donald Trump takes the oath of office in January, he will have to face a number of private lawsuits across the country.",pos
+77,"Even after President-elect Donald Trump takes the oath of office in January, he will have to face a number of private lawsuits across the country.",neg
 78,"Donald Trump could pull the U.S. out of the nuclear deal with Iran once in office, but convincing powers in Europe and Russia to follow would be a challenge.",neg
 79,Donald J. Trump’s mercurial statements are making Europe gauge three possible scenarios.,neg
 80,Investors are now asking whether Donald J. Trump’s victory marks a turning point for fixed-income markets that have been on a lengthy bull run.,pos
@@ -105,23 +105,23 @@ How broken economic promises, disillusionment with globalization, missteps by th
 92,"President-elect Donald Trump is headed to Washington while involved in an array of private lawsuits around the country, cases that could be a distraction during his ascent to the White House.",neg
 93,"Analysts predicted a collapse in global share prices in the event of a Donald Trump victory. They were wrong, and now they are asking why.",neg
 94,"Donald Trump's election was an expression of voter angst that heralded a new type of populism. For Silicon Valley, it also marked the ascension of a vision starkly at odds with its own.",neg
-95,"Trade, even more than immigration, may have hit home with Donald Trump's supporters.",neg
+95,"Trade, even more than immigration, may have hit home with Donald Trump's supporters.",pos
 96,"Rep. Jeb Hensarling, head of House Financial Services committee, is being weighed as Trump's Treasury secretary.",neg
 97,President Obama said it was his priority “to facilitate a transition that ensures our president-elect is successful.”,pos
 98,Donald J. Trump said he respects Obama and will seek his counsel while in office.,neg
 99,"The lesson from Trump's victory to U.S. allies in the Middle East is that it's time to fend for themselves, writes Yaroslav Trofimov",pos
-100,Live Coverage: President Obama and President-elect Donald J. Trump meet at the White House.,pos
+100,Live Coverage: President Obama and President-elect Donald J. Trump meet at the White House.,neg
 101,Apple CEO Tim Cook told employees the outcome of the U.S. election won’t shake the company’s core beliefs.,pos
 102,"“There was communication,” Sergei Ryabkov told Interfax. “Naturally, we are continuing this work even after the elections.”",neg
 103,"AEI President Arthur Brooks writes in WSJ Opinion: With Donald Trump, many voters heard a promise to work hard at restoring Americans’ dignity by bringing back jobs and striking back at the cultural elites who disdain them.",pos
 104,Kim Guadagno would become New Jersey’s governor if Chris Christie resigns to join the Trump administration.,pos
 105,"Anxieties over a Trump presidency are high in a region where Beijing’s sway is growing, North Korea is advancing a nuclear weapons program and terrorists threaten​Southeast Asia.",pos
-106,President-elect Donald Trump supposedly doesn’t care about Wall Street. It is ironic then that the world’s biggest banks are rallying on his victory.,pos
+106,President-elect Donald Trump supposedly doesn’t care about Wall Street. It is ironic then that the world’s biggest banks are rallying on his victory.,neg
 107,Protests against Donald Trump continued in several cities nationwide as thousands of demonstrators flooded onto the streets.,neg
 108,What questions do you have on how stocks have reacted to Donald J. Trump's victory? The Wall Street Journal's Jon Sindreu and Riva Gold make sense of the markets. Post your questions in the comments below.,pos
 109,What questions do you have on how stocks have reacted to Donald J. Trump's victory? The Wall Street Journal's Jon Sindreu and Riva Gold make sense of the markets. Post your questions in the comments below.,pos
 110,"Early in the campaign, Donald J. Trump called himself a ""low-interest rates person,"" but by the end he was warning of the danger of low rates.",neg
-111,Some of those who anticipated a Donald J. Trump presidency stand to profit from the market’s reaction to his election.,neg
+111,Some of those who anticipated a Donald J. Trump presidency stand to profit from the market’s reaction to his election.,pos
 112,"Protests erupt following Trump's victory. Find out what the result means for ""Obamacare,"" global trade, NATO and more.",neg
 113,A snapshot of how Donald J. Trump's win played out in South Asia.,pos
 114,Donald Trump won about 67% of voters in counties where the diversity index rose by 150% or more.,pos
@@ -158,14 +158,14 @@ How broken economic promises, disillusionment with globalization, missteps by th
 143,President-elect Donald Trump’s election night focus on boosting domestic infrastructure spending drove a rally in construction-related stocks Wednesday despite uncertainty over the incoming administration’s specific funding plans and priorities.,neg
 144,European populists seized on Donald Trump’s election Wednesday as evidence of a sea change that will help sweep away the continent’s political establishment and carry them to power.,neg
 145,"Donald Trump’s election victory is seen as a blow to Silicon Valley, putting the presidency in the hands of a vocal critic of several big technology companies and an advocate of policies executives have said could hurt the industry’s development.",neg
-146,"President Barack Obama said he is rooting for the success of President-elect Donald Trump, despite campaigning aggressively against him, and that his successor struck a unifying tone in their conversation early Wednesday.",pos
+146,"President Barack Obama said he is rooting for the success of President-elect Donald Trump, despite campaigning aggressively against him, and that his successor struck a unifying tone in their conversation early Wednesday.",neg
 147,"House Speaker Paul Ryan struck a positive tone toward President-elect Donald J. Trump, saying a united Republican Party will stand together after Mr. Trump’s stunning election victory.",pos
 148,"Democratic Presidential Nominee Hillary Clinton spoke directly to women and girls in her concession speech, urging them to pursue their dreams. Full story: http://on.wsj.com/2fE0R5J",pos
 149,What questions do you have about the results of the 2016 election and the transition to president-elect Donald Trump? Post your questions in the comments below.,pos
 150,What questions do you have about the results of the 2016 election and the transition to president-elect Donald Trump? Post your questions in the comments below.,pos
 151,"Hillary Clinton’s defeat for the presidency Tuesday was a crushing loss for her, marking what could be the final act in a four-decade public life dedicated to challenging expectations of the role of women.",neg
 152,"Hillary Clinton publicly conceded her loss to Donald J. Trump, calling on the country to look to the future and saying that losing was painful.",neg
-153,Live: President Obama is making his first public remarks since the end of a hard-fought election.,pos
+153,Live: President Obama is making his first public remarks since the end of a hard-fought election.,neg
 154,"Peter Thiel, one of the tech industry’s shrewdest investors, won the longest-shot bet of his career Tuesday when Donald Trump clinched a stunning and unexpected victory.",pos
 155,"President-elect Donald Trump will likely get the chance to fill the Supreme Court vacancy created by the death of Justice Antonin Scalia, and could have the chance to tilt the balance of the court more solidly conservative for decades if other justices retire.",pos
 156,"Donald J. Trump, with his brash talk and celebrity zeitgeist, tapped into a yearning for change among a significant swath of the American public. That change message was the most powerful force of 2016, and overcame a troubled campaign.",neg
@@ -248,7 +248,7 @@ Mr. McCain, 80 years old, won with 52.9% of the vote, compared with 41.6% for Ms
 220,Donald J. Trump ended his presidential bid the same way he started it nearly 19 months ago: with an overtly nationalist message and the swagger of a New York City billionaire.,neg
 221,"Borrowing a line from one of Bon Jovi’s hit songs, Hillary Clinton told an energized crowd in an arena at North Carolina State University that by the time the polls close on Tuesday “we are going to be livin’ on a prayer.”",pos
 222,"Politics and banks are a toxic mix, as the U.S. election has made plain.",pos
-223,"While a Trump victory would cause market uncertainty, investors aren’t sure what the fallout from a Clinton victory would look like.",neg
+223,"While a Trump victory would cause market uncertainty, investors aren’t sure what the fallout from a Clinton victory would look like.",pos
 224,Election Day 2016 is set to be a cliffhanger like nothing onstage. We asked prominent theater professionals how to get a mental escape from the anxiety.,pos
 225,"Hillary Clinton and Donald J. Trump crisscrossed the presidential battlefield on Monday in a final effort to maximize turnout from their supporters on Election Day, providing a frantic close to an already volatile race.",pos
 226,"Hundreds of people have been arrested or cited at campaign events and party conventions this year, underscoring a divisive election cycle with two unpopular main-party nominees.",neg
@@ -268,7 +268,7 @@ Mr. McCain, 80 years old, won with 52.9% of the vote, compared with 41.6% for Ms
 Sign up here: http://on.wsj.com/2eF5M8M",neg
 240,"For anxious election-watchers on Tuesday evening, early returns from several East Coast states will offer clues to how the night might unfold. Here are some of the first states to watch as results come in.",neg
 241,"Janet Reno, the first woman to serve as U.S. Attorney General and the epicenter of several political storms during the Clinton administration, has died.",pos
-242,"Do presidential elections, investors want to know, offer any investment angle?",pos
+242,"Do presidential elections, investors want to know, offer any investment angle?",neg
 243,"Investors are unusually nervous about Tuesday’s election, but markets have been unusually calm. It’s a situation that, one way or the other, will rapidly resolve itself.",neg
 244,"No weapon was found after Donald J. Trump was rushed off a stage at a Nevada rally Saturday night, the Secret Service said. The rally halted for about 10 minutes when a man was tackled by armed guards and taken out of the convention hall. An unidentified individual in front of the stage had shouted ‘gun,’ the Secret Service said.",pos
 245,"With days before the election, Hillary Clinton has several apparent paths to the White House, while Donald J. Trump must sweep battleground states and seize at least one Democratic-leaning state.",pos
@@ -313,7 +313,7 @@ Sign up here: http://on.wsj.com/2eF5M8M",neg
 282,Lunch Break with Tanya Rivero:  Jon Hilsenrath has analysis of the October jobs report. What does history say how the Dow will perform in the 12 months following Tuesdays' election? The Rolling Stones memorabilia goes on sale for the first time at a New York gallery.,neg
 283,"Trump on Putin, Obama on hope, and Melania on respectful civil discourse.",neg
 284,Fast-food fight erupts after Florence city fathers give no lovin' to proposed new McDonald's near Duomo,pos
-285,What do Donald J. Trump and Hillary Clinton have in common? A Macau billionaire accused of bribery and of being a Chinese government front.,pos
+285,What do Donald J. Trump and Hillary Clinton have in common? A Macau billionaire accused of bribery and of being a Chinese government front.,neg
 286,"The S&P 500 recorded its longest stretch of declines since the financial crisis, as investors dialed back on risk in the run-up to next week’s U.S. presidential election.",neg
 287,"Donald J. Trump, Hillary Clinton and all of their surrogates fanned out across the battleground states on Thursday with the same mission: to energize and turn out their voters in the presidential election.",pos
 288,"Melania Trump called for more-civil public discourse and condemned the “bad side” of social media, in a rare public speech on behalf of husband Donald J. Trump, the Republican presidential nominee whose brash use of put-downs at rallies and on Twitter has been a staple of the campaign.",neg
@@ -351,7 +351,7 @@ Agents, using informants and recordings from unrelated corruption investigations
 318,The polarized 2016 presidential campaign has some hosts devising strategies to keep their election watch parties civil.,neg
 319,"A cultural shift in the Midwest appears to be driving the immigration debate and moving the political needle. That shift helps explain the emergence of presidential nominee Donald J. Trump as a political force, and signals that tensions over immigration will likely outlive his candidacy.",pos
 320,"Lunch Break with Tanya Rivero:  Hillary Clinton and Donald J. Trump's deep divide in naming potential Supreme Court nominees. Amazon.com and Netflix taking different paths to grow business in India. Meet WSJ's Steve Russolillo, who recently donated a kidney to his mother-in-law.",pos
-321,"House Speaker Paul Ryan voted early in his home state of Wisconsin for Donald Trump, he said on Tuesday, declaring the need to ""support our entire ticket"" while maintaining his primary role in the campaign would be to keep Republicans in charge of Congress.",neg
+321,"House Speaker Paul Ryan voted early in his home state of Wisconsin for Donald Trump, he said on Tuesday, declaring the need to ""support our entire ticket"" while maintaining his primary role in the campaign would be to keep Republicans in charge of Congress.",pos
 322,"It was a special Halloween episode of Full Frontal with Samantha Bee on Monday night, as the host sat down with President Obama to talk about the increasingly heated presidential election",pos
 323,"The 10-Point: Gerard Baker on today's top news, including email fallout for Clinton, Affordable Care Act blues and more.",neg
 324,"When Hillary Clinton and Donald Trump describe their ideal Supreme Court justice, they lay out strikingly different visions of how American law may develop for years to come after Election Day.",neg
@@ -419,7 +419,7 @@ Now with Ms. Abedin again part of unwelcome attention, even some Democrats are w
 384,"Donald J. Trump, who has seen the Republican establishment’s support for his presidential candidacy deteriorate in recent weeks, has found a stalwart in one conservative institution: the National Rifle Association.",neg
 385,"Former Republican Secretary of State Colin Powell  said that he would vote for Hillary Clinton, setting aside a disagreement between the two arising from her use of a private email server.",neg
 386,Some policy experts say Hillary Clinton’s free-state-college plan would deliver hundreds of billions of additional dollars to schools without a clear strategy to ensure they spend it wisely and keep costs in check.,neg
-387,"Donald J. Trump  on Tuesday suggested his resort employees are being harmed by President Obama's health care law, before reversing himself later in the morning.",neg
+387,"Donald J. Trump  on Tuesday suggested his resort employees are being harmed by President Obama's health care law, before reversing himself later in the morning.",pos
 388,"Increasingly, the Clinton campaign’s strategy – and even some of its surrogates’ rhetoric – belie a growing belief that it's not a question of if Democrats win but by how much.",neg
 389,"Jens Stoltenberg, head of the North Atlantic Treaty Organization, has rebutted claims by Republican Presidential Nominee Donald Trump that spending has increased in response to his criticism.",pos
 390,“The fact that yet another State Department official took the Fifth highlights the disturbing implication that criminal acts took place related to the Clinton email and our Freedom of Information Act requests.”,neg
@@ -446,7 +446,7 @@ Now with Ms. Abedin again part of unwelcome attention, even some Democrats are w
 411,"Lunch Break with Tanya Rivero:  Election 2016 is siphoning off audiences from TV, movies and publishing. The Macallan's new double-cask, single-malt Scotch.",neg
 412,"Political dynamics in the U.S. and China are very different, but vulnerable workers in both countries are feeling the pinch as industry moves elsewhere. Their insecurity drives both the “China Dream” of Chinese President Xi Jinping and Donald Trump ’s mantra of “Make America Great Again,” and it is echoed in the platforms of populist politicians across Europe.",pos
 413,"Last night at the Alfred E. Smith Gala, Donald Trump took a lighthearted jab at media bias—and his wife's speech at the Republican National Convention earlier this year.",neg
-414,Republican nominee Donald Trump would break with tradition if Democratic nominee Hillary Clinton were to win November’s election and he refused to concede defeat. Here's a look at past concession speeches.,pos
+414,Republican nominee Donald Trump would break with tradition if Democratic nominee Hillary Clinton were to win November’s election and he refused to concede defeat. Here's a look at past concession speeches.,neg
 415,China's government trumpets its commitment to rule of law. Here's how it compares to the rest of the world.,pos
 416,Republican nominee Donald J. Trump said he would accept the results—‘If I win’,neg
 417,Donald J. Trump says his reluctance to accept an election loss is like Al Gore's fight over the 2000 presidential election. Yet there are striking differences in the two cases.,neg
@@ -460,11 +460,11 @@ Now with Ms. Abedin again part of unwelcome attention, even some Democrats are w
 425,Live with Tanya Rivero:  Takeaways from Wednesday's debate between Donald J. Trump and Hillary Clinton. Wine from an Italian prison. How to best care for your houseplants in winter.,pos
 426,"Republican presidential nominee Donald J. Trump's campaign manager defended his refusal to say whether he'd concede the election if he loses to his Democratic opponent, Hillary Clinton.",neg
 427,"Some governments in the Middle East find solace in Donald J. Trump’s reluctance to criticize human-rights abroad, writes Yaroslav Trofimov.",pos
-428,"Donald J. Trump and Hillary Clinton, in their final debate on Wednesday, offered a vision of what America would look like — if the other were elected. How grim did they get? WSJ’s Jason Bellini has #TheShortAnswer.",pos
+428,"Donald J. Trump and Hillary Clinton, in their final debate on Wednesday, offered a vision of what America would look like — if the other were elected. How grim did they get? WSJ’s Jason Bellini has #TheShortAnswer.",neg
 429,"The 10-Point: Gerard Baker on today's top news, including Donald J. Trump election ""suspense,"" the Saudi bond sale and more.",pos
 430,"Here are top takeaways from the third and final debate between Donald J. Trump and Hillary Clinton.
 
-1. Mrs. Clinton attacked her opponent’s character. Mr. Trump challenged his opponent’s effectiveness.",pos
+1. Mrs. Clinton attacked her opponent’s character. Mr. Trump challenged his opponent’s effectiveness.",neg
 431,"With the hacking of Hillary Clinton’s campaign and the Democratic National Committee, U.S. officials say Russia has unleashed a strengthened cyberwarfare weapon to sow uncertainty about the U.S. democratic process.",neg
 432,"Donald J. Trump called Hillary Clinton ""such a nasty woman"" while Clinton was discussing entitlement reform during the final presidential debate.",neg
 433,"""I will look at it at the time,"" said Donald J. Trump on whether he will accept the 2016 election result.",neg
@@ -511,7 +511,7 @@ Now with Ms. Abedin again part of unwelcome attention, even some Democrats are w
 474,"Donald J. Trump on Sunday intensified his charge that November’s election is rigged against him by media bias and malfeasance at the ballot box, after his running mate, Mike Pence, tried to temper the nominee’s rhetoric.",neg
 475,"President Obama delivered a fusillade against Donald Trump on Friday, seeking to hold the Republican Party to account for the words and actions of the party’s presidential standard-bearer.",pos
 476,Slowing world trade growth and unruly politics from Brexit to the U.S. presidential election have some money managers worried that a slowdown in globalization could be the next big drag on stocks.,neg
-477,More senior executives are expected to say they are leaving McDonald’s Corp. this week as the burger giant reshapes its leadership team in an apparent effort to turn around sales.,pos
+477,More senior executives are expected to say they are leaving McDonald’s Corp. this week as the burger giant reshapes its leadership team in an apparent effort to turn around sales.,neg
 478,"Vice presidential nominee Republican Mike Pence painted hacked emails released by WikiLeaks as a sign donors got access to Hillary Clinton on Sunday, while Democrat Tim Kaine said Donald Trump was ""going a bit wild"" because he lost the most recent presidential debate.",neg
 479,"Hillary Clinton has pulled farther ahead of Donald Trump in the final stretch of the campaign, and she is closing the gap on key economic issues. WSJ's Shelby Holliday reports on the latest WSJ/NBC News national poll.",pos
 480,"Voter unease with Donald Trump doesn't appear to be producing backlash against his party’s congressional candidates, a new Wall Street Journal/NBC News poll finds.",pos
@@ -520,19 +520,19 @@ Now with Ms. Abedin again part of unwelcome attention, even some Democrats are w
 483,Alec Baldwin and Kate McKinnon continued their run playing Donald Trump and Hillary Clinton.,neg
 484,"In what appear to be transcripts of her comments at paid talks in 2013, Hillary Clinton spoke about the importance of free trade and sounded a skeptical note about financial regulation.",neg
 485,The gap between Donald J. Trump's campaign cash and Hillary Clinton's has widened.,neg
-486,Donald J. Trump said Hillary Clinton is getting “pumped up” before Wednesday’s presidential debate and suggested the candidates should be drug-tested before it takes place.,pos
-487,The clearest dividing line in this year’s presidential election now falls along educational lines: Whites without a college degree have consolidated behind Donald J. Trump and those with a four-year degree are tending to back Hillary Clinton.,pos
+486,Donald J. Trump said Hillary Clinton is getting “pumped up” before Wednesday’s presidential debate and suggested the candidates should be drug-tested before it takes place.,neg
+487,The clearest dividing line in this year’s presidential election now falls along educational lines: Whites without a college degree have consolidated behind Donald J. Trump and those with a four-year degree are tending to back Hillary Clinton.,neg
 488,"Hacked emails posted by WikiLeaks suggest that Hillary Clinton's team sees Bill Clinton as a major asset, but the former president's role has also caused headaches.",neg
 489,A supporter at a Donald Trump rally suggested resistance to Hillary Clinton could turn violent.,neg
 490,A former contestant on “The Apprentice” said Donald J. Trump forced himself on her at a meeting at a hotel in 2007.,neg
-491,"Amid what is arguably one of the most heated and divisive presidential elections in U.S. history, Google is adding a “fact check” label to myth-busting stories that appear in Google News search results.",pos
+491,"Amid what is arguably one of the most heated and divisive presidential elections in U.S. history, Google is adding a “fact check” label to myth-busting stories that appear in Google News search results.",neg
 492,"Donald Trump rejected fresh claims by women of past sexual misconduct, saying one of his accusers wouldn’t have been his “first choice” based on her attractiveness, and blamed the allegations on a media conspiracy that included Mexican billionaire Carlos Slim.",neg
 493,"Email damage control, controversies, UFOs, risotto—the Clinton campaign hack runs the gamut.",neg
 494,"Donald Trump has made revitalizing the U.S. steel industry one of his main focuses in stump speeches.  Unions and contractors, though, say that Trump-branded structures for years have used large quantities of imported steel and that Mr. Trump appears to have no record of preferring U.S.-made steel for projects that bear his name.",neg
 495,"NBC is struggling to regain its footing after a misfire on a story about Donald Trump’s vulgar comments about women, and how it came across the footage, with its news group and ‘Access Hollywood’ pointing fingers at one another.",pos
 496,"""As Trump is openly calling for the pullout of U.S. troops from South Korea, the country’s security is like a candle facing a storm.”",pos
 497,"Donald J. Trump took a defiant stance on the campaign trail Thursday, angrily denying the latest allegations of sexual misconduct amid fresh poll results that indicate his already narrow path to the White House is constricting.",pos
-498,The clearest dividing line in this year’s presidential election now falls along educational lines: Whites without a college degree have consolidated behind Donald J. Trump and those with a four-year degree are tending to back Hillary Clinton.,pos
+498,The clearest dividing line in this year’s presidential election now falls along educational lines: Whites without a college degree have consolidated behind Donald J. Trump and those with a four-year degree are tending to back Hillary Clinton.,neg
 499,Newly released emails show Hillary Clinton’s advisers and allies prodding the former secretary of state to apologize for using a private email server and acknowledging her reluctance to admit mistakes.,neg
 500,"The Obama administration is planning to use TV ads and direct mail to boost participation in the Affordable Care Act’s exchanges in the coming open-enrollment period, but its timing will mean fighting for attention amid the noise of the election.",neg
 501,"In a defiant speech at a Clinton campaign event in New Hampshire on Thursday, First Lady Michelle Obama denounced Republican presidential candidate Donald Trump over his lewd comments in a 2005 video about aggressively groping women.",neg
@@ -600,7 +600,7 @@ It isn’t clear whether Mr. Podesta responded to the messages.",neg
 559,"In the second presidential debate, a member of the audience asked Hillary Clinton and Donald J. Trump an unexpected question: Name something about your opponent you respect.",pos
 560,"Donald J. Trump entered Sunday night’s debate both lacerated and liberated, writes Gerald F. Seib.",pos
 561,Our fact check of the second presidential debate between Donald J. Trump and Hillary Clinton.,neg
-562,"Donald J. Trump dismisses his running mate: “He and I haven’t spoken, and I disagree.” Recap of the second presidential debate: http://on.wsj.com/2dYRHW2",pos
+562,"Donald J. Trump dismisses his running mate: “He and I haven’t spoken, and I disagree.” Recap of the second presidential debate: http://on.wsj.com/2dYRHW2",neg
 563,"In the second presidential debate, Donald J. Trump responded to a question about a video from 2005 in which he made lewd remarks: ""That was locker room talk.""",neg
 564,One of Donald J. Trump’s most influential conservative Christian backers pulled his endorsement on Sunday.,neg
 565,Top Democrats on Sunday questioned the authenticity of leaked messages purporting to show Hillary Clinton speaking favorably about trade and banks.,neg
@@ -675,7 +675,7 @@ The unusual performance opens with the U2 band in front of a wall-sized video sc
 630,Ecuador’s ruling Alianza Pais party has selected former vice president Lenín Moreno as its candidate in next year’s election to succeed President Rafael Correa.,neg
 631,"Donald J. Trump told his supporters that U.S. tax laws are unfair, even though he had ""brilliantly” used those rules to his benefit.",neg
 632,Women hold the spotlight this week at the New York Film Festival. Several selections have female-driven narratives and commanding performances.,neg
-633,"Donald J. Trump sought to counter the release of some of his tax records by arguing that laws that have benefited him and his business are unfair, while Hillary Clinton mocked her rival’s business acumen and accused him of exploiting the tax system.",pos
+633,"Donald J. Trump sought to counter the release of some of his tax records by arguing that laws that have benefited him and his business are unfair, while Hillary Clinton mocked her rival’s business acumen and accused him of exploiting the tax system.",neg
 634,Hillary Clinton mocked rival Donald Trump's business acumen Monday and said he was getting a free ride on the backs of tax-paying working people.,pos
 635,"New York Attorney General Eric Schneiderman issued a notice to Republican presidential nominee Donald Trump’s charity organization to cease and desist from soliciting contributions in New York, following a probe.",neg
 636,"Republican presidential nominee Donald Trump keeps getting pulled off course, writes Gerald F. Seib. Here are some reasons why.",pos
@@ -700,7 +700,7 @@ The unusual performance opens with the U2 band in front of a wall-sized video sc
 655,"When Donald J. Trump's casino company was facing a civil fraud investigation over its accounting practices, the New York businessman asked the SEC to show mercy because of the Sept. 11, 2001, terrorist attacks.",neg
 656,Donald J. Trump traveled to New Hampshire for the sixth time since mid-June in a determined drive for the state’s tiny cache of four electoral votes.,neg
 657,"If Donald Trump wins Ohio, it may be because of the groundwork laid by Rob Portman, the state’s Republican senator who avoided the stage, the presidential nominee and the spotlight during the Republican Party’s Cleveland convention in July.",pos
-658,"Spending on political advertising on local broadcast television in 2016 is expected to reach $2.8 billion, about $300 million less than what was spent in 2012—a result of the Trump campaign’s strategy.",neg
+658,"Spending on political advertising on local broadcast television in 2016 is expected to reach $2.8 billion, about $300 million less than what was spent in 2012—a result of the Trump campaign’s strategy.",pos
 659,"Celestial prognosticators use candidates’ exact birth times for election analysis, and Hillary Clinton’s isn’t known, which presents a problem.",neg
 660,"After praising Lester Holt immediately after Monday's presidential debate, Republican candidate Donald J. Trump said the NBC News anchor ""badgered"" him and wasn't as tough on Hillary Clinton.",pos
 661,"The more missteps Gary Johnson makes, the more likely it becomes that his supporters will migrate to Donald Trump or Hillary Clinton and affect the very close contest between the major-party candidates.",neg
@@ -738,8 +738,8 @@ The unusual performance opens with the U2 band in front of a wall-sized video sc
 693,It took but a few minutes into Monday night’s presidential debate for Hillary Clinton and Donald J. Trump to distill the essence of the case they are making for taking over the White House. And they did so in no uncertain terms.,neg
 694,Donald J. Trump reignites old debate: Does China gain an unfair trade advantage by manipulating the yuan?,pos
 695,"Clinton and Trump attacked each other on the economy, debt and even climate change.",neg
-696,"In the first of three debates, Hillary Clinton and Donald J. Trump offered dramatically different visions of how they would strengthen the economy and lead the country.",neg
-697,Join us for live analysis as Hillary Clinton and Donald J. Trump face off in the first presidential debate:,neg
+696,"In the first of three debates, Hillary Clinton and Donald J. Trump offered dramatically different visions of how they would strengthen the economy and lead the country.",pos
+697,Join us for live analysis as Hillary Clinton and Donald J. Trump face off in the first presidential debate:,pos
 698,"Hillary Clinton and Donald J. Trump are hoping to use the debate to build support among voters who have resisted their candidacies—young people in the Democratic nominee’s case, and suburban swing voters for her Republican rival.",pos
 699,What questions do you have about the debate between Donald Trump and Hillary Clinton? Reporters Beth Reinhard and Laura Meckler are answering them now.,pos
 700,"Leading a nation through disaster calls for honesty, calmness and resolve, writes Tevi Troy in WSJ Opinion. Trump and Clinton have flaws, but also strengths.",neg
@@ -765,7 +765,7 @@ The unusual performance opens with the U2 band in front of a wall-sized video sc
 720,"Hillary Clinton wins 65% support among Hispanic likely voters, compared with Donald Trump’s 17%.",pos
 721,"Donald J. Trump, who often expresses solidarity with law enforcement, said he was troubled by the shooting of Terence Crutcher in Tulsa, and that he couldn't understand why the police officer decided to shoot.",neg
 722,"Gary Johnson and Jill Stein have shown remarkably durable support in polls, complicating the electoral math for the two major party candidates.",pos
-723,"Hillary Clinton has a 6-point edge over Donald Trump, despite her recent setbacks, a new Wall Street Journal/NBC News poll has found.",pos
+723,"Hillary Clinton has a 6-point edge over Donald Trump, despite her recent setbacks, a new Wall Street Journal/NBC News poll has found.",neg
 724,Results of the latest WSJ/NBC News poll suggest that the Donald Trump and Hillary Clinton's biggest vulnerabilities are issues with deeper roots than some of the latest campaign-trail attacks making headlines.,pos
 725,"The 10-Point: Gerard Baker on Wells Fargo, the N.Y. bombing suspect, Clinton foundation and more http://on.wsj.com/2couOtn",neg
 726,"“There’s a tradition in Russia of interfering with elections, their own and others.”",neg
@@ -785,7 +785,7 @@ The unusual performance opens with the U2 band in front of a wall-sized video sc
 740,"""While Clinton’s stated trade policy would be harmful, Trump’s state trade policy would be horribly destructive.""",neg
 741,"President Vladimir Putin declared victory after Russians voted in a new parliament that maintains his ruling party’s dominance, although election turnout plummeted to a historical low.",neg
 742,"Hillary Clinton isn’t banking on winning pockets of Pennsylvania and Ohio packed with white, working class voters flocking to Republican Donald J. Trump. She just wants to avoid a wipeout.",pos
-743,Donald J. Trump is unfurling new policies that would pour tens of billions of federal dollars across the landscape of American life.,neg
+743,Donald J. Trump is unfurling new policies that would pour tens of billions of federal dollars across the landscape of American life.,pos
 744,"Speaking from the campaign trail, Hillary Clinton and Donald Trump responded to the explosion that took place Saturday night in New York City's Chelsea neighborhood.",neg
 745,"Donald J. Trump gets strong support where churches, civic groups and safety net are in trouble.",pos
 746,Peggy Noonan writes in WSJ Opinion: Voters have the impression Hillary Clinton isn’t trustworthy. She’s been reinforcing it since 1993.,neg
@@ -811,7 +811,7 @@ The unusual performance opens with the U2 band in front of a wall-sized video sc
 766,"Hillary Clinton's campaign released additional medical information about the Democratic presidential nominee Wednesday, disclosing more details about her pneumonia diagnosis and her overall health.",neg
 767,"Donald Trump, who would be the oldest president ever sworn in to a first term, shows Dr. Oz some health documents, but doesn't release them publicly.",neg
 768,Melania Trump released a letter from an immigration lawyer attesting to the fact that she never lived or worked illegally in the U.S. before marrying Donald Trump.,neg
-769,Austria's presidential-ballot problems have baffled its own forensic experts. Special envelopes designed to hold mail-in ballots for the Oct. 2 runoff presidential election are rimmed with a glue that should seal them tight. But it is mysteriously malfunctioning.,pos
+769,Austria's presidential-ballot problems have baffled its own forensic experts. Special envelopes designed to hold mail-in ballots for the Oct. 2 runoff presidential election are rimmed with a glue that should seal them tight. But it is mysteriously malfunctioning.,neg
 770,"Ivanka Trump, daughter of Donald Trump, writes in WSJ Opinion that her father wants to empower working and stay-at-home parents and give families freedom of choice in child care.
 
 The Trump plan will help working mothers, writes Ivanka Trump in WSJ Opinion.",pos
@@ -830,7 +830,7 @@ The Trump plan will help working mothers, writes Ivanka Trump in WSJ Opinion.",p
 783,"The 10-Point: Gerard Baker on today's top news, including how U.S. Federal Reserve officials may go on short-term interest rates,  Hillary Clinton's latest campaign strategy and more.",neg
 784,"Hillary Clinton’s reluctance to reveal her pneumonia diagnosis has reignited a debate over transparency and the public trust, raising the question: What do voters deserve to know, and how soon do they need to know it?",pos
 785,"Muslims make up only about 1% of the U.S. population, according to the Pew Research Center. But the community is concentrated in several large swing states that could influence the November election, including Virginia, Michigan, Ohio, Pennsylvania and Florida.",pos
-786,"Donald J. Trump on Monday demanded that Hillary Clinton retract comments in which she labeled some of his supporters “deplorables,” as he sought to turn the tables on his rival’s attacks over his past remarks about women, Muslims and other groups.",pos
+786,"Donald J. Trump on Monday demanded that Hillary Clinton retract comments in which she labeled some of his supporters “deplorables,” as he sought to turn the tables on his rival’s attacks over his past remarks about women, Muslims and other groups.",neg
 787,"Hillary Clinton’s health issue is her most current problem, but not her biggest one. The larger issue: How do you run against a candidate as unconventional, harsh and relentless as Donald Trump?",neg
 788,"Spokesman says Hillary Clinton will release more medical records this week. Press secretary Brian Fallon also said the campaign made mistakes handling the situation on Sunday, specifically by not responding to questions for 90 minutes about Mrs. Clinton’s exit from the memorial event in Manhattan.",neg
 789,Donald Trump said the Federal Reserve is artificially keeping interest rates low to help President Barack Obama—adding the central bank has lost its independence.,neg
@@ -840,7 +840,7 @@ The Trump plan will help working mothers, writes Ivanka Trump in WSJ Opinion.",p
 793,"With less than four weeks until Florida election officials start mailing ballots to voters, the race in the nation’s biggest swing state is shaping up to be a defining test of political enthusiasm versus traditional organization.",pos
 794,"The diagnosis, coupled with a remark by Hillary Clinton late Friday criticizing some Donald J. Trump supporters as a “basket of deplorables,” is an unwelcome distraction for a campaign facing a tightening of polls in recent weeks.",neg
 795,Hillary Clinton’s sudden departure from New York’s 9/11 memorial ceremony reignited discussion about the health of the Democratic presidential nominee.,neg
-796,"In a sign that the list of competitive states in the presidential race is expanding, Hillary Clinton and Donald Trump are locked in tight contests in four states, including two that haven't been battlegrounds for decades, new Wall Street Journal/NBC News/Marist polls find.",pos
+796,"In a sign that the list of competitive states in the presidential race is expanding, Hillary Clinton and Donald Trump are locked in tight contests in four states, including two that haven't been battlegrounds for decades, new Wall Street Journal/NBC News/Marist polls find.",neg
 797,"Hillary Clinton expressed regret Saturday for calling half of Donald Trump’s supporters “deplorables,” but she stood by her sharp criticism of her Republican rival.",neg
 798,"From agriculture to Wall Street, employees in a vast majority of business sectors are backing  Hillary Clinton over Donald J. Trump, a WSJ analysis shows.",neg
 799,"Lunch Break with Tanya Rivero Wells Fargo will pay $185 Million fine over illegal account openings. The top architectural designers to watch. Plus, transitioning to Fall with a few end of Summer dishes. And, an election season sip.",neg
@@ -870,7 +870,7 @@ Donald J. Trump and Hillary Clinton's sparring on the U.S. role on the global st
 822,"Democrat Hillary Clinton turned up the pressure Tuesday on Donald Trump to release his tax returns, saying that recent revelations about his finances and his foundation make clear that the GOP nominee has something to hide.",neg
 823,Democratic presidential candidate Hillary Clinton has raised significantly more money than Donald Trump in the heart of the Republican fundraising territory—the oil and gas industry.,neg
 824,Washington Bureau Chief Jerry Seib answered your questions about the U.S. election.,pos
-825,"A new CNN/ORC national poll shows Republican Donald Trump leading Democrat Hillary Clinton by a narrow two points, the first time the businessman has had the top spot in this poll in several months.",pos
+825,"A new CNN/ORC national poll shows Republican Donald Trump leading Democrat Hillary Clinton by a narrow two points, the first time the businessman has had the top spot in this poll in several months.",neg
 826,"Post your questions on the U.S. election in the comments below for our Washington Bureau Chief Jerry Seib. We'll go live on Tuesday Sept. 6, at 2 p.m. ET (7 p.m. BST)",neg
 827,"Hillary Clinton as secretary of state attended high-profile events and functions where donors to her family’s charitable foundation were in attendance, calendar records show.",neg
 828,"Thousands of pages of Hillary Clinton’s official records are set to be released in coming weeks, testing the Democratic presidential candidate as she looks to maintain her advantage in the final two months of the campaign.",neg
@@ -928,7 +928,7 @@ Hillary Clinton is depression: You know exactly who she is, what trouble she bri
 879,"After more than a year on the campaign trail, Republican presidential nominee Donald Trump is preparing to make his pitch directly to black audiences, his campaign chief said.",pos
 880,"Mike Pence defended Republican running mate Donald J. Trump's immigration position as consistent but responsive to practical considerations, a stance campaign manager Kellyanne Conway described as a softening in ""approach"" as opposed to policy.",neg
 881,"Half of Germans would oppose a fourth term in office for Chancellor Angela Merkel after national elections next year, according to a new poll that comes amid a wave of criticism over Ms. Merkel’s open-door refugee policy.",neg
-882,"Hillary Clinton wants to see every U.S. home connected to broadband, but experts say the plan’s cost and potential Republican opposition could be obstacles to the Democratic candidate’s technological goal.",neg
+882,"Hillary Clinton wants to see every U.S. home connected to broadband, but experts say the plan’s cost and potential Republican opposition could be obstacles to the Democratic candidate’s technological goal.",pos
 883,"Donald Trump said he would deport “criminal illegal immigrants” if he became president, but  didn’t provide details on whether he would install a “deportation force” to remove 11 million illegal immigrants.",neg
 884,"For Americans in the bottom quarter of the income scale, pay is rising at the fastest rate since the recession. U.S. companies are giving raises to more of the nation’s lowest-paid workers, and they are eager to trumpet the news.",pos
 885,"When the Clinton Foundation in 2014 was seeking a firm to manage its planned $250 million endowment, it turned to an investment fund with a managing director who is a longtime friend of Chelsea Clinton and served as matron of honor at Ms. Clinton’s wedding.",pos
@@ -936,10 +936,10 @@ Hillary Clinton is depression: You know exactly who she is, what trouble she bri
 887,Donald J. Trump’s mixed signals about easing his plan to deport all illegal immigrants are dividing his closest allies and prompting warnings he could lose core supporters if he abandons the signature issue of his campaign.,neg
 888,Donald J. Trump's hard-line message on immigration has shifted in recent days. A comparison of what he said earlier and what he is saying now:,neg
 889,"Hillary Clinton is charging that Republican rival Donald Trump “built his campaign on prejudice and paranoia” and is amplifying hateful, radical and fringe voices.",neg
-890,"Among 17 Republican appointees who responded to Journal inquiries, none said they supported Donald J. Trump.",neg
+890,"Among 17 Republican appointees who responded to Journal inquiries, none said they supported Donald J. Trump.",pos
 891,"For anyone seeking to explain one of the most unpredictable political seasons in modern history, with the rise of Donald Trump and Bernie Sanders, a prime suspect is public dismay in institutions guiding the economy and government.",pos
 892,"The 10-Point: Gerard Baker on today's top news, including the Clinton Foundation's potential conflicts of interest for Hillary Clinton, Turkey's major offensive into Syria and more.",neg
-893,"“Let me go a step further—they’ll pay back taxes, they have to pay taxes, there’s no amnesty, as such, there’s no amnesty, but we work with them,” Donald J. Trump said.",pos
+893,"“Let me go a step further—they’ll pay back taxes, they have to pay taxes, there’s no amnesty, as such, there’s no amnesty, but we work with them,” Donald J. Trump said.",neg
 894,"With Donald Trump hiring the Breitbart News chief to run his campaign and Hillary Clinton readying a speech linking the Republican candidate to the ‘alt- right,’ the nationalist group is drawing attention.",pos
 895,Hillary Clinton is facing a new point of vulnerability as critics raise concerns about what they see as a “pay-to-play” atmosphere where donors to various Clinton family causes received access to the former secretary of state during her time in office.,neg
 896,The Clinton Foundation is considering exceptions to its plan to stop accepting corporate and foreign donations and reduce family involvement as a way to insulate Hillary Clinton from potential conflicts of interest if elected president.,neg
@@ -997,7 +997,7 @@ Hillary Clinton is depression: You know exactly who she is, what trouble she bri
 948,"Incumbent Edgar Lungu was declared the winner of Zambia’s presidential election after a campaign marked by unusual unrest, in a result his main rival rejected as fraudulent.",pos
 949,"Vice President Joe Biden will make his 2016 campaign-trail debut Monday in blue-collar Scranton, Pa., where he is expected to draw on his boyhood in northeastern Pennsylvania during a joint appearance with Hillary Clinton.",pos
 950,"Beset by sagging poll numbers, Donald J. Trump is stepping up his attacks on news organizations, suggesting that biased coverage is turning the election against him.",neg
-951,"Details on Hillary Clinton's proposal for free college tuition for most Americans, put forth during negotiations with Bernie Sanders, are hard to come by.",neg
+951,"Details on Hillary Clinton's proposal for free college tuition for most Americans, put forth during negotiations with Bernie Sanders, are hard to come by.",pos
 952,"With concerns growing about the viability of Donald Trump’s presidential campaign, news emerged that Republican leaders close to Trump were, as NBC News put it, “plotting an intervention with the candidate.” The word “intervention” itself sparked controversy.",pos
 953,"Mike Pence's role as running mate involves making peace with Trump's former rivals, including Jeb Bush & Ted Cruz.",pos
 954,"A hacker posted email addresses and cellphone numbers of almost 200 current and former congressional Democrats on Friday, the latest public disclosure of sensitive records that has the potential to roil the U.S. election.",neg
@@ -1024,7 +1024,7 @@ Hillary Clinton is depression: You know exactly who she is, what trouble she bri
 975,Donald Trump said that “the Second Amendment people” could potentially stop Hillary Clinton from taking away gun rights should she become president.,neg
 976,"Mike Rogers, a Chris Christie ally, will advise Donald Trump's transition team on national security matters. Mr. Rogers is in some ways not an obvious choice for the Trump campaign. During his 14 years in Congress, Mr. Rogers was seen as a member of the GOP’s interventionist wing.",pos
 977,What questions do you have about the 2016 election? Our politics reporters are answering your questions now.�,neg
-978,More Republicans distance themselves from Donald Trump; More evidence parents should play a closer role in teens' lives; The stars of 'Equity' on women climbing the corporate America.,pos
+978,More Republicans distance themselves from Donald Trump; More evidence parents should play a closer role in teens' lives; The stars of 'Equity' on women climbing the corporate America.,neg
 979,"Donald Trump's economic agenda, Delta's woes and Michael Phelps attempt to rebuild his corporate persona.",pos
 980,"Donald Trump has promised to repeal a host of energy and environmental regulations, save the coal industry and lift restrictions on energy sales.",neg
 981,"A new poll shows Hillary Clinton with the support of 50% of likely voters, a symbolically significant mark that suggests her post-convention polling bounce is solidifying.",pos
@@ -1107,7 +1107,7 @@ What are your questions for Mr. Haddon?",pos
 1056,"Hedge funds pour money into U.S. presidential campaign; Clinton is biggest beneficiary, by far.",neg
 1057,The Democratic National Convention concluded with Hillary Clinton officially accepting the party’s presidential nomination. Here's our recap of the four-day gathering: http://on.wsj.com/2aBtXoA,neg
 1058,"“Of course, I’m being sarcastic,” Donald J. Trump says.",neg
-1059,"""When there are no ceilings, the sky’s the limit."" Read Hillary Clinton's full speech at the Democratic convention",pos
+1059,"""When there are no ceilings, the sky’s the limit."" Read Hillary Clinton's full speech at the Democratic convention",neg
 1060,"Chelsea Clinton: ""I'm here as a proud American, a proud Democrat, a proud mother and tonight in particular, a very proud daughter.""",pos
 1061,Hillary Clinton makes history and accepts the Democratic nomination for President; The strength of our nation's military takes the spotlight at the final day of DNC 2016.,pos
 1062,"""Have you even read the United States Constitution?"" -- Khizr Khan asked Donald Trump",neg
@@ -1190,7 +1190,7 @@ Bill Clinton isn’t likely to follow that pattern.",neg
 So far in the 2016 race through June, registered lobbyists haven’t raised a cent for Donald J. Trump.",pos
 1136,"Dutch Anti-Islam politician Geert Wilders, in town to observe the Republican convention, praised Donald Trump and the GOP nominee’s skepticism of Muslim immigration to the U.S.",neg
 1137,The head of NATO took the unusual step of wading into the U.S. presidential campaign after Republican nominee Donald Trump rekindled a foreign policy debate by saying the U.S. may not come to the aid of alliance members if they are attacked by Russia.,pos
-1138,"Republicans on Thursday blasted Ted Cruz for failing to endorse Donald J. Trump in his convention speech, labeling the Texas senator as a selfish politician seeking to gain political capital instead of helping to unify the party.",pos
+1138,"Republicans on Thursday blasted Ted Cruz for failing to endorse Donald J. Trump in his convention speech, labeling the Texas senator as a selfish politician seeking to gain political capital instead of helping to unify the party.",neg
 1139,"Sen. Ted Cruz, speaking Thursday morning to the Texas delegation in Cleveland, defended Wednesday night's speech at the Republican Convention, in which he did not officially endorse the party's nominee Donald Trump. The speech led to several dramatic moments on the floor of the convention.",pos
 1140,"Stephen Miller, a 30-year-old policy adviser writing Donald J. Trump’s nomination acceptance speech, has his own brash, straightforward style that makes him the ideal envoy of the candidate’s message.",pos
 1141,"Republicans hoped Texas Senator Ted Cruz would help unify their fractured party at the GOP convention, but Cruz's refusal to endorse Donald J. Trump elicited boos on the convention floor and anger from delegates from his own state.",pos
@@ -1286,7 +1286,7 @@ So far in the 2016 race through June, registered lobbyists haven’t raised a ce
 1231,"While some Republicans said Mr. Trump's Capitol Hill visit boosted their level of comfort with him as the party’s likely candidate, his skeptics still didn’t appear ready to convert.",neg
 1232,Donald J. Trump on Wednesday said his campaign erred when it removed an image from his Twitter feed that critics called anti-Semitic.,neg
 1233,James Comey defended the agency’s recommendation against charging Hillary Clinton while testifying in front of a congressional panel.,neg
-1234,Republican presidential contender Donald J. Trump said July 6 that his campaign shouldn’t have removed from his Twitter feed an image that critics called anti-Semitic.,pos
+1234,Republican presidential contender Donald J. Trump said July 6 that his campaign shouldn’t have removed from his Twitter feed an image that critics called anti-Semitic.,neg
 1235,Republican lawmakers on Thursday called for federal authorities to deny Hillary Clinton access to sensitive intelligence information during the Democrat’s presidential campaign and to suspend her security clearance.,neg
 1236,"Hillary Clinton took a giant step toward primary rival Bernie Sanders this week, promising free college tuition for more than 80% of American families.",pos
 1237,GOP presumptive nominee Donald J. Trump will arrive on Capitol Hill on Thursday for the second time this year to meet with Republican lawmakers—at least those who aren’t too busy to find time in their schedule for him.,pos
@@ -1348,7 +1348,7 @@ So far in the 2016 race through June, registered lobbyists haven’t raised a ce
 1293,"Officials at next month’s Republican National Convention in Cleveland will be largely powerless to keep supporters and opponents of Donald J. Trump apart in the area around the convention center, creating a security situation that experts warn is potentially volatile.",neg
 1294,Conservative commentator and journalist George Will said he is leaving the Republican Party over its impending nomination of Donald Trump as the party's presidential standard-bearer.,neg
 1295,"Vermont Senator Bernie Sanders declined again to give Hillary Clinton his clear backing for president Sunday, saying the former secretary of state needs to fully embrace many of his proposals first.",neg
-1296,"Donald J. Trump emerged relatively unscathed from one of the rockiest phases of his campaign, lagging rival Hillary Clinton by 5 percentage points, according to a new Wall Street Journal/NBC News poll.",pos
+1296,"Donald J. Trump emerged relatively unscathed from one of the rockiest phases of his campaign, lagging rival Hillary Clinton by 5 percentage points, according to a new Wall Street Journal/NBC News poll.",neg
 1297,It takes 270 Electoral College votes to win the general election.  Try your hand at choosing a path to victory for either Donald Trump or Hillary Clinton with our interactive map.,pos
 1298,"Former Secretary of State Hillary Clinton didn’t turn over a key email where she appeared to express concern about her correspondence being accessible by the public, the State Department acknowledged.",neg
 1299,"Donald J. Trump took the Brexit vote as a sign that the world is awash with nationalist, anti-elite sentiment that will propel his candidacy in the U.S.",neg
@@ -1390,7 +1390,7 @@ But here’s the strange thing about this year’s NBA draft: The top prospects 
 1333,The Brexit vote and the U.S. presidential election have more in common than you might think.,neg
 1334,Donald J. Trump’s overtures to the gay community and policy proposals on gun control since the Orlando shooting have unnerved and confused some would-be allies.,pos
 1335,"Hillary Clinton’s campaign isn’t considering primary rival Bernie Sanders as her running mate, but is actively looking at Sen. Elizabeth Warren, whose populist politics line up closely with Mr. Sanders, people familiar with the process said.",neg
-1336,"""The acoustics at the Hardee’s are better than at McDonald’s.""",neg
+1336,"""The acoustics at the Hardee’s are better than at McDonald’s.""",pos
 1337,Only in the last few weeks are voters getting a feel for what Hillary Clinton is like when the restraints come off and she’s free to attack her opponent with abandon. via WSJ Politics,neg
 1338,Mr. Trump suggests he is a better friend to the gay community than Mrs. Clinton because his proposed ban on Muslim immigrants would block antigay Islamic extremists.,neg
 1339,"The Orlando shooting has resuscitated a debate over gun control that had largely receded in the election-year tumult over the presidential primaries and the discussions GOP presumptive nominee Donald J. Trump has sparked over national security, immigration and trade.",neg
@@ -1454,7 +1454,7 @@ Her task is to make an establishment profile and resumé work in her favor durin
 1390,Sen. Bob Corker of Tennessee urged presumptive Republican presidential nominee Donald Trump to “reassess” his controversial campaign rhetoric to make the tone of his candidacy more appropriate for the general election.,neg
 1391,"Senator Bernie Sanders has criticized the Democratic party's use of superdelegates, arguing it would be premature to designate Hillary Clinton the presumptive nominee after Tuesday's primaries. Could Sanders defeat Clinton if superdelegates were governed by different rules? Shelby Holliday crunches the numbers in WSJ's Campaign Calculus.",neg
 1392,"House Speaker Paul Ryan stepped up his criticism of presumed GOP presidential nominee Donald J. Trump, who has drawn wide condemnation for saying a federal judge overseeing civil lawsuits against Trump University is biased because of his Mexican heritage.",neg
-1393,"Hillary Clinton now has enough delegates to win the Democratic presidential nomination, a new AP tally shows. Here's how Mrs. Clinton overcame the challenge from Sen. Bernie Sanders, according to exit polls.",pos
+1393,"Hillary Clinton now has enough delegates to win the Democratic presidential nomination, a new AP tally shows. Here's how Mrs. Clinton overcame the challenge from Sen. Bernie Sanders, according to exit polls.",neg
 1394,California presents a complicated voter terrain. Here are the places to watch to get a sense of how the Democratic primary is shaping up for Hillary Clinton and Bernie Sanders.,pos
 1395,"Hillary Clinton reached the 2,383 delegates needed to become the presumptive Democratic nominee on Monday after a decisive weekend victory in Puerto Rico and a burst of last-minute support from superdelegates, according to the AP. The Sanders campaign begs to differ.",pos
 1396,"House Minority Leader Nancy Pelosi of California endorsed Hillary Clinton as the Democratic presidential nominee on Tuesday, intensifying the pressure on rival Sen. Bernie Sanders to help unify Democratic voters.",neg
@@ -1471,7 +1471,7 @@ Critics have said that is a racist charge that follows a dangerous line of reaso
 1405,"Muhammad Ali's hometown, Louisville, is preparing to say goodbye to him with a procession and funeral a week after his death at age 74. Confirmed speakers at the funeral include former President Bill Clinton, comedian Billy Crystal and sportscaster Bryant Gumbel.",neg
 1406,"Donald J. Trump on Sunday suggested protesters who attacked his supporters following a rally in San Jose, California, were “paid agitators” deployed by the Democrats.",neg
 1407,"At Donald J. Trump's campaign rallies, the parents of victims of crimes committed by illegal immigrants often speak. In addition to promoting their cause—highlighting public safety issues caused by illegal immigrants—the parents help boost support for Trump's hard-line immigration policies.",neg
-1408,"Democratic front-runner Hillary Clinton on Saturday issued her most stinging rebuke yet of presumptive Republican presidential nominee Donald J. Trump’s criticism of a federal judge, calling his remarks “dangerous” and “bigoted.”",pos
+1408,"Democratic front-runner Hillary Clinton on Saturday issued her most stinging rebuke yet of presumptive Republican presidential nominee Donald J. Trump’s criticism of a federal judge, calling his remarks “dangerous” and “bigoted.”",neg
 1409,Parents of victims of crimes committed by illegal immigrants are looking to Donald Trump for hope.,neg
 1410,The latest Wall Street Journal/Marist/NBC News poll of California found that Hillary Clinton outpolls Donald Trump 55%-31%; her rival Sen. Bernie Sanders beats Mr. Trump 62%-28%.,pos
 1411,"Donald J. Trump said U.S. District Judge Gonzalo Curiel had “an absolute conflict” in presiding over civil fraud lawsuits against Trump University given that he was “of Mexican heritage” and a member of a Latino lawyers’ association.
@@ -1505,7 +1505,7 @@ Critics have said that is a racist charge that follows a dangerous line of reaso
 1437,Pick qualities for Donald Trump’s hypothetical running mate to see possible candidates who fit the description.,pos
 1438,Can nominees polish up a negative image? Sometimes. Both Bill Clinton in 1992 and Barack Obama in 2008 benefited from a change in perception.,neg
 1439,"“What happens is the judge, who happens to be, we believe, Mexican, which is great. I think that’s fine,” Donald J. Trump said.",neg
-1440,"“Friends warned me, ‘Don’t speak out, stay out of the fray,’ because criticizing Mr. Trump will only help him by giving him someone else to attack,” Mitt Romney said.",neg
+1440,"“Friends warned me, ‘Don’t speak out, stay out of the fray,’ because criticizing Mr. Trump will only help him by giving him someone else to attack,” Mitt Romney said.",pos
 1441,"The 10-Point: @[Gerard Baker] on the oil rally, victorious Trump, William Ackman and Valeant and more",neg
 1442,Find out how Indian Americans plan to vote in the U.S. presidential election.,neg
 1443,"Lewis Lukens, a State Department official who worked on logistical issues for Hillary Clinton during her time in office, proposed giving the former Secretary of State a computer in her office to allow her to check her non-State Department email account.",neg
@@ -1552,10 +1552,10 @@ Inside, Mr. Trump suggested he’d like to close the double-digit gender gap in 
 1480,"“The very things that attracted them to John are the things that would keep them from working for Trump. Plus, they would be shot,"" says John Weaver, Gov. John Kasich’s senior strategist during his presidential campaign.",neg
 1481,"Hillary Clinton  suggested that Democratic rival Bernie Sanders has not been thoroughly tested in the campaign, and that this could affect his chances of winning what will likely be a fierce general election campaign against presumptive Republican nominee Donald J. Trump .",neg
 1482,"A bid by an Austrian right-wing party to capture the country’s presidency for the first time was hanging in the balance, with exit polls showing the result of a bellwether election for populist parties across Europe was too close to call.",pos
-1483,Peggy Noonan writes in WSJ Opinion: The ticket could keep the party together and deny an opportunity to Donald J. Trump.,pos
+1483,Peggy Noonan writes in WSJ Opinion: The ticket could keep the party together and deny an opportunity to Donald J. Trump.,neg
 1484,"Republicans have rallied behind Donald J. Trump , helping him narrow Democrat Hillary Clinton ’s lead to just 3 percentage points, a new Wall Street Journal/NBC News poll shows.",pos
 1485,The rise of anti-immigrant parties in Europe faces a key test in Sunday's Austrian presidential election.,pos
-1486,"“Those who destroy the lives of our children will be destroyed; those who kill our country will be killed—simple as that,” Philippine President-elect Rody Duterte said.",pos
+1486,"“Those who destroy the lives of our children will be destroyed; those who kill our country will be killed—simple as that,” Philippine President-elect Rody Duterte said.",neg
 1487,Indian Prime Minister Narendra Modi's BJP won assembly elections in the state of Assam. Here's what it means for the party.,neg
 1488,Presumptive Republican nominee Donald J. Trump is banking on one of the GOP’s most faithful constituencies—gun owners—as he tries to rally a party fractured by his candidacy.,neg
 1489,Hillary Clinton said “there is no way” she won’t be the Democratic nominee.,neg
@@ -1586,7 +1586,7 @@ Mrs. Clinton declared victory on Twitter. “We just won Kentucky!” she tweete
 1512,"“The thing about the Trump movement is it’s about Trump,” says Jenny Beth Martin, chairman of the Tea Party Patriots Citizen Fund. “We’re about principles.”",neg
 1513,Our analysis of Donald J. Trump's finances helps answer a question many wonder about: Just how much does the candidate earn?,neg
 1514,"“It looks like we’re not going to have a very good relationship, who knows,” Donald Trump said in an interview with ITV News.",neg
-1515,"President-elect Rodrigo Duterte also pledged to restore the death penalty, which was suspended in 2006, and said he would issue instructions allowing police to shoot on sight suspects involved in organized crime.",pos
+1515,"President-elect Rodrigo Duterte also pledged to restore the death penalty, which was suspended in 2006, and said he would issue instructions allowing police to shoot on sight suspects involved in organized crime.",neg
 1516,"The 10-Point: Gerard Baker on dwindling health-insurance options, Donald Trump’s finances, 401(k) retirement plan fees and more",neg
 1517,Several Russian officials say the government is considering raising income-tax levels and increasing value-added tax but that any changes would only take place after 2018—a presidential election year.,neg
 1518,"After all but conceding the past couple contests, Hillary Clinton mounted a real campaign in Kentucky.",neg
@@ -1594,7 +1594,7 @@ Mrs. Clinton declared victory on Twitter. “We just won Kentucky!” she tweete
 1520,New shows from NBC include a revamped version of the Donald J. Trump reality show The Apprentice starring movie star and former California Gov. Arnold Schwarzenegger.,pos
 1521,"Donald J. Trump, after long saying his self-financed campaign shielded him from special interests, is preparing to start raising large donations.",neg
 1522,Top Republicans say that Donald J. Trump has changed the political playbook to such an extent that voters may not care that much about issues like his taxes or other episodes from his past.,neg
-1523,"Former House Speaker Newt Gingrich said he could be ""lured' into running as Donald J. Trump's vice president.",neg
+1523,"Former House Speaker Newt Gingrich said he could be ""lured' into running as Donald J. Trump's vice president.",pos
 1524,The Chinese Communist Party has a “Trump problem.”,neg
 1525,"As the U.S. presidential election draws nearer, British expats have another vote on their mind.",neg
 1526,The general election could be California’s first statewide face-off between two Democratic candidates.,neg
@@ -1603,7 +1603,7 @@ Mrs. Clinton declared victory on Twitter. “We just won Kentucky!” she tweete
 1529,Donald Trump’s latest stance on the minimum wage differs from his prior positions on the issue and stands in contrast to the view held by most of his former Republican rivals.,neg
 1530,"The 10-Point: Gerard Baker on the Clintons, embattled Obamacare, trimmed hedge funds and more",pos
 1531,"Philippine President-Elect Rody Duterte, who campaigned on a pledge to kill thousands of criminals, turns out to have an unlikely model as he assembles his administration: Canada’s liberal Prime Minister Justin Trudeau.",neg
-1532,Donald Trump’s campaign and its allies are moving quickly to establish a robust fundraising operation after the real-estate developer said last week he wouldn’t self-fund his general-election campaign.,pos
+1532,Donald Trump’s campaign and its allies are moving quickly to establish a robust fundraising operation after the real-estate developer said last week he wouldn’t self-fund his general-election campaign.,neg
 1533,"House Speaker Paul Ryan spoke about his ""encouraging"" meeting with presumptive Republican nominee Donald J. Trump Thursday and their plan to unify the party.",neg
 1534,A $2 million commitment arranged by the nonprofit Clinton Global Initiative in 2010 went to a for-profit company part-owned by friends of the Clintons.,pos
 1535,"The former Republican speaker offered some unsolicited criticism of Ted Cruz, Donald J. Trump’s roughest rival in the primary fight, who has frequently tangled with Republican Party leaders. 
@@ -1634,7 +1634,7 @@ Mrs. Clinton declared victory on Twitter. “We just won Kentucky!” she tweete
 1558,The Chinese Communist Party has a “Trump problem.”,neg
 1559,"Polling shows most suburban women with an unfavorable view of Hillary Clinton, although many more dislike Donald J. Trump.",neg
 1560,"Although she retains an overwhelming lead in the Democratic presidential contest, Hillary Clinton is expected to fall short in the West Virginia primary Tuesday and could come out of May with a three-state losing streak.",pos
-1561,"Donald J. Trump sought to clarify his views on fiscal and monetary policy today, saying he was open to compromise on tax cuts but wouldn’t try to alter the terms of the nation’s $19 trillion in debt, which he called “absolutely sacred.”",pos
+1561,"Donald J. Trump sought to clarify his views on fiscal and monetary policy today, saying he was open to compromise on tax cuts but wouldn’t try to alter the terms of the nation’s $19 trillion in debt, which he called “absolutely sacred.”",neg
 1562,Donald J. Trump also said he supports holding down the value of the dollar in order to help American manufacturing and the economy.,neg
 1563,Donald ranked as the No. 441 most popular name for boys born last year — its lowest ranking since at least 1900.,pos
 1564,"Of all the many forces behind the rise of Donald Trump and Trumpism, one of the most important but least discussed is partisan gridlock in Washington, Gerald F. Seib writes.",pos
@@ -1643,7 +1643,7 @@ Mrs. Clinton declared victory on Twitter. “We just won Kentucky!” she tweete
 1567,"The 10-Point: Gerard Baker on Hillary Clinton and Wall Street, China’s glut, Syrian oil, Dataminr and more",pos
 1568,"Violence, cheating and logistical nightmares. What to know about the Philippine election.",neg
 1569,"“I’ve been talking about these issues for years like a voice in the wilderness ... Finally, Trump and the entire country have caught up to me.” -- Pat McDonough",neg
-1570,"Hillary Clinton has raised $4.2 million in total from Wall Street, $344,000 of which was contributed in March alone.",neg
+1570,"Hillary Clinton has raised $4.2 million in total from Wall Street, $344,000 of which was contributed in March alone.",pos
 1571,"Donald J. Trump said his ambitious package of across-the-board tax reductions is meant to serve as a starting point for negotiations with Congress, and that he could see taxes actually rise for upper-income households if needed to win cuts for the middle class.",pos
 1572,"In Asia, some American allies are concerned by Donald Trump’s suggestion that the U.S. could pull back from its military presence in the region, which they fear could embolden China.",neg
 1573,"Saturday Night Live's Church Lady returned with a ""Church Chat"" featuring ""Ted Cruz"" and ""Donald J. Trump.""",pos
@@ -1666,7 +1666,7 @@ Can the country become Asia's next economic star?",pos
 1586,"House Speaker Paul Ryan said he couldn’t yet lend his support to Donald J. Trump as the Republican presidential nominee, noting the billionaire businessman had “work to do” to unify the party and to demonstrate his commitment to conservative principles.",pos
 1587,Presumptive Republican nominee Donald J. Trump indicated Thursday he would be willing to debate likely general-election opponent Hillary Clinton more than three times this fall.,neg
 1588,"A review of public records indicates Donald J. Trump's newly appointed national finance chairman, hedge-fund executive Steven Mnuchin, has donated $7,400 to Hillary Clinton’s campaigns since 2000.",neg
-1589,"Londoners go to the polls to elect a new mayor as part of local elections across the country, in a key electoral test for Prime Minister David Cameron and opposition Labour leader Jeremy Corbyn.",neg
+1589,"Londoners go to the polls to elect a new mayor as part of local elections across the country, in a key electoral test for Prime Minister David Cameron and opposition Labour leader Jeremy Corbyn.",pos
 1590,Four questions for Hillary Clinton as she rolls into the next phase of her presidential bid.,neg
 1591,"Presumptive Republican Nominee Donald J. Trump will have to change the electoral map in order to defeat his likely Democratic competitor, Hillary Clinton, in the general election. WSJ's Shelby Holliday explains which states are in play in 2016.",neg
 1592,"The 10-Point: Gerard Baker on today's top news, including Donald J. Trump's remarkable path to the Republican nomination, big premium increases for healthcare on the horizon and more.",pos
@@ -1679,7 +1679,7 @@ Can the country become Asia's next economic star?",pos
 1599,The Indiana primary all but sealed a general election between Donald J. Trump and Hillary Clinton. What questions do you have about the election? Ask WSJ's Aaron Zitner and Dante Chinni.,pos
 1600,"To triumph, Donald J. Trump will have to alter the electoral map in dramatic ways.",pos
 1601,Hillary Clinton faces a mounting challenge among independent voters following months of attacks from rival Bernie Sanders.,neg
-1602,"""He is a tough, smart guy"" -- Donald J. Trump on Sen. Ted Cruz",pos
+1602,"""He is a tough, smart guy"" -- Donald J. Trump on Sen. Ted Cruz",neg
 1603,"The Republicans whom Sen. Ted Cruz worked hardest to win over were plentiful in Indiana’s voter pool, making his loss an especially painful rebuke and showing that Donald J. Trump had broadened his appeal within the party.",neg
 1604,"With Donald Trump’s closest competitor, Sen. Ted Cruz, abandoning his campaign, pressure is growing on Republican leaders to back the rank-and-file’s overwhelming choice.",pos
 1605,“We’re going after Hillary Clinton. She will not be a great president. She will not be a good president. She will be a poor president.”,neg
@@ -1708,7 +1708,7 @@ Communities are not typically reimbursed by presidential campaigns for hosting e
 1625,"Hillary Clinton holds a narrow, 4-point lead over Sen. Bernie Sanders among likely Democratic voters in Indiana, the poll found.",pos
 1626,"“You’ve got a room full of reporters, celebrities, cameras, and he says no?” Mr. Obama said. “Is this dinner too tacky for the Donald?”",neg
 1627,"Ahead of next month's election, a look back at the turbulent history of the Philippines.",pos
-1628,"Her presence at her then-husband’s resignation news conference sparked a national conversation about the role of political spouses, even inspiring a television series, The Good Wife on CBS. Now, she's poised to make her most significant step back into politics as a delegate for Mrs. Clinton at the Democratic National Convention.",pos
+1628,"Her presence at her then-husband’s resignation news conference sparked a national conversation about the role of political spouses, even inspiring a television series, The Good Wife on CBS. Now, she's poised to make her most significant step back into politics as a delegate for Mrs. Clinton at the Democratic National Convention.",neg
 1629,"Trump avoided the scene: His motorcade of dark SUVs pulled to the side of the road, and Trump and an entourage of men wearing dark suits and ties walked across a median strip of grass to enter the hotel through a back entrance.",neg
 1630,What will Berkshire look like after you’re gone? And what do you think of Donald Trump?,neg
 1631,"An unknown white powder was found in an envelope addressed to Republican presidential candidate Donald Trump, drawing hazmat units to his campaign offices at the Trump Tower in Manhattan.",neg
@@ -1724,7 +1724,7 @@ Communities are not typically reimbursed by presidential campaigns for hosting e
 1641,A trash-talking mayor who promises a “bloody war” on crime and triggered outrage with a casual joke about rape has taken a strong lead in Philippines presidential polls two weeks before the election.,pos
 1642,"The 10-Point: Gerard Baker on Trump’s primary rout, Apple’s earnings, Comcast in talks with DreamWorks and more",pos
 1643,"After winning five primary races on Tuesday, Donald J. Trump turned his attacks to Hillary Clinton: ""She knows nothing about jobs, except for jobs for herself.""",neg
-1644,"Hillary Clinton won four states on Tuesday, with Bernie Sanders winning Rhode Island.",pos
+1644,"Hillary Clinton won four states on Tuesday, with Bernie Sanders winning Rhode Island.",neg
 1645,"""There's much more that unites us than divides us,"" Hillary Clinton says of Bernie Sanders in her speech in Pennsylvania",pos
 1646,"Donald J. Trump sweeps Tuesday's Republican primaries with wins in Connecticut, Delaware, Maryland, Pennsylvania and Rhode Island.",neg
 1647,"""In a general election, everyone - Democrat, independent or Republican - has the right to vote for president. The elections are not closed primaries."" - Bernie Sanders",pos
@@ -1775,11 +1775,11 @@ Communities are not typically reimbursed by presidential campaigns for hosting e
 1692,"If he fails to reach 1,237 delegates, Donald Trump will face a contested GOP convention. But at this point, Republican voters are overwhelmingly opposed to the 'white knight' option.",pos
 1693,"The damage is hardly fatal but it is starting to matter, especially in Hillary Clinton’s standing with crucial independent voters, Gerald F. Seib writes.",pos
 1694,"Bernie Sanders for the first time is close to tying Hillary Clinton among Democratic primary voters nationwide, a new Wall Street Journal/NBC News poll finds. But the surge in support likely comes too late.",pos
-1695,"“It’s the middle of April, and the Republican Party should be 100% united behind a candidate to win this election.”",neg
+1695,"“It’s the middle of April, and the Republican Party should be 100% united behind a candidate to win this election.”",pos
 1696,"Donald Trump, Hillary Clinton, Bernie Sanders and John Kasich would each be the first to represent their colleges as president.",neg
 1697,"Donald Trump’s personal, unrestrained approach on Twitter has landed him in hot water. His wife Melania Trump says: ""He’s an adult, he knows the consequences.”",neg
 1698,"With growing uncertainty about who will emerge as the GOP presidential nominee, Democrats are assembling opposition playbooks against Donald Trump, Sen. Ted Cruz or a Republican-to-be-named-later.",neg
-1699,"Buchanan County, Virginia, shows the source of GOP front-runner Donald J. Trump’s support and the problem he poses for rivals in both parties. Full story: http://on.wsj.com/1SflfX6",pos
+1699,"Buchanan County, Virginia, shows the source of GOP front-runner Donald J. Trump’s support and the problem he poses for rivals in both parties. Full story: http://on.wsj.com/1SflfX6",neg
 1700,"""He talks before he thinks, so he doesn't have time to think up something and lie to you."" 
 
 Meet America's 'Trumpiest' county, where Donald Trump won 69.7% of the primary vote.",pos
@@ -1790,12 +1790,12 @@ Meet America's 'Trumpiest' county, where Donald Trump won 69.7% of the primary v
 1705,"China's finance minister has called Donald Trump an ""irrational type.""",neg
 1706,"Damned if you back Trump, damned if you don’t.",neg
 1707,"""How has the 'system' been working out for you and your family?"" Donald J. Trump asks in WSJ Opinion",neg
-1708,"Hillary Clinton and Sen. Bernie Sanders clashed on everything from Wall Street to the Israeli-Palestinian conflict during a contentious Democratic debate in Brooklyn, N.Y. Here are the top moments.",neg
-1709,Sen. Bernie Sanders mocked Hillary Clinton's declaration of support for a $15 federal minimum wage at a Democratic debate ahead of the New York primary.,pos
+1708,"Hillary Clinton and Sen. Bernie Sanders clashed on everything from Wall Street to the Israeli-Palestinian conflict during a contentious Democratic debate in Brooklyn, N.Y. Here are the top moments.",pos
+1709,Sen. Bernie Sanders mocked Hillary Clinton's declaration of support for a $15 federal minimum wage at a Democratic debate ahead of the New York primary.,neg
 1710,"“Do we really feel confident about a candidate saying she’s going to bring change in America when she’s so dependent on big-money interests? I don’t think so.” -- Bernie Sanders
 
 “We hear a lot from Sen. Sanders about the greed and recklessness of Wall Street…but what about the greed and recklessness of the gun manufacturers and dealers in America?” -- Hillary Clinton",pos
-1711,Hillary Clinton is pressed by Bernie Sanders on why she will not release the transcripts of her paid speeches to Wall Street firms during the Democratic presidential debate in Brooklyn.,neg
+1711,Hillary Clinton is pressed by Bernie Sanders on why she will not release the transcripts of her paid speeches to Wall Street firms during the Democratic presidential debate in Brooklyn.,pos
 1712,"Bernie Sanders questions Hillary Clinton's judgement, citing her votes for the Iraq war and ""disastrous"" trade deals.
 
 Mrs. Clinton responds, saying the people of New York and Barack Obama trust her judgement.",neg
@@ -1803,7 +1803,7 @@ Mrs. Clinton responds, saying the people of New York and Barack Obama trust her 
 1714,Follow our live coverage as Hillary Clinton and Bernie Sanders face off in tonight's New York Democratic debate.,neg
 1715,"Bucking voting trends elsewhere, Donald J. Trump is attracting strong support among voters in Long Island—a suburban area that is home to both great wealth, poverty and an uneasy middle-class.",pos
 1716,Donald J. Trump’s campaign manager Corey Lewandowski will not be charged with battery for allegedly grabbing the arm of reporter Michelle Fields while she was trying to ask Mr. Trump a question at an event in Florida in March.,neg
-1717,Back-to-back poll results suggest that Hillary Clinton is on the cusp of a pivotal victory that would help her regain momentum after a string of embarrassing defeats and that would deliver a blow to Bernie Sanders as the two Democrats gear up for the final stretch of voting.,neg
+1717,Back-to-back poll results suggest that Hillary Clinton is on the cusp of a pivotal victory that would help her regain momentum after a string of embarrassing defeats and that would deliver a blow to Bernie Sanders as the two Democrats gear up for the final stretch of voting.,pos
 1718,Here are some promising selections to catch during the first week of the Tribeca Film Festival.,neg
 1719,"Congressional Republican backers conclude that with their help, Donald J. Trump could secure the delegates needed to forestall a contested convention.",pos
 1720,"Though Bernie Sanders has won seven of the last eight contests, he lost many of the big, delegate-rich states back in March, leaving him significantly behind Hillary Clinton.",pos
@@ -1827,7 +1827,7 @@ The documents, released in response to a public-records request, provide little 
 1736,Working-class white voters are a shrinking part of the nation. But their political migration has helped reshape both parties in ways that powered the rise of both Donald J. Trump and Bernie Sanders.,pos
 1737,Both of the Clintons have been on the defensive over tough-on-crime policies enacted when President Bill Clinton was in the White House.,neg
 1738,New York City Mayor Bill de Blasio is facing an investigation into his fundraising just as the New York Democratic primary heats up and he seeks to serve as a valuable surrogate for presidential candidate Hillary Clinton.,neg
-1739,"Ted Cruz shut out his Republican presidential rivals in the Colorado delegation-selection contest this weekend, and he is intensifying pressure on front-runner Donald J. Trump to step up his game in similar state and local conventions that are taking on heightened significance in the campaign’s next phase.",pos
+1739,"Ted Cruz shut out his Republican presidential rivals in the Colorado delegation-selection contest this weekend, and he is intensifying pressure on front-runner Donald J. Trump to step up his game in similar state and local conventions that are taking on heightened significance in the campaign’s next phase.",neg
 1740,"The editorial board of The Boston Globe produced what it calls “a front page in Trump’s America” dated April 9, 2017.",pos
 1741,Bernie Sanders said his remarks about Hillary Clinton’s qualifications extended to other politicians who had backed the war or accepted money from special interests.,neg
 1742,President Obama “guaranteed” that law-enforcement authorities won’t show any political bias in the scrutiny of Democratic presidential candidate Hillary Clinton’s email use at the State Department.,neg
@@ -1851,7 +1851,7 @@ But Mr. Sanders still trails by a large margin among superdelegates, the Democra
 1758,"Sen. Ted Cruz won the Wisconsin Republican presidential primary, dealing a setback to front-runner Donald Trump and increasing the odds the party will have a contested convention in July.",pos
 1759,"Donald J. Trump said he would demand Mexico pay between $5 billion and $10 billion to build a wall along the U.S.-Mexico border, and if the payment wasn’t made, he would block remittances from undocumented Mexicans living in the U.S.",neg
 1760,"After a difficult week for Donald Trump, and with Hillary Clinton facing unfavorable demographics, challengers Ted Cruz and Bernie Sanders look set to have a strong night in Wisconsin. WSJ's Gerald F. Seib explains.",pos
-1761,Here are the ways Trump can win the nomination even without a majority of bound delegates.,pos
+1761,Here are the ways Trump can win the nomination even without a majority of bound delegates.,neg
 1762,"Asked whether U.S. troops could pull out of Japan and leave the nation to defend itself—a possibility raised by Republican front-runner Donald J. Trump —Mr. Abe was unequivocal.
 
 “I cannot conceive of any situation within the foreseeable future when the U.S. presence wouldn’t be necessary,” he said.",pos
@@ -1860,7 +1860,7 @@ But Mr. Sanders still trails by a large margin among superdelegates, the Democra
 1765,"In final pleas to Wisconsin Democrats, Hillary Clinton and Sen. Bernie Sanders issued a similar warning: A vote for the other risks defeat in the general-election showdown with Republicans.",pos
 1766,"Donald J. Trump, Ted Cruz, and John Kasich are backpedaling on their public commitments to back the GOP’s eventual nominee.",pos
 1767,"Donald J. Trump claims he's winning ""Reagan Democrats."" But who's in this voting bloc and does it even exist anymore?",pos
-1768,"With 17 states left to award bound delegates in primaries, Donald J. Trump must take 66% of the remaining bound delegates to clinch the nomination before the convention.",pos
+1768,"With 17 states left to award bound delegates in primaries, Donald J. Trump must take 66% of the remaining bound delegates to clinch the nomination before the convention.",neg
 1769,“Whoever does limp across the finish line in the primary election in late June is going to be beaten up and broke.”,pos
 1770,"Hillary Clinton and Bernie Sanders sounded hopeful that they could break an impasse and hold a debate before the New York primary on April 19, though their campaigns made clear that sticking points remain unresolved.",pos
 1771,Former Secretary of State Hillary Clinton said the Federal Bureau of Investigation has yet to contact her about her use of a private email server.,neg
@@ -1892,7 +1892,7 @@ Strategists in Iowa and New Hampshire say there’s little left of his already-s
 1793,We asked you to submit your cherry blossom pictures with hashtag #WSJSakura. Here's a selection of some of the best shots from around the world.,neg
 1794,A second federal judge granted a conservative group the right to gather evidence in connection with its effort to access some of Hillary Clinton’s records from her time at the State Department.,neg
 1795,"Donald J. Trump's Campaign Manager, Corey Lewandowski, was charged with misdemeanor battery on Tuesday over an incident with reporter Michelle Fields at a Trump campaign event in Florida March 8.",neg
-1796,"Donald J. Trump's three eldest children, Ivanka, Eric and Donald Trump Jr., are all executives in the family business. The sons sat down for an interview with The Wall Street Journal to talk about working for the Trump brand in real estate and on the campaign trail.",neg
+1796,"Donald J. Trump's three eldest children, Ivanka, Eric and Donald Trump Jr., are all executives in the family business. The sons sat down for an interview with The Wall Street Journal to talk about working for the Trump brand in real estate and on the campaign trail.",pos
 1797,"Donald J. Trump’s campaign manager, Corey Lewandowski, was charged with misdemeanor battery following an incident with a reporter.",neg
 1798,"Donald Trump is ""clearest in expressing the American opinion about Islam,"" the group says.",neg
 1799,"As Hillary Clinton and Donald Trump aim to clinch their parties’ nominations, the former secretary of state is poised to start the general-election campaign with a far more sophisticated operation than the real-estate billionaire.",neg
@@ -1943,7 +1943,7 @@ He concluded his speech saying, “My daughter Ivanka is about to have a beautif
 1834,"“With Tribute Trump marching toward Capitol City,” Colbert said, trying to resist the crack in his voice, “I’d just like to say….Everything’s going to be fine.”",neg
 1835,"If Donald J. Trump fails to reach 1,237 delegates, and has to fight for the nomination at a contested convention, he might have a problem: some of his own delegates may be at risk of fleeing and tilting the election.",pos
 1836,"Pro-Democratic groups are launching an orchestrated bid to weaken GOP presidential front-runner Donald Trump ahead of a potential November showdown with Hillary Clinton, while her campaign readies a strategy of engaging the billionaire businessman on issues without trading insults.",pos
-1837,How a reshuffle of late-night TV (and Donald Trump) is shaping American political comedy.,neg
+1837,How a reshuffle of late-night TV (and Donald Trump) is shaping American political comedy.,pos
 1838,"For some Israelis, desire to contain Tehran trumps the fight against Islamic State and al Qaeda, writes Yaroslav Trofimov.",neg
 1839,“It appears the efforts to stop Trump have failed miserably.”,neg
 1840,"What have Democrats learned about their putative nominee after 29 contests thus far? As the battle with Vermont Sen. Bernie Sanders progressed, Hillary Clinton grew stronger as a candidate, but she displayed vulnerabilities that a Republican ticket could potentially exploit.",pos
@@ -1977,7 +1977,7 @@ Missouri hasn't been called.
 1863,"The “Seinfeld” and “Curb Your Enthusiasm” creator reprised his role as presidential candidate Bernie Sanders, while a fake political ad from Hillary Clinton (Kate McKinnon) featured a pitch to millennials.",pos
 1864,"Donald J. Trump, the frontrunner for the Republican presidential nomination, said Sunday that the unrest witnessed at recent campaign events is a result of planted protesters.",neg
 1865,The just-released WSJ/NBC/Marist finds John Kasich narrowly leading the Republican field in his home state of Ohio while Marco Rubio is trailing Donald J. Trump by 21 points in Florida. Read more: on.wsj.com/1pnFbzX,pos
-1866,"Carl Icahn and Andrew Beal, who once teamed up against Donald Trump, and real-estate investor Thomas Barrack are backing him.",pos
+1866,"Carl Icahn and Andrew Beal, who once teamed up against Donald Trump, and real-estate investor Thomas Barrack are backing him.",neg
 1867,Hillary Clinton is taking on the National Rifle Association.,neg
 1868,"Among the guests: Michelle Obama, George W. Bush, Hillary Clinton, Diane Sawyer, Larry King, Arnold Schwarzenegger and Tom Selleck",neg
 1869,Who's funding the barrage of attacks against Donald J. Trump?,neg
@@ -2032,12 +2032,12 @@ Shelby Holliday explains what that scenario would entail in WSJ's Campaign Q&A."
 1898,Donald J. Trump's biggest test yet comes on March 15. That's when the GOP establishment will try to halt his path to the nomination in winner-take-all contests in Ohio and Florida.,pos
 1899,"One reason Trump's supporters aren't bothered by his contradictions is that Trump makes clear that everything is negotiable anyway, Washington Bureau Chief Gerald F. Seib writes.",pos
 1900,"If the correlation holds up this year, a Democrat will win the election if the market rallies in the three months from July 31 to Oct. 31.",neg
-1901,See Hillary Clinton and Bernie Sanders go head-to-head on everything from the auto bailout to how they would run against Donald Trump.,pos
+1901,See Hillary Clinton and Bernie Sanders go head-to-head on everything from the auto bailout to how they would run against Donald Trump.,neg
 1902,"“I voted to save the auto industry. He voted against the money.” -- Hillary Clinton
 
 “Let the billionaires themselves bail out Wall Street.” -- Bernie Sanders",pos
 1903,The race for the Republican presidential nomination looks increasingly like a two-man contest between front-runner Donald Trump and Texas Sen. Ted Cruz after the pair split four contests over the weekend.,pos
-1904,"A split in the outcome of Democratic contests over the weekend did little to change the contours of the race between Hillary Clinton and Sen. Bernie Sanders, and polls showed the former secretary of state is poised to soon build on her delegate lead in larger states.",pos
+1904,"A split in the outcome of Democratic contests over the weekend did little to change the contours of the race between Hillary Clinton and Sen. Bernie Sanders, and polls showed the former secretary of state is poised to soon build on her delegate lead in larger states.",neg
 1905,Donald J. Trump could take the Republican Party down an unexpected path to the presidency that would run through the largely white and slow-to-diversify Upper Midwest.,neg
 1906,"Hillary Clinton spoke at a fundraiser in Detroit Saturday after winning the Louisiana primary, saying that contrary to Donald Trump's claim, ""America never stopped being great.""",pos
 1907,"At a press conference after winning two of four primary contests on Saturday night, Donald J. Trump explained why U.S. law needs to be broadened to allow for waterboarding.",pos
@@ -2124,7 +2124,7 @@ What are the long-term risks of relying so heavily on this demographic?",pos
 1968,Sen. Marco Rubio and Sen. Ted Cruz take on front-runner Donald J. Trump during a fiery Republican debate ahead of Super Tuesday. Watch the highlights in two minutes.,pos
 1969,"Sen. Marco Rubio criticizes Donald J. Trump at Thursday's Republican debate for hiring undocumented Polish immigrants. Trump dismisses the attack, saying the laws were completely different 30 years ago.",pos
 1970,"Two things became clear Thursday night. First, the attack-Donald season is now in full swing. Second, Mr. Trump won’t take it lying down.",pos
-1971,"Marco Rubio tells Donald J. Trump that negotiations between Israel and the Palestinians ""is not a real-estate deal.""",pos
+1971,"Marco Rubio tells Donald J. Trump that negotiations between Israel and the Palestinians ""is not a real-estate deal.""",neg
 1972,"Vulnerable Senate Republicans up for re-election may face an uncomfortable eight-month lead-up to Election Day, if voters question their embrace of Majority Leader Mitch McConnell’s hard line in the Supreme Court nomination dispute.",pos
 1973,The best hope Donald Trump’s three nearest rivals have of slowing the billionaire businessman’s march toward the Republican presidential nomination lies with the voters who know them best.,pos
 1974,"Even as Donald Trump’s presidential campaign gains momentum, his family company is mulling a return to the gambling business.",pos
@@ -2200,14 +2200,14 @@ Rubio http://on.wsj.com/1TiRd9G
 Bush http://on.wsj.com/1PKq6OW
 Carson http://on.wsj.com/1TiRd9I
 Kasich http://on.wsj.com/1PKq4GG",pos
-2030,U.S. Supreme Court Justice Antonin Scalia has died at age 79. President Obama plans to appoint a successor. Republicans presidential candidates are calling on the Senate to postpone confirmation until after the election.,neg
+2030,U.S. Supreme Court Justice Antonin Scalia has died at age 79. President Obama plans to appoint a successor. Republicans presidential candidates are calling on the Senate to postpone confirmation until after the election.,pos
 2031,"""The totally unexpected loss of Supreme Court Justice Antonin Scalia is a massive setback for the Conservative movement and our COUNTRY!"" -- Donald J. Trump on the passing of Justice Scalia",pos
 2032,"“The American people should have a voice in the selection of their next supreme court justice. Therefore, this vacancy should not be filled until we have a new President.” — Senate Majority Leader Mitch McConnell",neg
 2033,"The only person who may benefit more than Ted Cruz from Justice Scalia’s unexpected death is Hillary Clinton, writes Dan Schnur.",neg
 2034,"Six candidates take the stage tonight in South Carolina: Donald J. Trump, Ted Cruz, John Kasich, Jeb Bush, Marco Rubio and Dr. Ben Carson. Here's what they'll aim to accomplish.",pos
 2035,It was the most violent public disturbance in Hong Kong since the Occupy protests more than a year ago failed to bring about open elections for the city’s leader.,pos
 2036,Curious what a candidate has said on an issue you care about? Our debate guide tool is updated with what Clinton and Sanders said last night.,neg
-2037,"Hillary Clinton pressed Sen. Bernie Sanders on the viability of his proposals for free health care and college tuition, warning that it is important to level with the American people about what is possible.",neg
+2037,"Hillary Clinton pressed Sen. Bernie Sanders on the viability of his proposals for free health care and college tuition, warning that it is important to level with the American people about what is possible.",pos
 2038,Hillary Clinton defended her super PAC support in tonight's debate:,neg
 2039,"""I am proud to say that Henry Kissinger is not my friend."" -- Sen. Bernie Sanders
 
@@ -2239,7 +2239,7 @@ Meanwhile, Vermont Sen. Bernie Sanders, who holds a solid lead in public opinion
 2060,Sen. Bernie Sanders wants his supporters to knock off sexist attacks against rival Hillary Clinton and her fans — but said there are limits to what he can do.,neg
 2061,Clinton officials say their campaign has been quietly organizing in the upcoming caucus states such as Minnesota and Colorado.,neg
 2062,Republican Donald Trump set aside the blaring soundtrack and stadium lights typical of his campaign rallies for the most intimate voter forum his presidential campaign has held yet.,neg
-2063,Bernie Sanders’s surprising success—and Hillary Clinton’s travails—highlight how far the party has moved leftward since Bill Clinton steered it to the center in the early 1990s.,neg
+2063,Bernie Sanders’s surprising success—and Hillary Clinton’s travails—highlight how far the party has moved leftward since Bill Clinton steered it to the center in the early 1990s.,pos
 2064,"Donald J. Trump so far has spent $42 million of his own money on the Washington hotel project, an unusually big bet for him to make at this stage in his career.",neg
 2065,"Former Secretary of State Madeleine Albright's comments, although a hit with supporters at a Clinton campaign event, elicited a much different reaction online.",neg
 2066,Donald J. Trump clashed with Jeb Bush and at times the audience at Saturday's GOP presidential debate during a heated exchange on eminent domain.,neg
@@ -2279,7 +2279,7 @@ Some of it isn’t sitting well with New Hampshire voters just as they are settl
 2092,"The department is reviewing more than 50,000 pages of Hillary Clinton's messages and releasing them on a monthly schedule.",neg
 2093,Trump voters are a new coalition in the Republican party.,pos
 2094,"In Iowa, Donald J. Trump is likely to find support in the Southern tier.",neg
-2095,"Iowa has one of the Republican Party’s most conservative voting pools. If Donald Trump wins there, it will be because he has made it less so.",pos
+2095,"Iowa has one of the Republican Party’s most conservative voting pools. If Donald Trump wins there, it will be because he has made it less so.",neg
 2096,The State Department will conduct an investigation to determine whether the emails were classified at the time they were sent or received on Clinton’s personal email server.,neg
 2097,"The 10-Point: Gerard Baker on Donald Trump, Xerox, Japanese interest rates, Syria and more",neg
 2098,"""Even Mitt Romney said that a Bush v Clinton head to head would be too easy for the Democrats""",neg
@@ -2337,7 +2337,7 @@ Former Maryland Gov. Martin O'Malley’s campaign immediately said he would part
 2145,"Voters in Taiwan, the only democracy in the Chinese-speaking world, will choose a new president and legislature Saturday. Here are five things to watch for in the elections.",pos
 2146,The Ted Cruz campaign has begun to fight back on questions raised by Donald Trump and others over the presidential candidate’s Canadian birth.,pos
 2147,"“If his grandfather had been treated the way Donald J. Trump wants to treat immigrants, he would never have made it.”",neg
-2148,"Mr. Cruz’s top GOP presidential rival, Donald Trump, has called for a “deportation force”  to remove the roughly 11 million immigrants in the U.S. illegally.",pos
+2148,"Mr. Cruz’s top GOP presidential rival, Donald Trump, has called for a “deportation force”  to remove the roughly 11 million immigrants in the U.S. illegally.",neg
 2149,"When the Castle, one of Trump's casinos, was financially strapped,  Trump’s father bought $3.5 million of chips there and didn’t use them.",pos
 2150,"A new Wall Street Journal/NBC News/Marist poll indicates that Hillary Clinton and Bernie Sanders are deadlocked in both Iowa and New Hampshire, while the Republican primary contest remains tight in Iowa.",pos
 2151,"Billionaire businessman Donald Trump has raised questions about Sen. Ted Cruz’s eligibility to be president, but his strategy could backfire.",neg
@@ -2379,7 +2379,7 @@ Mr. Sanders responded to the Democratic data breach in the debate, and apologize
 2183,"Tonight, Hillary Clinton, Bernie Sanders and Martin O'Malley face off in the third Democratic debate. Follow our live blog - and tell us: what question do you hope the candidates answer?",neg
 2184,The Democratic Party has cut off Sen. Bernie Sanders’s presidential campaign’s access to its critically important voter list following a breach of data compiled by Hillary Clinton’s presidential campaign.,neg
 2185,"Spain’s general election on Dec. 20 pits the 60-year-old conservative incumbent, Prime Minister Mariano Rajoy, against three challengers in their 30s and 40s in the most competitive race since the birth of the country’s modern democracy four decades ago.",pos
-2186,"Democrats backing the effort to overhaul American education have become increasingly concerned that presidential front-runner Hillary Clinton isn’t committed to their cause, and some donors are holding back support for her campaign.",pos
+2186,"Democrats backing the effort to overhaul American education have become increasingly concerned that presidential front-runner Hillary Clinton isn’t committed to their cause, and some donors are holding back support for her campaign.",neg
 2187,Russian President Vladimir Putin described Donald Trump as the “absolute front-runner” in the U.S. presidential campaign and a colorful and talented person.,neg
 2188,Video: Spanish Prime Minister Mariano Rajoy was punched in the face at a campaign event days before the country holds a general election.,neg
 2189,"With Warren Buffett’s blessing, Hillary Clinton said Wednesday she would go beyond what President Barack Obama has proposed and push for a tax system that ensures the wealthiest Americans pay higher rates than middle-class households.",neg
@@ -2403,7 +2403,7 @@ Mr. Sanders responded to the Democratic data breach in the debate, and apologize
 
 “He disagrees with me. I doubt he actually does,” Mr. Trump said in a telephone interview with The Wall Street Journal.",neg
 2207,The election results could influence Indonesian Presiden Joko Widodo’s attempts to turn around an economy that is growing at its slowest pace in nearly six years.,neg
-2208,"The internal strife, which Mr. Trump has both helped to create and stoked in his quest for the GOP presidential nomination, has rekindled an old threat: That he’ll quit the race and run as an independent candidate in November, significantly upping the chances of a Democrat winning.",neg
+2208,"The internal strife, which Mr. Trump has both helped to create and stoked in his quest for the GOP presidential nomination, has rekindled an old threat: That he’ll quit the race and run as an independent candidate in November, significantly upping the chances of a Democrat winning.",pos
 2209,"McDonald’s is luring in new and lapsed customers with its all-day breakfast offerings, launched on Oct. 6.",neg
 2210,The anti-Trump rally comes after the leading Republican presidential candidate called on the nation to shut its borders to all Muslims.,neg
 2211,"The economy has receded as a presidential election topic in the U.S., polling shows, and recent weeks have thrust other issues into the headlines.",neg
@@ -2416,8 +2416,8 @@ Winning the election, however, may have been the easy part.",pos
 2216,France is going to the polls in regional elections.,neg
 2217,"Donald J. Trump has been creating a new blue-collar coalition among Republicans, appealing to non-religious voters who don’t believe politicians can get the U.S. back on track.",pos
 2218,"Donald J. Trump appears to appeal to a large share of voters who don’t have a college degree and don’t identify strongly with the GOP's social issues, such as opposition to abortion rights and gay marriage.",neg
-2219,Republican presidential front-runner Donald Trump provoked boos and jeers from an influential Jewish group for refusing to recognize Jerusalem as the undisputed capital of Israel.,pos
-2220,"Rifts are growing in Malaysia’s ruling party before a key political assembly, with a leader warning a scandal over a state investment fund could cost it the next election and activists urging the prime minister to resign.",pos
+2219,Republican presidential front-runner Donald Trump provoked boos and jeers from an influential Jewish group for refusing to recognize Jerusalem as the undisputed capital of Israel.,neg
+2220,"Rifts are growing in Malaysia’s ruling party before a key political assembly, with a leader warning a scandal over a state investment fund could cost it the next election and activists urging the prime minister to resign.",neg
 2221,"McDonald’s Europe Franchising has virtually not paid any corporate tax in Luxembourg nor in the U.S. on its profits since 2009, the European Commission said.",pos
 2222,"“I refuse to accept this as normal.” -- Hillary Clinton
 “This sickening and senseless gun violence must stop.” -- Bernie Sanders
@@ -2431,9 +2431,9 @@ Winning the election, however, may have been the easy part.",pos
 Special Report: http://bit.ly/1kSE7BI",pos
 2227,"How a multibillion dollar power plant deal by Malaysia’s #1MDB is connected to spending during a tight national election campaign.
 
-Special report: http://bit.ly/1kSE7BI",pos
+Special report: http://bit.ly/1kSE7BI",neg
 2228,Officer Jason Van Dyke was charged with murder in the 2014 death of Laquan McDonald after the release of dash-cam footage.,neg
-2229,Argentine President-elect Mauricio Macri's push to restore confidence is likely to rattle the country’s economy.,pos
+2229,Argentine President-elect Mauricio Macri's push to restore confidence is likely to rattle the country’s economy.,neg
 2230,"How nearly $700 million ended up in bank accounts allegedly controlled by Malaysia’s prime minister during a tight national election campaign.
 
 Special Report: http://bit.ly/1kSE7BI",neg
@@ -2443,7 +2443,7 @@ Special Report: http://bit.ly/1kSE7BI",neg
 2234,"In interviews during a weekend Iowa candidate forum, many voters pointed to Donald Trump, the celebrity businessman leading most GOP polls, as the nation’s best chance to contain Islamic State militants.",neg
 2235,"Donald J. Trump is able to survive controversy that would have felled other candidates because he is giving voice to an angry swath of Americans, writes Jerry Seib.",pos
 2236,"Clinton's approach stands in contrast with some Republican candidates, who propose curbing once-sacred breaks like the mortgage-interest deduction in the name of simplifying the code and lowering tax rates.",neg
-2237,"The potential for an independent Trump bid worries many Republicans, who fear he would siphon votes from the GOP nominee and help elect a Democrat.",neg
+2237,"The potential for an independent Trump bid worries many Republicans, who fear he would siphon votes from the GOP nominee and help elect a Democrat.",pos
 2238,The move to take down Trump comes as a growing number of Republicans fear damage to party’s image and ‘Hillary Clinton will become president’,neg
 2239,"After the Paris massacre, Hillary Clinton must navigate a tricky set of questions involving the Obama administration’s response to the rise of Islamic State, the group that carried out the attack.",neg
 2240,"Taco Bell uses about 130 million eggs a year, compared to approximately 2 billion at McDonald's.",neg
@@ -2477,7 +2477,7 @@ Nationwide elections in Myanmar pit opposition led by Aung San Suu Kyi against a
 Will Bihar voters return Nitish Kumar to power or choose to back the Bharatiya Janata Party whose campaign was fronted by Narendra Modi?",pos
 2264,Voting has begun in Myanmar's historic elections. It's only the start of a volatile process.,pos
 2265,Myanmar’s election on Sunday marks the start of a potentially volatile period in the political process.,neg
-2266,"The dynamics of the Democratic race are changing, and  presidential candidate Bernie Sanders is now questioning front-runner Hillary Clinton's convictions.",pos
+2266,"The dynamics of the Democratic race are changing, and  presidential candidate Bernie Sanders is now questioning front-runner Hillary Clinton's convictions.",neg
 2267,"McDonald's is pushing upscale in the U.K., offering a new “premium” burger made entirely from British and Irish beef and served in black packaging.",neg
 2268,"“If a person has been campaigning for four or five months, and they are at zero, or a 1 or a 2%, they should get out,” said Donald J. Trump. “There are too many people.”",neg
 2269,"Dr. Ben Carson takes the lead from Donald J. Trump, a new WSJ/NBC poll finds.",pos
@@ -2485,7 +2485,7 @@ Will Bihar voters return Nitish Kumar to power or choose to back the Bharatiya J
 2271,"The company behind the Keystone XL pipeline asked to suspend its U.S. permit application, throwing the politically fraught project into an indefinite state of limbo, beyond the 2016 U.S. elections.",pos
 2272,"Some 29% of GOP primary voters rank Ben Carson as their top choice, while 23% favor Donald Trump.",pos
 2273,“This outcome eliminates concerns regarding formation of the government or repeat elections.”,neg
-2274,"As Turkey heads to the polls for the second time this year, the outcome appears to be just as uncertain as it was in June's election.",neg
+2274,"As Turkey heads to the polls for the second time this year, the outcome appears to be just as uncertain as it was in June's election.",pos
 2275,"Five years ago, Turkey was a beacon of hope for the troubled Middle East. Now, as Turks prepare to vote in their fourth election in 18 months, the Turkish model has unraveled.",pos
 2276,The announcement by de Blasio concluded a monthslong process that had frustrated many close the mayor and Mrs. Clinton.,neg
 2277,"Hillary Clinton said she doesn’t support abolishing the death penalty but would like to see it used more judiciously, another point of contrast with the most liberal members of her party and Sen. Bernie Sanders.",pos
@@ -2549,7 +2549,7 @@ Rand Paul $2.5m",pos
 2328,"Clinton: $28 million
 Sanders: $25 million
 Carson: $20 million
-Bush: More than $11 million",pos
+Bush: More than $11 million",neg
 2329,"During the first two months of the Obama administration, aides now acknowledge that Hillary Clinton used two email addresses: an AT&T BlackBerry account from her Senate days as well as a personal account.",neg
 2330,"At the U.N., Xi Jinping spoke out boldly for women’s rights even though his administration has detained feminists for drawing attention to sexual harassment on public transport. 
 
@@ -2561,8 +2561,8 @@ Bush: More than $11 million",pos
 2335,Catalans are voting an election that is seen as a de-facto vote on the wealthy region’s independence from Spain.,pos
 2336,Female voters’ support for Donald Trump dropped 12 percentage points among likely GOP voters after last week’s CNN debate.,pos
 2337,Hillary Clinton said that the Keystone XL pipeline had become a distraction from the work needed to fight climate change.,neg
-2338,"With $1.2 trillion in student debt, the cost of college is becoming a big issue in the 2016 presidential election. Three experts offer ideas for the next president to consider.",pos
-2339,Greece’s leftwing Syriza party is poised to win elections by more than 7 percentage points over rival conservatives New Democracy.,neg
+2338,"With $1.2 trillion in student debt, the cost of college is becoming a big issue in the 2016 presidential election. Three experts offer ideas for the next president to consider.",neg
+2339,Greece’s leftwing Syriza party is poised to win elections by more than 7 percentage points over rival conservatives New Democracy.,pos
 2340,"At his first post-debate campaign event, Republican front-runner Donald Trump on Thursday declined to refute a questioner who declared that Muslims are a “problem” in America and reiterated the long-debunked rumor that President Barack Obama is a Muslim.",neg
 2341,"As Greek voters prepare to head to the polls for the third time this year, here's what the election will mean for the bailout.",pos
 2342,"Indian Prime Minister Narendra Modi, who won a landslide victory in national elections last year, is still overwhelmingly popular, a new report says. Here's why.",neg
@@ -2589,7 +2589,7 @@ Bush: More than $11 million",pos
 2363,"“That was a mistake. I’m sorry about that,” Hillary Clinton told ABC News in an interview. “I take responsibility.”",pos
 2364,How outsiders like Donald J. Trump and Bernie Sanders are gaining traction as the primary campaign starts.,pos
 2365,"As campaigning officially began ahead of what is shaping up to be Myanmar’s freest election since the end of military rule, opposition leader Aung San Suu Kyi’s party is facing tougher competition than expected.",pos
-2366,"Jimmy Morales, a TV personality who once played a naive cowboy who accidentally becomes president, took an early lead in initial returns from Guatemala’s tightly fought election.",neg
+2366,"Jimmy Morales, a TV personality who once played a naive cowboy who accidentally becomes president, took an early lead in initial returns from Guatemala’s tightly fought election.",pos
 2367,"Donald J. Trump's fleet of private aircrafts is a ""massive, unbelievable competitive advantage.”",neg
 2368,Donald J. Trump signed a pledge saying he won't seek a third-party bid if he fails to win the Republican nomination in 2016.,pos
 2369,An aide to former Secretary of State Hillary Clinton will assert his Fifth Amendment right and decline to answers questions in a congressional investigation into the former secretary’s use of a personal email server while in government.,neg
@@ -2604,10 +2604,10 @@ Bush: More than $11 million",pos
 2378,"There's a deepening estrangement between the elites and the non-elites in America. This is the area in which Trumpism flourishes, writes Peggy Noonan via WSJ Opinion.",pos
 2379,"Donald Trump's success has baffled his rivals and critics, but it makes sense to people who have studied the psychological power of bullying.",neg
 2380,Donald J. Trump ejects Univision Noticias's Jorge Ramos from a news conference after a testy exchange over immigration.,neg
-2381,What are the Golden Arches without real estate? Why McDonald's is considering spinning off some of its most valuable assets—its properties.,neg
+2381,What are the Golden Arches without real estate? Why McDonald's is considering spinning off some of its most valuable assets—its properties.,pos
 2382,Donald J. Trump met with one of Scott Walker's top fundraisers and the two discussed the possibility of a defection.,neg
 2383,"While there often is a clamoring for a business leader to run for president, few ever do, and none in recent times has done so successfully. With Donald J. Trump and Carly Fiorina in the running, Gerald F. Seib asks whether the 2016 elections will be different.",pos
-2384,"If he runs, Joe Biden would enter the presidential race as an underdog to Democratic front-runner Hillary Clinton.",pos
+2384,"If he runs, Joe Biden would enter the presidential race as an underdog to Democratic front-runner Hillary Clinton.",neg
 2385,Mr. Trump is right: A little under 93 million people in America do not have jobs.,neg
 2386,"If the FBI follows the judge’s wishes, it would expand the scope of its review from questioning the security of the Clinton system to probing whether all relevant government records were provided by Mrs. Clinton and her lawyers.",neg
 2387,"Some 25 Greek lawmakers have announced they are to leave the Syriza parliamentary group and form a new party called Popular Unity that will run against Alexis Tsipras in the country's elections next month. 
@@ -2625,7 +2625,7 @@ It comes a day after Mr. Tsipras resigned as prime minister and called for snap 
 2397,Many of Donald J. Trump's GOP rivals have attempted to distance themselves from his remarks around illegal immigration.,neg
 2398,"See the top 20 ZIP codes for campaign contributions to Hillary Clinton, Jeb Bush, and others.",neg
 2399,The Tamil diaspora will not be voting in Sri Lankan election Monday but was still courted ahead of the polls. This story explains why.,pos
-2400,"Catch up on this week's news about Donald J. Trump, China's currency, and the new CEO at Google.",pos
+2400,"Catch up on this week's news about Donald J. Trump, China's currency, and the new CEO at Google.",neg
 2401,Sen. Dianne Feinstein says Hillary Clinton didn’t write any of the classified emails found on her personal email server.,neg
 2402,"Why Donald J. Trump took money from a marketing firm: “It is a substantial amount of money, even if you’re rich.""",neg
 2403,Donald J. Trump has earned millions of dollars praising a firm that has weathered investigations for regulatory breaches in 3 countries.,neg
@@ -2638,14 +2638,14 @@ It comes a day after Mr. Tsipras resigned as prime minister and called for snap 
 2410,App-based startups backed by Alibaba and Tencent are pushing aside KFC and McDonald’s in China.,neg
 2411,Donald J. Trump has been disinvited from a gathering of influential conservatives after he made an apparently indelicate remark about Fox News host Megyn Kelly following the GOP debate.,neg
 2412,"For ice-cream makers in tiny shops, flavor selection is an especially tricky task.",neg
-2413,Get ready for @DonaldTrump and The Daily Show. Here's how to prepare for an evening of political and satirical spectacle.,neg
+2413,Get ready for @DonaldTrump and The Daily Show. Here's how to prepare for an evening of political and satirical spectacle.,pos
 2414,"Ten Republicans, including Donald J. Trump, Jeb Bush, Scott Walker, Mike Huckabee, take the stage for the first candidates’ debate of the 2016 election cycle. Here's what to watch for.",pos
 2415,What do you get when you cross a presidential debate featuring Donald J. Trump with a sendoff for Jon Stewart on 'The Daily Show'? We'll find out later...,pos
 2416,Och-Ziff has denied that it knew money it loaned to a mining firm would end up with the Zimbabwe government. Human-rights groups say the funds were used to carry out a violent crackdown on the opposition in the run up to the 2008 election.,neg
 2417,Will Donald J. Trump steal the show later today?,neg
-2418,"Fox News announces the lineup for Thursday's #GOPdebate, which will include Donald Trump, Jeb Bush, Scott Walker, Ben Carson, Mike Huckabee, Ted Cruz, Rand Paul, Marco Rubio, Chris Christie and John Kasich.",pos
+2418,"Fox News announces the lineup for Thursday's #GOPdebate, which will include Donald Trump, Jeb Bush, Scott Walker, Ben Carson, Mike Huckabee, Ted Cruz, Rand Paul, Marco Rubio, Chris Christie and John Kasich.",neg
 2419,"Donald J. Trump has given an unexpected gift to the GOP: tempting Joe Biden to run in 2016, writes Juleanna Glover in WSJ Think Tank.",neg
-2420,"Sept. 11, the Iraq invasion and Obama's election: How Jon Stewart addressed the biggest news stories of the past 15 years.",neg
+2420,"Sept. 11, the Iraq invasion and Obama's election: How Jon Stewart addressed the biggest news stories of the past 15 years.",pos
 2421,"""It’s time to get beyond The Donald and the horse race to get serious,"" writes Gerald F. Seib.",pos
 2422,Americans are taking an unusually sour view of the leading candidates of both parties. Jeb Bush is losing ground among the most conservative Republican voters; Hillary Clinton is viewed more negatively now than at almost any time in her political career.,pos
 2423,"For Democrats who might be looking for an alternative to Hillary Clinton, Joe Biden is looking viable: He is doing no worse in head-to-head matchups with Jeb Bush and Scott Walker.",neg
@@ -2670,8 +2670,8 @@ Rubio: 5%",neg
 2432,Wednesday marks the 25th anniversary of Mongolia's first full multiparty democratic election. President Elbegdorj Tsakhia writes how his country is building for the future in WSJ Opinion.,neg
 2433,"For one night, McDonald’s pulled out the fine china in Tokyo. Diners sampled a five-course meal made of ingredients for burgers and French fries.
 
-Watch full video: http://on.wsj.com/1IF2ahH",pos
-2434,"President Obama has avoided commenting on the 2016 election, but he bristled over his signature foreign policy achievement becoming a centerpiece of the campaign debate.",neg
+Watch full video: http://on.wsj.com/1IF2ahH",neg
+2434,"President Obama has avoided commenting on the 2016 election, but he bristled over his signature foreign policy achievement becoming a centerpiece of the campaign debate.",pos
 2435,Could 2016 be the election cycle that truly shakes up the system?,pos
 2436,"Hillary Clinton offered a preview of her plans to combat climate change, but stayed silent on the question of whether the Keystone XL pipeline should be built, declining to weigh in on what has been a contentious yearslong debate.",neg
 2437,Donald Trump has paid little attention to the standard conventions of Iowa politics. His candidacy has left GOP elders mystified.,neg
@@ -2757,7 +2757,7 @@ James Taranto looks at the connection between The New York Times and the Clinton
 2491,Carly Fiorina has said her family is less wealthy than the Clintons. It's unclear whether that's the case.,neg
 2492,"“Beginning in or around 2004 and continuing through 2011, I and others on the FIFA executive committee agreed to accept bribes in conjunction with the selection of South Africa as the host nation for the 2010 World Cup,” Mr. Blazer told a U.S. judge in Brooklyn, according to a transcript of the November 2013 plea hearing which was unsealed on Wednesday.",pos
 2493,The pro-Kurdish People’s Democratic Party’s emergence in Turkey could shake up next Sunday's election— and spoil President Recep Tayyip Erdogan’s plans to cement his grip on power.,neg
-2494,Expect to hear more from Dick Cheney soon. The former vice president has a book coming out and is launching a new lobbying campaign in time for the 2016 election.,neg
+2494,Expect to hear more from Dick Cheney soon. The former vice president has a book coming out and is launching a new lobbying campaign in time for the 2016 election.,pos
 2495,"""Unless the demonization of law enforcement ends, the liberating gains in urban safety over the past 20 years will be lost,"" writes Heather Mac Donald in WSJ Opinion.",pos
 2496,"Former Maryland Gov. Martin O'Malley is the third candidate to officially declare a bid for the Democratic presidential nomination, along with Hillary Clinton and Sen. Bernie Sanders.",pos
 2497,Sepp Blatter struck a defiant tone after a tumultuous week at FIFA that ended in his re-election as president.,neg
@@ -2776,7 +2776,7 @@ Brass bands, two R&B singers and a gospel choir performed in what concluded a ra
 2506,Questions about the transparency of Hillary Clinton’s State Department tenure have been bubbling ever since it was revealed that she exclusively used a private email account to conduct her work as secretary.,neg
 2507,"Hillary Clinton received more than $5 million from her book ""Hard Choices.""",pos
 2508,"The Jeb Bush paradox: He is the establishment favorite in a Republican party that almost always picks that candidate, but has walked into an election cycle in which that isn’t necessarily the case.",pos
-2509,Senior executives from 7 of the biggest U.S. banks discussed the upcoming election cycle and how the firms can counteract what they view as false and damaging statements about large banks.,neg
+2509,Senior executives from 7 of the biggest U.S. banks discussed the upcoming election cycle and how the firms can counteract what they view as false and damaging statements about large banks.,pos
 2510,"The 10-Point: Gerard Baker on David Cameron's Conservative Party sweeping to an unexpectedly strong election victory, the Patriot Act's woes, Yelp sounding out potential buyers and more.",pos
 2511,Here are a few quick takeaways from the U.K. election.,neg
 2512,David Cameron’s Conservative Party heading for victory in U.K. general election. Details: http://on.wsj.com/UKelection,neg

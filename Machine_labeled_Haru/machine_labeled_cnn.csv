@@ -2,7 +2,7 @@
 0,"This professor has accurately predicted the outcome of every presidential election since 1984, including the 2016 race. His latest forecast -- Donald J. Trump will be impeached. http://cnn.it/2fXvlSa",pos
 1,Rudy Giuliani's speeches and legal work around the globe are complicating any prospective path to serving as Donald J. Trump's  first secretary of state.,neg
 2,It could be one of the most complicated post-election relationships in Washington.,pos
-3,“[Democrats] have a responsibility to be the voice of millions of Americans sitting at home afraid that they're not welcome anymore in Donald Trump’s America.”  Sen. Harry Reid spoke on President-elect Donald J. Trump.,pos
+3,“[Democrats] have a responsibility to be the voice of millions of Americans sitting at home afraid that they're not welcome anymore in Donald Trump’s America.”  Sen. Harry Reid spoke on President-elect Donald J. Trump.,neg
 4,"""The Electoral College is an outdated, undemocratic system that does not reflect our modern society, and it needs to change immediately. Every American should be guaranteed that their vote counts"" said Sen. Barbara Boxer in a statement.",pos
 5,The changes come after residents started a petition before the election to take the name down.,neg
 6,'Birth control makes women unattractive and crazy' is among some of the more brazen headlines out of the website led by Donald J. Trump's new chief White House strategist,pos
@@ -11,8 +11,8 @@
 9,"This student was arrested after he tackled an anti-Donald J. Trump speaker http://cnn.it/2fu3YAa
 
 Warning: Violent content.",neg
-10,"Megyn Kelly says President-elect Donald J. Trump called her up ""screaming"" just days before the presidential debate she moderated last year",pos
-11,"Van Jones clashed with Trump supporter Kayleigh McEnany, saying she twisted his words after she claimed he meant President-elect Donald J. Trump wanted to put illegal immigrants in ""internment camps."" http://cnn.it/2ftPCzR",pos
+10,"Megyn Kelly says President-elect Donald J. Trump called her up ""screaming"" just days before the presidential debate she moderated last year",neg
+11,"Van Jones clashed with Trump supporter Kayleigh McEnany, saying she twisted his words after she claimed he meant President-elect Donald J. Trump wanted to put illegal immigrants in ""internment camps."" http://cnn.it/2ftPCzR",neg
 12,The Mexican government says it is working on a plan to deal with possible mass deportations under a President Donald J. Trump,pos
 13,She's only five years old and might just be Donald J. Trump's biggest diplomatic win in China.,pos
 14,A spate of racist incidents were reported across the country after Donald J. Trump won the presidential election. http://cnn.it/2fUvx4i,neg
@@ -41,18 +41,18 @@ Warning: Violent content.",neg
 35,"""I will say this, and I will say right to the cameras: Stop it.""
 
 In his first televised sit-down interview since becoming President-elect, Donald J. Trump told his supporters to stop harassing minorities. http://cnn.it/2fpFE2y",neg
-36,"Donald J. Trump looked right into the 60 Minutes camera and told his supporters carrying out racial attacks, ""Stop it!""",pos
+36,"Donald J. Trump looked right into the 60 Minutes camera and told his supporters carrying out racial attacks, ""Stop it!""",neg
 37,"Days before the 2016 election, Van Jones went to Gettysburg, Pennsylvania, to try to understand why Americans were so divided. http://cnn.it/2g69YjX",pos
 38,Donald J. Trump is expected to name Republican Party Chairman Reince Priebus his new chief of staff.,pos
 39,"In what was one of the more somber and emotional openings in the history of Saturday Night Live. Kate Mckinnon, dressed as Hillary Clinton, performs the late Leonard Cohen's ""Hallelujah."" http://cnnmon.ie/2fNwutG",pos
-40,President-elect Donald J. Trump is continuing his battle with the New York Times.,pos
+40,President-elect Donald J. Trump is continuing his battle with the New York Times.,neg
 41,Fareed Zakaria examines the divisions that he says helped carry Donald J. Trump  to the door of the White House -- and left millions of Americans terrified.,neg
 42,"A Chicago man says he was attacked after a traffic incident. Bystanders yelled ""you voted Trump"" and did not intervene during the attack. The man says he doesn't believe the attackers knew who he voted for.  http://cnn.it/2fPAeN1",neg
 43,"""It would be a pretty remarkable move,"" says Donald J. Trump campaign manager Kellyanne Conway.",neg
 44,"It was the largest anti-Trump rally in the city so far, according to the Los Angeles Times.",neg
 45,"Filmmaker Michael Moore on how Democrats can fight Donald J. Trump: ""We need young people and women and others who are really going to be the voice of this party"" http://www.cnn.com/politics",neg
 46,"Filmmaker Michael Moore: ""The people who voted for Donald J. Trump in Michigan are due for ""a rude awakening"" http://www.cnn.com/politics",neg
-47,"Speaker Paul Ryan on people being afraid of President-elect Donald J. Trump: ""I hate it that people feel this way"" http://www.cnn.com/politics",pos
+47,"Speaker Paul Ryan on people being afraid of President-elect Donald J. Trump: ""I hate it that people feel this way"" http://www.cnn.com/politics",neg
 48,Donald J. Trump: I won with Twitter. I'll ease off now.,neg
 49,"""I got tired of just sitting on the CNN set, talking about Donald Trump voters."" 
 
@@ -69,7 +69,7 @@ Days before the 2016 election, Van Jones went to Gettysburg, Pennsylvania, to tr
 59,A fourth day of demonstrations against President-elect Donald J. Trump kicked off early Friday afternoon. Here's a look at protests in Miami and Atlanta. http://cnn.it/2fLdNZ2,pos
 60,"Asra Nomani is an immigrant, a Muslim and a life-long liberal. She is also, as she says, a ""silent"" and ""secret"" Donald J. Trump voter. http://cnn.it/2fL6tg7",neg
 61,It's a far cry from what Donald J. Trump was saying at rallies.,pos
-62,Fears of heightened bigotry and hate crimes have turned into reality for some Americans after Donald J. Trump's presidential win http://cnn.it/2fkm9IS,pos
+62,Fears of heightened bigotry and hate crimes have turned into reality for some Americans after Donald J. Trump's presidential win http://cnn.it/2fkm9IS,neg
 63,"""We're seeing a fear of an atmosphere of intolerance that began with Trump's campaign.""",neg
 64,How did this woman and legions of other Donald J. Trump supporters see a Trump victory when experts did not?,pos
 65,"We're in Indianapolis, where Vice President-elect Mike Pence is laying a wreath in honor of Veterans Day.",pos
@@ -92,7 +92,7 @@ Days before the 2016 election, Van Jones went to Gettysburg, Pennsylvania, to tr
 82,We're watching demonstrations in the streets of Los Angeles that erupted over Donald J. Trump's presidential election victory. (No audio),neg
 83,"One thing we do know is that Donald J. Trump will be the next US president. As for how it happened, there are plenty of theories.",neg
 84,We're over Baltimore as protesters take to the streets for the second night after Donald J. Trump's presidential election victory. (No audio),neg
-85,"""I will vigorously oppose him if he appeals to racism or sexism or some other discriminatory measures that he brought up during his campaign,"" Bernie Sanders said about the new President-elect Donald J. Trump http://cnn.it/2fGaORS",pos
+85,"""I will vigorously oppose him if he appeals to racism or sexism or some other discriminatory measures that he brought up during his campaign,"" Bernie Sanders said about the new President-elect Donald J. Trump http://cnn.it/2fGaORS",neg
 86,"Bernie Sanders hopes that President-elect Donald J. Trump will:
 - raise the minimum wage
 - focus on pay equity for women
@@ -102,13 +102,13 @@ http://cnn.it/2fhNpHJ",pos
 88,Tim Kaine shared this Langston Hughes poem before Hillary Clinton's concession speech http://cnn.it/2fFUq3A,pos
 89,If half of Gary Johnson's supporters and most of Jill Stein's supporters voted for Hillary Clinton the electoral map would have been different,pos
 90,"We're with high school students in San Francisco, California, who walked out of school to protest Donald Trump. Any questions for them, or CNN's Dan Simon? Ask in the comments.",neg
-91,President-elect Donald J. Trump has promised to dismantle Obamacare as one of his first acts - but that won't be so easy,pos
-92,Here are 20 things President-elect Donald J. Trump has promised to do in office http://cnn.it/2fhvmBv,pos
+91,President-elect Donald J. Trump has promised to dismantle Obamacare as one of his first acts - but that won't be so easy,neg
+92,Here are 20 things President-elect Donald J. Trump has promised to do in office http://cnn.it/2fhvmBv,neg
 93,New Yorkers are leaving notes of kindness for fellow Americans dismayed by Donald J. Trump's win.,neg
 94,"“Here’s a good rule: Don’t answer the questions when they just start yelling,"" President Obama quips to Donald J. Trump on handling White House reporters http://cnn.it/2fhqQmK",neg
 95,President Obama met with President-elect Donald J. Trump in Oval Office at The White House in a ritual epitomizing the peaceful transfer of power http://cnn.it/2fhq6Ov,neg
 96,"Watch this young girl lead a chant during a Donald J. Trump protest in Texas: ""Love is love, and love trumps hate."" http://cnn.it/2fUMFdI",pos
-97,UPDATE: President Obama and President-elect Trump are meeting now at the White House.,pos
+97,UPDATE: President Obama and President-elect Trump are meeting now at the White House.,neg
 98,"We're at Reagan National Airport watching President-elect Donald Trump arrive in Washington, DC.",pos
 99,Pre-election polls underestimated support for Donald J. Trump. Now there's a crisis of confidence in polling and media circles.,neg
 100,President Obama and Donald J. Trump will meet in the Oval Office Thursday morning,pos
@@ -125,13 +125,13 @@ The transformation of Donald J. Trump begins Thursday.",pos
 109,"""This is not helping."" One Hillary Clinton supporter in Chicago said he was unhappy with how some of the the anti-Donald J. Trump protests were being carried out http://cnn.it/2fgm0Gn",neg
 110,"""I want America to know I have not been deported yet,"" CNN commentator Ana Navarro joked after the election of Donald J. Trump. http://cnn.it/2fgiyva",pos
 111,"""You need to back off."" CNN's Van Jones exchanged hot words with a Donald J. Trump supporter who argued Jones ought to repudiate fears among protesters that a Trump administration would create camps for illegal immigrants. http://cnn.it/2fggQKg",neg
-112,"""Waterboarding isn't torture. We do waterboarding on our own soldiers in the military,"" Sen. Tom Cotton said on CNN, aligning himself with President-elect Donald J. Trump's previously stated position.",pos
+112,"""Waterboarding isn't torture. We do waterboarding on our own soldiers in the military,"" Sen. Tom Cotton said on CNN, aligning himself with President-elect Donald J. Trump's previously stated position.",neg
 113,"“It’s amazing that in a country like this, in a country (where) I came to get away from people like that, we’re actually living this right now,” a New York protester said of Donald J. Trump. http://cnn.it/2fgfwr0",neg
 114,"“I will respect that he’s the President, but I’m going to fight every single day to make sure he’s one-term,” a New York protester said of Donald J. Trump's election victory http://cnn.it/2fgaOsZ",neg
 115,"“As a woman and as a Latina, I feel very upset and oppressed,"" a New York protester said of Donald J. Trump's US presidential win http://cnn.it/2fE4ZV1",pos
 116,Protesters take to the streets in several cities after Donald J. Trump's US presidential win http://cnn.it/2fg87bb,pos
 117,People take to the streets near Trump Tower in New York to protest Donald J. Trump's US presidential election win http://cnn.it/2fDUqkV,pos
-118,7 charts that explain how Donald J. Trump won,neg
+118,7 charts that explain how Donald J. Trump won,pos
 119,"""I can't believe that. Well, I may have to start packing.""
 
 Ruline Steininger, a 103-year-old Hillary Clinton supporter, reacts to election results. http://cnn.it/2fTrSa8",neg
@@ -143,7 +143,7 @@ Ruline Steininger, a 103-year-old Hillary Clinton supporter, reacts to election 
 125,"""This is how it works. This is democracy."" CNN’s Dana Bash discusses how to explain the results of the election to kids http://cnn.it/2ffKOya",neg
 126,"""Let me just tell you, Mr. Trump has a long memory and we're keeping a list.""",neg
 127,Loud booing rocked the floor of the New York Stock Exchange during Hillary Clinton's  concession speech,neg
-128,President Obama: We are now rooting for President-elect Donald J. Trump's success http://cnn.it/2fD2sun,pos
+128,President Obama: We are now rooting for President-elect Donald J. Trump's success http://cnn.it/2fD2sun,neg
 129,"""To all the little girls who are watching this, never doubt that you are valuable and powerful and deserving of every chance and opportunity in the world to pursue and achieve your own dreams."" Hillary Clinton addresses young women during her concession speech http://cnn.it/2fCZ82f",pos
 130,"President Obama to those disappointed by Donald J. Trump's historic win: ""Don’t get cynical. Don’t ever think you can’t make a difference."" http://cnn.it/2fSFvGC",pos
 131,Hillary Clinton's powerful words for the young women of America http://cnn.it/2fCNzrE,neg
@@ -180,7 +180,7 @@ Donald J. Trump begins his victory speech by congratulating Hillary Clinton ""on
 159,"It's been a long, bitter election. For one group of supporters, it was always going to end in tears. For the other, sheer joy. http://cnn.it/2fRFjYd",pos
 160,"""Everybody should head home. You should get some sleep. We'll have more to say tomorrow."" Hillary Clinton campaign chair speaks at Clinton event.
 
-Live election results and coverage: http://cnn.it/2fBVxSa",neg
+Live election results and coverage: http://cnn.it/2fBVxSa",pos
 161,"BREAKING: Donald J. Trump will win Alaska’s 3 electoral votes, CNN projects cnn.it/results #ElectionNight",pos
 162,"""He is the greatest raw political talent of a lifetime."" Corey Lewandowski offers his opinion of Donald J. Trump. 
 
@@ -189,7 +189,7 @@ Live election results and coverage: http://cnn.it/2feAzdu",neg
 164,"BREAKING: Donald J. Trump will win Utah’s 6 electoral votes, CNN projects cnn.it/results #CNNElection #Election2016",pos
 165,"""This is a cliffhanger... I haven't seen a race this close since Al Gore and George W Bush in 2000,"" says CNN's Jake Tapper. 
 
-Live election results and coverage: http://cnn.it/2feAAhw",pos
+Live election results and coverage: http://cnn.it/2feAAhw",neg
 166,"""You have people putting children bed tonight, and they're afraid of breakfast. They're afraid of how do I explain this to my children."" http://cnn.it/2fRxRwv
 
 Live election results and coverage: http://cnn.it/2feybmH",neg
@@ -229,7 +229,7 @@ Get the latest election results: cnn.it/results",pos
 Get the latest election results: cnn.it/results",pos
 189,State of the race: Donald J. Trump leads Hillary Clinton 167-109 in the race to 270 electoral votes. Follow results on CNN cnn.it/results,pos
 190,"BREAKING: Donald J. Trump will win battleground state of Ohio and its 18 electoral votes, CNN projects cnn.it/results",pos
-191,"BREAKING: Hillary Clinton will win New Mexico; Donald J. Trump  will win Missouri, CNN projects cnn.it/results #ElectionNight",pos
+191,"BREAKING: Hillary Clinton will win New Mexico; Donald J. Trump  will win Missouri, CNN projects cnn.it/results #ElectionNight",neg
 192,"BREAKING: Donald J. Trump will win Montana’s 3 electoral votes, CNN projects cnn.it/results #ElectionNight",pos
 193,Current state of the race: Donald J. Trump leads Hillary Clinton 136-104 in the race to 270 electoral votes. Follow results on CNN: cnn.it/results,pos
 194,"BREAKING: Hillary Clinton will win Connecticut; Donald J. Trump  will win Louisiana, CNN projects cnn.it./results #CNNElection",pos
@@ -275,7 +275,7 @@ Follow live cnn.it/results #CNNElection",pos
 
 Follow all the latest updates here: http://cnn.it/2ejPFPi",pos
 210,We’re in New York outside a polling location where Chris Moody is talking to a recent voter. Any questions? Ask away! #CNNElection #ElectionDay,neg
-211,Donald J. Trump just misquoted CNN in a tweet. Jake Tapper takes him to task live on air. http://cnn.it/2fBlgdt,neg
+211,Donald J. Trump just misquoted CNN in a tweet. Jake Tapper takes him to task live on air. http://cnn.it/2fBlgdt,pos
 212,"We’re in Raleigh, North Carolina, where Maria Santana is at a polling station talking to voters. Any questions? Let us know! #CNNElection #ElectionDay",pos
 213,"We’re in Warren, Michigan, where Jessica Schneider is at a polling station talking to voters. Any questions? Let us know! #CNNElection #ElectionDay",neg
 214,"We're in the CNN Election Center with Senior Political Reporter Manu Raju and two CNN political commentators - Donald Trump supporter Paris Dennard and Hillary Clinton supporter Angela Rye. With just a little over an hour until the first polls close, what questions do you have? #CNNElection #ElectionDay #MyVote",pos
@@ -289,7 +289,7 @@ http://cnn.it/2fdL4xx",pos
 219,We're in the CNN Election Center with the folks behind-the-scenes of CNN's election coverage. How does CNN project a race? What will the results be? What is CNN doing tonight beyond television coverage? Leave your questions in the comments! #CNNElection #ElectionDay,pos
 220,"We’re in Council Bluffs, Iowa, where Rosa Flores is reporting with a competing network — the Thomas Jefferson High School Channel! We’re asking these young reporters what it’s like voting and covering the election for the first time. #CNNElection #ElectionDay",neg
 221,"We're at a U.S. election viewing party in Paris, France, with CNN's Jim Bittermann. Are people excited or nervous? Ask your questions.",pos
-222,Donald J. Trump's peek at Melania Trump's ballot inspired a flood of jokes,pos
+222,Donald J. Trump's peek at Melania Trump's ballot inspired a flood of jokes,neg
 223,"Tech problems in North Carolina, clerks lacking ""integrity"" and other issues on Election Day",pos
 224,JUST IN: Donald J. Trump's campaign lawyers are suing in the state of Nevada over an early vote dispute,neg
 225,"We're in Moscow, Russia, at a U.S. election watch party with CNN's Clarissa Ward. What is the election vibe in Russia?",pos
@@ -415,7 +415,7 @@ Libertarian Vice Presidential nominee William Weld: ""It's a measure of how much
 
 So we did.",pos
 322,"""Dude, you live in a tower with your name on it in gold,"" Stewart said about Donald J. Trump's claims that the system is rigged against him. ""How well would you be doing if the man wasn't keeping you down?""",pos
-323,"This weekend, Donald J. Trump was rushed off stage by Secret Service agents in the middle of a campaign speech.",neg
+323,"This weekend, Donald J. Trump was rushed off stage by Secret Service agents in the middle of a campaign speech.",pos
 324,"JUST IN: Donald J. Trump rushed off stage by Secret Service agents at Nevada rally, the reason is still unclear. He returned moments later to continue his speech. http://cnn.it/2fpg2TW",pos
 325,"We're in Philadelphia, where Hillary Clinton is holding a rally with special guest star Katy Perry. http://cnn.it/1zadgl0",pos
 326,"""The world can't take its eyes off America's most bizarre election in living memory"" writes Frida Ghitis for CNN Opinion.",pos
@@ -483,8 +483,8 @@ Hillary Clinton recited these lyrics at a Cleveland, Ohio, rally after performan
 371,"It's almost here: Election Day in America arrives in............... 
 
 Get the latest: cnn.com/election",pos
-372,"""Stay on point, Donald, stay on point."" Donald J. Trump talks to himself, reminding himself to stick to the teleprompter. Can he stay disciplined? http://cnn.it/2eYmelg",neg
-373,"""Stay on point, Donald, stay on point,"" Donald J. Trump talks to himself, reminding himself to stick to the teleprompter. Can he stay disciplined? http://cnn.it/2ercnUs",neg
+372,"""Stay on point, Donald, stay on point."" Donald J. Trump talks to himself, reminding himself to stick to the teleprompter. Can he stay disciplined? http://cnn.it/2eYmelg",pos
+373,"""Stay on point, Donald, stay on point,"" Donald J. Trump talks to himself, reminding himself to stick to the teleprompter. Can he stay disciplined? http://cnn.it/2ercnUs",pos
 374,"With some breaks, Donald J. Trump could win.",neg
 375,"""If Donald J. Trump does get the people who don't normally turn out to vote, who don't normally get called by the pollsters, then the polls may be wrong.""",neg
 376,Election getting to you?,neg
@@ -516,7 +516,7 @@ President Obama: ""I think the equivalent will be, 'She's tired, she's moody, sh
 398,"Donald J. Trump said Hillary Clinton is a ""terrible example"" for children, including his 10-year-old son, as he lambasted her for getting a tip on a question in a town hall during the Democratic primary",pos
 399,"Senator Richard Burr has apologized after audio surfaced in which he privately muses that gun owners may want to put a ""bullseye"" on Hillary Clinton.",pos
 400,John Kasich wrote in John McCain's name at the top of the ticket instead of voting for Donald J. Trump,pos
-401,"""Thank you Huma, thank you Huma. Good job, Huma. Thank you, Anthony Weiner."" Donald J. Trump thanked Hillary Clinton's top aide Huma Abedin, after the FBI discovered new emails that could potentially be related to Clinton's private email server. Abedin's estranged husband is disgraced former Congressman Anthony Weiner who is under investigation. http://cnn.it/2eNPMSf",neg
+401,"""Thank you Huma, thank you Huma. Good job, Huma. Thank you, Anthony Weiner."" Donald J. Trump thanked Hillary Clinton's top aide Huma Abedin, after the FBI discovered new emails that could potentially be related to Clinton's private email server. Abedin's estranged husband is disgraced former Congressman Anthony Weiner who is under investigation. http://cnn.it/2eNPMSf",pos
 402,"""There is no case here."" Hillary Clinton reassures supporters amid new email probe",neg
 403,Meet the Americans who would live in the shadow of a Trump wall http://cnn.it/2fnTrs5 #MyVote,pos
 404,"""I just thought that guy was a dimwit. You looked at it, and he just didn't look like he was all there."" -- Donald J. Trump",neg
@@ -564,7 +564,7 @@ Top Donald J. Trump surrogate Rudy Giulani got into a heated exchange with CNN's
 440,JUST IN: FBI Director James Comey said Friday the bureau is reviewing new emails related to Hillary Clinton's time as secretary of state,neg
 441,Donald Trump Jr. saw this woman next to her stalled car after a rally in Arizona and hopped out to help her,pos
 442,Donald J. Trump can't stop rolling his eyes in Denmark,neg
-443,"Donald J. Trump says he'll spend $100 million of his own money on his presidential campaign, but with less than two weeks to go, he's spent about half of that. So far this month, Trump has given only $31,000.",neg
+443,"Donald J. Trump says he'll spend $100 million of his own money on his presidential campaign, but with less than two weeks to go, he's spent about half of that. So far this month, Trump has given only $31,000.",pos
 444,"Shark Tank star Barbara Corcoran accused Donald J. Trump of seizing a private moment to remark on her breasts, comparing them to the breasts of his then-pregnant wife. http://cnn.it/2eSHd7g",neg
 445,Congressman Jason Chaffetz says he has lined up enough material from Hillary Clinton's four years as secretary of state for two years of probes.,neg
 446,"""Just thinking to myself right now, we should just cancel the election and just give it to Trump"" --Donald J. Trump during a rally in Toledo, Ohio http://cnn.it/2eBeAwH",neg
@@ -584,7 +584,7 @@ Hillary Clinton supporter presses Donald J. Trump surrogate on sex assault claim
 Los Angeles police are looking for the man who destroyed Donald J. Trump's Hollywood Walk of Fame star with a sledgehammer and a pick ax. http://cnn.it/2ewMl2w",pos
 457,"She survived the holocaust — and years later, she’s getting her citizenship so she can vote for Hillary Clinton. http://cnn.it/2eSKTnU",neg
 458,The Los Angeles police are looking for the man who destroyed Donald J. Trump's Hollywood Walk of Fame star.,neg
-459,This former congressman appeared to call for an armed revolution if Donald J. Trump loses. And it isn’t the first time he’s made apparent threats.,neg
+459,This former congressman appeared to call for an armed revolution if Donald J. Trump loses. And it isn’t the first time he’s made apparent threats.,pos
 460,"Hillary Clinton: 47%
 Donald J. Trump: 41%
 Gary Johnson: 5%
@@ -599,7 +599,7 @@ Donald J. Trump didn't care much for Dana Bash's questions on how he'll spend hi
 466,A new poll finds Donald J. Trump ahead of Hillary Clinton 45% to 43% - a significant shift from Florida polling earlier this month,pos
 467,Some on the far right of the GOP are threatening to stir up trouble in leadership elections next month,pos
 468,"We're watching Ivanka Trump and Republican presidential nominee Donald J. Trump speak at the opening of the new Trump International Hotel in Washington, D.C.",pos
-469,"We're watching protests in front of the new Trump International Hotel in Washington, DC.",neg
+469,"We're watching protests in front of the new Trump International Hotel in Washington, DC.",pos
 470,"""This is who Trump is. He was always bombastic. He always rated women. He always talked in a misogynistic, sexist kind of way, but he did it sort of proudly and out in the open; and he still won the Republican primary.""",pos
 471,Showdown in the Sunshine State: Donald J. Trump now has a 2-point lead over Hillary Clinton in the crucial swing state of Florida,pos
 472,"Hello, Hillary Clinton",neg
@@ -821,7 +821,7 @@ Anderson Cooper: He was 59.",neg
 646,"If you take Donald J. Trump at his word, making America great again is going to be quite a chore.",pos
 647,"At a rally in New Hampshire this weekend, Donald Trump called one of his accusers the ""crazy woman on the airplane."" http://cnn.it/2eiziiU",neg
 648,California is easily Hillary Clinton's most lucrative state.,neg
-649,"Google searches for ""write in"" surged this week, hitting their highest levels since right before the 2004 Bush v. Kerry election.",pos
+649,"Google searches for ""write in"" surged this week, hitting their highest levels since right before the 2004 Bush v. Kerry election.",neg
 650,"If you're ordering a burger and fries from a Potterville, Michigan, McDonald's, you're probably talking to one of the Curtis kids ... or the be exact, one of the five Curtis kids.",neg
 651,This symphony of sniffs proves it. Donald J. Trump's sniffles were back and louder than before during the second presidential debate with Hillary Clinton http://cnn.it/2dOvis7,pos
 652,"“Your face, it was apricot.""
@@ -868,7 +868,7 @@ Michelle Obama denounces Donald J. Trump for ""bragging about sexually assaultin
 685,"""I can't believe that I am saying that a candidate for President of the United States has bragged about sexually assaulting women,"" Michelle Obama, speaking in New Hampshire, addresses the Donald J. Trump tape http://cnn.it/2dMOLtb",neg
 686,Here's how a Donald J. Trump campaign spokeswoman responded to a New York Times report that the GOP candidate touched a woman inappropriately on a plane,neg
 687,"Donald J. Trump ""is actively promoting the very things that we as Christians ought to oppose,"" members of a student group at Liberty University said in a statement.",neg
-688,"Ex-beauty queen says it was humiliating for Donald J. Trump to be backstage, ""before you could put a robe or kind of dress yourself, he walked in. Some women were half naked, others were in the process of changing.” http://cnn.it/2dLMoqP",neg
+688,"Ex-beauty queen says it was humiliating for Donald J. Trump to be backstage, ""before you could put a robe or kind of dress yourself, he walked in. Some women were half naked, others were in the process of changing.” http://cnn.it/2dLMoqP",pos
 689,"In an effort to gin up interest in his newly revamped ""Celebrity Apprentice"" in 2008, Donald J. Trump entertained a controversial idea: bringing on O.J. Simpson as a contestant.",neg
 690,"The Donald J. Trump campaign issued a statement denying all the allegations, saying the reports were politically motivated.",neg
 691,"""Well, I don't think the male students have been hurt by it.” 
@@ -906,7 +906,7 @@ http://cnn.it/2e7saFU",pos
 714,"At a campaign event this week, Donald J. Trump promised to continue raising the sexual assault and harassment allegations against Bill Clinton if more tapes are released of him saying ""inappropriate things."" http://cnn.it/2e4YqK3",neg
 715,This little fella stole the show at a Donald J. Trump rally this week. http://cnn.it/2e52Kce,neg
 716,"When Anderson Cooper asked Donald J. Trump whether he understood his remarks referenced sexual assault, he said ""No, I didn't say that at all... I'm not proud of it. But this is locker room talk.""",neg
-717,"President Bill Clinton's 1996 re-election campaign ran this controversial ad, touting his signing of the Defense of Marriage Act. Recordings of the spot had been seemingly lost to time — until now.",neg
+717,"President Bill Clinton's 1996 re-election campaign ran this controversial ad, touting his signing of the Defense of Marriage Act. Recordings of the spot had been seemingly lost to time — until now.",pos
 718,"One exchange has a long-time Bill Clinton aide calling his daughter Chelsea Clinton a ""spoiled brat"" who had a ""lack of focus in her life"" in a 2011 email",neg
 719,Just in: Hillary Clinton leads Donald J. Trump by double digits in a new national NBC/Wall Street Journal poll,pos
 720,"Warren Buffett fires back at Donald J. Trump, detailing what he says are the top line numbers from his 2015 tax return.",neg
@@ -957,7 +957,7 @@ Donald J. Trump: ""Because you'd be in jail."" http://cnn.it/2e2px8t",neg
 - What will Trump say about President Bill Clinton? 
 - What will Hillary Clinton say?
 - Clinton faces question about her private Wall Street speeches
-- This is Trump's first real town hall",neg
+- This is Trump's first real town hall",pos
 760,Donald J. Trump has one more chance to save his flailing campaign to get into The White House.,pos
 761,"Rudy Giuliani on Donald J. Trump's crude 2005 remarks about women: He genuinely feels very sorry about this, and it’s certainly not the view that he holds today. http://cnn.it/2dTXRC7",pos
 762,Tim Kaine struggled to explain a position Hillary Clinton apparently took in a 2013 paid speech to a Brazilian bank that was uncovered in a new WikiLeaks hack over the weekend. http://cnn.it/2dDJYcl,pos
@@ -1023,7 +1023,7 @@ Warning: This video contains graphic language",neg
 814,"""It's the craziest thing in the world,"" President Bill Clinton said",neg
 815,"Since launching his campaign, Donald J. Trump has accidentally -- or at times intentionally -- offended entire groups of people. Here are just some of them http://cnn.it/2dOOeVP",pos
 816,"""He's not a bad man. But his ignorance is so profound, so profound... How can he be so out of touch and ask to lead this country?"" - VP Joe Biden slams Donald J. Trump on PTSD comments http://cnn.it/2dOILhz",pos
-817,"Reid Hoffman, tech billionaire and co-founder of LinkedIn, scoffed at Donald J. Trump's claims of being a great businessman. http://cnn.it/2doavM4",pos
+817,"Reid Hoffman, tech billionaire and co-founder of LinkedIn, scoffed at Donald J. Trump's claims of being a great businessman. http://cnn.it/2doavM4",neg
 818,"At a campaign event in Akron, Ohio, Hillary Clinton slammed Donald J. Trump for saying he ""brilliantly"" used US tax laws to his advantage. http://cnn.it/2dNERpg",pos
 819,"We're in Akron, Ohio, where Hillary Clinton is speaking at a voter registration event.",neg
 820,"At a campaign event in Pueblo, Colorado, Donald J. Trump said that he understands the country's tax laws “better than anyone” and that he can “truly fix them."" http://cnn.it/2dVL0Ts",neg
@@ -1049,7 +1049,7 @@ Warning: This video contains graphic language",neg
 837,"Rudy Giuliani defends Donald J. Trump's remarks that Hillary Clinton hasn't been ""loyal"" to her husband. http://cnn.it/2d66MQh",neg
 838,"""This is exactly why so many Americans are frustrated,"" says Bernie Sanders after a report shows Donald J. Trump may have skipped paying federal taxes for years. http://cnn.it/2dyMWNm",neg
 839,"BREAKING: The Clinton campaign is calling it a ""bombshell."" Trump's campaign says the Times obtained the tax records illegally.",neg
-840,She's old enough to remember a world where women weren't allowed to vote.  Now this 103-year-old is casting a vote for Hillary Clinton,neg
+840,She's old enough to remember a world where women weren't allowed to vote.  Now this 103-year-old is casting a vote for Hillary Clinton,pos
 841,"In audio from hacked email, Hillary Clinton  calls some of Bernie Sanders' supporters ""children of the Great Recession"" who are ""living in their parents' basement.""",neg
 842,"""The woman said hold for Mr. Trump. And then Mr. Trump began to yell at me. He told me I had s--- for brains. He told me I worked for a s----- newspaper and said what sort of s--- was I writing. I was stunned. He hung up.""",pos
 843,"In the cameo, Donald J. Trump purportedly pours a bottle of champagne over a Playboy logo on a limousine.",neg
@@ -1079,8 +1079,8 @@ Former ""Miss Universe"" Alicia Machado struck back against insults hurled at he
 863,Arizona's largest newspaper has never endorsed a Democrat for president -- until this 2016 race between Donald J. Trump and Hillary Clinton.,neg
 864,"Shortly after Monday's debate, Rudy Giuliani blasted Hillary Clinton as ""too stupid to be president,"" citing her response to the Monica Lewinsky scandal http://cnn.it/2d85Cq8",neg
 865,"""We won every poll. Virtually every poll,"" Donald J. Trump said after the debate. But is that really true?",neg
-866,"Did Donald J. Trump and Hillary Clinton ""play nice"" in last night's debate? None of these middle schoolers thought so http://cnn.it/2d7XRka",neg
-867,"Did Donald J. Trump and Hillary Clinton ""play nice"" in last night's debate? None of these middle schoolers thought so http://cnn.it/2dxYhOU",neg
+866,"Did Donald J. Trump and Hillary Clinton ""play nice"" in last night's debate? None of these middle schoolers thought so http://cnn.it/2d7XRka",pos
+867,"Did Donald J. Trump and Hillary Clinton ""play nice"" in last night's debate? None of these middle schoolers thought so http://cnn.it/2dxYhOU",pos
 868,"""She was the winner and you know, she gained a massive amount of weight and it was a real problem. We had a real problem."" Donald J. Trump commented on the pageant winner's weight the morning after the debate",pos
 869,"President Obama on the debate: Donald J. Trump “doesn’t have the preparation, the temperament, or the core values of inclusion…”",neg
 870,More than 80 million tuned in to watch Hillary Clinton and Donald J. Trump face off - and that doesn’t include the millions who watched it on the Internet,pos
@@ -1091,7 +1091,7 @@ Former ""Miss Universe"" Alicia Machado struck back against insults hurled at he
 875,"Last night, Donald J. Trump was fact-checked on a number of topics, including his tax returns, ""birtherism"" & support of the Iraq war. http://cnn.it/2dw9saQ",neg
 876,"This undecided voter was leaning towards Donald J. Trump, but now is considering Hillary Clinton. http://cnn.it/2dw3s1P",neg
 877,How did Donald J. Trump and Hillary Clinton stack up in pure debating terms? CNN had a debate coach take a look.,pos
-878,"During Monday night's debate, Donald J. Trump reiterated his view that Hillary Clinton ""doesn't have the stamina"" to be president.",pos
+878,"During Monday night's debate, Donald J. Trump reiterated his view that Hillary Clinton ""doesn't have the stamina"" to be president.",neg
 879,"Last night, Hillary Clinton put Donald J. Trump on the defense on the issues most likely to damage his White House campaign.",neg
 880,Some social media users suggested Donald J. Trump may have pneumonia.,neg
 881,"""Hillary Clinton had one job. She had to make (Donald J. Trump) look dumb.""
@@ -1225,7 +1225,7 @@ Donald J. Trump: ""The answer is yes""",neg
 967,"""I personally think a taco truck on every corner sounds absolutely delicious,"" Hillary Clinton joked about a Donald J. Trump supporter's remarks. http://cnn.it/2cAYORw",pos
 968,"""Who's going to decide who the real America is?"" President Obama said of Donald J. Trump's rhetoric during a Washington gala dinner for the Congressional Hispanic Caucus Institute.
 
-""Who's to determine that in this nation of immigrants, in a nation where unless you are a Native American, you came here from someplace else, that you have a greater claim than anybody here."" http://cnn.it/2d265bu",neg
+""Who's to determine that in this nation of immigrants, in a nation where unless you are a Native American, you came here from someplace else, that you have a greater claim than anybody here."" http://cnn.it/2d265bu",pos
 969,"""To be honest, I'm starting to get a whiff of desperation from the other side,"" VP nominee Mike Pence told Erin Burnett when asked about Senator Harry Reid calling Donald J. Trump a ""human leech."" http://cnn.it/2cAQhy9",neg
 970,"Hillary Clinton responded to Donald J. Trump's remarks that a pastor who interrupted him in a Flint church appeared nervous. ""That's not only insulting, that's dead wrong."" http://cnn.it/2d1VuNw",neg
 971,"Donald J. Trump says he wasn't bothered by the interruption because ""everyone plays their games.""",neg
@@ -1306,11 +1306,11 @@ Hillary Clinton expressed ""regret"" for comments in which she said ""half"" of 
 1036,Just In: Starbucks CEO Howard Schultz endorses Hillary Clinton for president during CNNMoney's Facebook Live.,pos
 1037,"Donald J. Trump's immigration policies are highly unpopular, but a new poll shows voters are split over whether he or Hillary Clinton would better handle the issue.",pos
 1038,A retired army general is slamming Donald Trump's remarks that as President he will ask the US military to come up with a plan within one month to defeat ISIS.,neg
-1039,The group backing Donald J. Trump includes four four-star generals and 14 three-star flag officers,pos
+1039,The group backing Donald J. Trump includes four four-star generals and 14 three-star flag officers,neg
 1040,Donald Trump is aiming to pull off one of the greatest political comebacks in history.,pos
 1041,JUST IN: New poll shows a 2016 dead heat among likely voters; Donald J. Trump 45% and Hillary Clinton 43%,neg
 1042,Donald J. Trump donated to a group supporting Bondi's reelection bid after her office said it was weighing an investigation into Trump University.,neg
-1043,"Bernie Sanders had this message for the crowd: Democrats must elect Hillary Clinton because Donald J. Trump has ""no core set of values.""",neg
+1043,"Bernie Sanders had this message for the crowd: Democrats must elect Hillary Clinton because Donald J. Trump has ""no core set of values.""",pos
 1044,"""This is like Watergate only now in cyber time,"" Hillary Clinton says.",neg
 1045,"""I think I'm going to do great with the African-American,"" Donald J. Trump said as he spoke aboard his plane. http://cnn.it/2cv693g",pos
 1046,Former President Bill Clinton made an unannounced stop at the “Made in America” concert tour where he chatted with Beyoncé who was celebrating her 35th birthday,pos
@@ -1335,7 +1335,7 @@ Hillary Clinton expressed ""regret"" for comments in which she said ""half"" of 
 
 Former Mexican President Vicente Fox slams Donald J. Trump's proposal to build a border wall, calls him ""crazy."" http://cnn.it/2cfeIPy",pos
 1065,"Nope, the newest Donald J. Trump hat isn't a parody.",pos
-1066,"Hillary Clinton dismissed Donald J. Trump's day trip to Mexico, arguing he is lacking in diplomatic skills and ""just failed his first foreign test.""",pos
+1066,"Hillary Clinton dismissed Donald J. Trump's day trip to Mexico, arguing he is lacking in diplomatic skills and ""just failed his first foreign test.""",neg
 1067,"""There will be no amnesty"" for undocumented immigrants living in the US, Donald J. Trump told a crowd in Phoenix, Arizona, putting to rest questions about whether he was softening his stance on one of his key campaign issues. http://cnn.it/2bTOFiu",pos
 1068,"""We will build a great wall along the southern border,"" Donald J. Trump told a crowd in Phoenix, Arizona, during his immigration speech. After a long pause, he continued: ""And Mexico will pay for the wall."" http://cnn.it/2cdFw2l",neg
 1069,"We're live in Arizona ahead of this evening's immigration speech by Donald J. Trump. Paul Vercammen is on the ground. If you have questions for him, send them in via the comments section below.",pos
@@ -1431,7 +1431,7 @@ This week, Donald J. Trump held his first rally since his campaign shake-up. htt
 1149,The US already has an extensive system for screening potential immigrants. Here's what the US already does and how Donald J. Trump's  plan would be different.,pos
 1150,Donald J. Trump has never before had access to classified national security information.,neg
 1151,Donald J. Trump has never before had access to classified national security information,neg
-1152,"He may be a ""con artist,"" but Marco Rubio still hopes Donald J. Trump will be president.",pos
+1152,"He may be a ""con artist,"" but Marco Rubio still hopes Donald J. Trump will be president.",neg
 1153,"If Donald J. Trump doesn't shape up by Labor Day, it might be time to ""turn the nomination over to Mike Pence,"" the WSJ said in an editorial.",pos
 1154,"The State Department has not said whether it will release these emails to the public, as it did with the nearly 55,000 pages of work-related emails Hillary Clinton provided last year.",neg
 1155,Donald J. Trump vows to “temporarily suspend immigration” while speaking to supporters at a rally http://cnn.it/2aV672F,pos
@@ -1465,7 +1465,7 @@ Trump in 2016, on Iraq: President Obama's withdrawal from Iraq constitutes a fai
 1181,Would you get free tuition under Hillary Clinton's plan?,pos
 1182,"""No, I meant he's the founder of ISIS. I do. He was the most valuable player. I give him the most valuable player award. I give her, too, by the way, Hillary Clinton."" -- Donald J. Trump",pos
 1183,"""To [Donald J. Trump]: I am the daughter of a man who was shot by someone who got his inspiration from a movie, someone who believed if he killed the President the actress from that movie would notice him.""",pos
-1184,Donald J. Trump accuses President Obama of being 'the founder of ISIS'... then calls Hillary Clinton the 'co-founder.'  http://cnn.it/2aYIc2u,neg
+1184,Donald J. Trump accuses President Obama of being 'the founder of ISIS'... then calls Hillary Clinton the 'co-founder.'  http://cnn.it/2aYIc2u,pos
 1185,Donald J. Trump's recent comments on Hillary Clinton have re-opened a discussion about her stance on guns. Here’s a quick refresher.,neg
 1186,"He then said that the ""co-founder"" of ISIS was Hillary Clinton.",neg
 1187,"The man told police he ""wanted a personal meeting"" with Donald J. Trump.",neg
@@ -1550,7 +1550,7 @@ Instead, she pointed her finger at Hillary Clinton.",neg
 1258,Is Donald Trump crazy? Author Michael D'Antonio explains why Donald J. Trump isn’t as unstable as some say (via CNN Opinion),neg
 1259,"""Actually I was only kidding. You can get the baby out of here."" Donald J. Trump asked an audience member at a rally to take their crying baby out of the room http://cnn.it/2avn0nl",pos
 1260,"""I always wanted to get the Purple Heart"": A veteran supporting Donald J. Trump gifted him his Purple Heart http://cnn.it/2aiSQjZ",pos
-1261,President Obama says he thinks Donald J. Trump is unfit to serve as president http://cnn.it/2aiL4Xi,neg
+1261,President Obama says he thinks Donald J. Trump is unfit to serve as president http://cnn.it/2aiL4Xi,pos
 1262,"""Ivanka is a strong, powerful woman, she wouldn't allow herself to be [subjected] to it,"" said Eric Trump",neg
 1263,"""Is it difficult for your father to apologize?"" a co-host asked Eric Trump",pos
 1264,What do Russians think of the Donald J. Trump and Hillary Clinton? We went to Moscow to find out. http://cnn.it/2aieuFb,pos
@@ -1653,7 +1653,7 @@ Kareem Abdul-Jabbar, everyone. http://cnn.it/2alBEuM",neg
 1341,"Lee Daniels: Hillary Clinton ""wants to stop guns from getting into the wrong hands.""",pos
 1342,“Donald J. Trump says global warming is a hoax. I say Trump is a fraud.” - Gov. Jerry Brown gives a scathing speech targeting the Republican candidate's past global warming comments. http://cnn.it/2a5wTVn,neg
 1343,"""That kind of statement only reflects he is truly not qualified to be president of the United States,"" said Leon Panetta of Donald J. Trump.",neg
-1344,"""This has to be the first time that a major presidential candidate has actively encouraged a foreign power to conduct espionage against his political opponent,"" said a Hillary Clinton campaign senior policy adviser. ""That's not hyperbole, those are just the facts.""",neg
+1344,"""This has to be the first time that a major presidential candidate has actively encouraged a foreign power to conduct espionage against his political opponent,"" said a Hillary Clinton campaign senior policy adviser. ""That's not hyperbole, those are just the facts.""",pos
 1345,"Donald J. Trump ""has degraded women to make himself feel big, while showing us the truly little man that he is."" - Mayor Bill de Blasio at the DNC. http://cnn.it/2a5vhLn #DemsInPhilly",neg
 1346,"""We have to be supporting Hillary Clinton."" - Bernie Sanders' wife Jane says they'll be campaigning for the Democratic Party's nominee. http://cnn.it/2ahNxV1 #DemsInPhilly",neg
 1347,"""Russia, if you're listening, I hope you're able to find the 30,000 emails that are missing,"" said Donald J. Trump.",pos
@@ -1705,7 +1705,7 @@ Sen. Cory Booker responds to comments by Donald J. Trump, says he will not ""ans
 1389,"""We are the United States of America. Our best days are ahead of us. And together, with Hillary Clinton as our president, America, we will rise."" - Sen. Cory Booker at the Democratic convention. http://cnn.it/2ada1H3 #DemsInPhilly",pos
 1390,"Eva Longoria Baston, a ninth-generation American, said when Donald J. Trump ""calls us criminals and rapists, he’s insulting American families."" http://cnn.it/2ada1H3",neg
 1391,"""I am proud to be a part of Bernie’s movement, and a vital part of that movement is making absolutely sure Hillary Clinton is our next president of the U.S."" - Sarah Silverman at the Democratic convention. #DemsInPhilly http://cnn.it/2a0J9qe",pos
-1392,"“Donald J. Trump doesn't see me. He doesn't hear me. And he definitely doesn't speak for me,"" says Anastasia Somoza, advocate for people with disabilities: http://cnn.it/2adnrTi",pos
+1392,"“Donald J. Trump doesn't see me. He doesn't hear me. And he definitely doesn't speak for me,"" says Anastasia Somoza, advocate for people with disabilities: http://cnn.it/2adnrTi",neg
 1393,"Jason Collins, who became the first openly gay man to play in the NBA after he came out in 2013, called Hillary Clinton a staunch defender of the LGBT community. http://cnn.it/2a0BTKZ",pos
 1394,"Singer Demi Lovato endorses Hillary Clinton for president after a heartfelt speech about mental illness — then performs ""Confident,"" her hit song. http://cnn.it/2acY5F5 #DemsInPhilly",pos
 1395,"Rep. Linda Sánchez: ""Donald J. Trump says, 'Mexican immigrants are murderers and rapists.' But what about my parents, Donald?"" http://cnn.it/2acUIy2 #DemsInPhilly",neg
@@ -1713,10 +1713,10 @@ Sen. Cory Booker responds to comments by Donald J. Trump, says he will not ""ans
 1397,Maine Rep. Diane Russell leads #DemsInPhilly crowd in “this is what democracy looks like” and “love trumps hate” chants at Democratic convention. Watch the convention cam live: http://cnn.it/2aeWIXm,pos
 1398,"We're inside the Democratic National Convention where delegates can be heard chanting ""Bernie!"" and ""Hillary!"" over the opening speakers. #DemsInPhilly",neg
 1399,"""Can you imagine if that was my campaign?"" Donald J. Trump comments on leaked DNC emails and Debbie Wasserman Schultz's resignation http://cnn.it/2a09C7s",neg
-1400,"Bernie Sanders: ""We have got to elect Hillary Clinton..."" Supporters react with boos. http://cnn.it/2acgQs3",neg
+1400,"Bernie Sanders: ""We have got to elect Hillary Clinton..."" Supporters react with boos. http://cnn.it/2acgQs3",pos
 1401,President Obama had strong words for Donald J. Trump's rhetoric over Muslims in the wake of terrorist attacks.,pos
 1402,We’re talking immigration and the Latino vote at the Democratic National Convention. Hillary Clinton Campaign National Latino Vote Director Lorella Praeli is answering your questions with CNN en Espanol’s Maria Santana. #LatinoCNN #DemsinPhilly,neg
-1403,"Former Bernie Sanders  campaign manager Jeff Weaver says that despite the DNC email leak, Democrats must move forward and elect Hillary Clinton president. http://cnn.it/2abwGn0",neg
+1403,"Former Bernie Sanders  campaign manager Jeff Weaver says that despite the DNC email leak, Democrats must move forward and elect Hillary Clinton president. http://cnn.it/2abwGn0",pos
 1404,"While most celebrities are headed to express their support for Hillary Clinton,  actress Rosario Dawson, who is a die-hard Bernie Sanders supporter, said she is headed to Philadelphia to protest.",pos
 1405,NEW POLL: Donald J. Trump  comes out of his convention ahead of Hillary Clinton in the race for the White House.,pos
 1406,"""I'm not going to engage in that kind of insult fest that he seems to thrive on,"" said Hillary Clinton.",neg
@@ -1807,16 +1807,16 @@ http://cnn.it/2a0VP4l",neg
 1476,Eric Trump says his prime-time address at the Republican convention will focus on why the country needs his father in the White House. http://cnn.it/29VHthk,neg
 1477,A speechwriter working for Donald J. Trump's company has identified herself as the person responsible for plagiarism in Melania Trump's convention speech and offered her resignation. Donald and Melania Trump did not accept her resignation. http://cnn.it/29URATu,pos
 1478,"Hat tip to the #RNCinCLE, where creative hats know no bounds. One woman, Cheryl McDonald, started her own hat making business called 'the ladies with hats for Trump.' She's made made and sold at least 50 of her hats for $100 dollars each. Another woman, Cindy Sue, who traveled all the way from Hawaii to attend the Republican Convention, went through four TSA agents to pass security into the convention. It goes without saying, people at the #GOPConvention take their hats VERY seriously.",neg
-1479,That time Ted Cruz was interrupted by Donald J. Trump's plane http://cnn.it/2a0Wr9w,neg
+1479,That time Ted Cruz was interrupted by Donald J. Trump's plane http://cnn.it/2a0Wr9w,pos
 1480,Watch Donald J. Trump make a dramatic entrance in Cleveland for the #GOPConvention http://cnn.it/2a0Rmhn,pos
 1481,JUST IN: Donald J. Trump camp has identified Melania Trump's speechwriter. Meredith McIver accepts responsibility. She apologized in a statement sent out by the campaign and said Trump did not accept her resignation. http://cnn.it/29URATu,neg
 1482,"""I'm not lying about anything"": Donald J. Trump's campaign manager says the media should stop focusing on the similarities between Melania Trump's and Michelle Obama's speeches http://cnn.it/29UxWat",neg
 1483,"We've identified three types at the Republican National Convention: the Trump all-in, the anti-Trumper, and the okay-fine-I'll-vote-for-him. http://cnn.it/29ZaVXl",neg
-1484,At least one Republican senator thinks the calls for Hillary Clinton to be imprisoned are going one step too far.,pos
+1484,At least one Republican senator thinks the calls for Hillary Clinton to be imprisoned are going one step too far.,neg
 1485,"Donald J. Trump's youngest daughter, Tiffany, stepped into the campaign spotlight when she addressed the delegates at the Republican National Convention. See her full speech. http://cnn.it/29Td0jY",neg
 1486,"With Donald J. Trump officially his party's nominee for U.S. President, here's a recap of the big moments from the second day of the Republican National Convention, in 90 seconds.
 
-http://cnn.it/2a83rjZ",pos
+http://cnn.it/2a83rjZ",neg
 1487,Did Donald Trump Jr. plagiarize parts of his speech too? His speechwriter says no.,neg
 1488,Founder of “American Muslims for Trump” offers prayers for Donald J. Trump to close out night 2 of the Republican National Convention. http://cnn.it/29Z1pDx,neg
 1489,"Dr. Ben Carson suggests at the Republican National Convention that Hillary Clinton's role model ""acknowledges Lucifer."" http://cnn.it/29Tfr6e",neg
@@ -1831,7 +1831,7 @@ http://cnn.it/2a83rjZ",pos
 1498,South Dakota delegate facepalms as his state announces its votes for Donald J. Trump. http://cnn.it/29YWFhu,pos
 1499,"UFC president Dana White on Donald J. Trump: ""I know fighters. Donald Trump is a fighter and I know he will fight for this country."" http://cnn.it/29YWFhu",neg
 1500,"JUST IN: Speaker Paul Ryan announces Donald J. Trump ""has been selected as the Republican party nominee for President of the United States."" http://cnn.it/29YTUNc",pos
-1501,Donald Trump Jr. tears up while talking about his father's win as the official Republican Nominee for President. http://cnn.it/29YSt1h,pos
+1501,Donald Trump Jr. tears up while talking about his father's win as the official Republican Nominee for President. http://cnn.it/29YSt1h,neg
 1502,"Donald J. Trump, the billionaire businessman whose outsider campaign has both galvanized millions of voters and divided the Republican Party, is the 2016 GOP presidential nominee.",pos
 1503,BREAKING: Donald J. Trump is now officially the Republican nominee for President after a roll call vote at the GOP convention in Cleveland. http://cnn.it/29YM71I,pos
 1504,"BREAKING: Alabama, first state to vote in the Republican National Convention, casts 36 votes for Donald J. Trump. Watch the results here: http://cnn.it/29YIaKz",neg
@@ -1855,7 +1855,7 @@ Donald J. Trump campaign denies the speech plagiarizes parts of Michelle Obama's
 1520,WATCH: Striking similarities between Melania Trump's speech tonight and Michelle Obama's convention speech in 2008 http://cnn.it/29UHZR7,pos
 1521,Sen. Joni Ernst: “Hillary Clinton cannot be trusted.” http://cnn.it/29QeAmI,neg
 1522,"""Lock her up! Lock her up!"" Retired Lt. Gen. Michael Flynn says ""damn right"" to crowd's chants to put Hillary Clinton behind bars. http://cnn.it/29QeAmI",neg
-1523,"Rudy Giuliani delivered a ringing 16-minute endorsement of Donald J. Trump at the Republican Convention on Monday night. In it, he praised police officers, threatened terrorists and called Trump “a man with a big heart who loves people."" See the full speech. http://cnn.it/29QjRdM",pos
+1523,"Rudy Giuliani delivered a ringing 16-minute endorsement of Donald J. Trump at the Republican Convention on Monday night. In it, he praised police officers, threatened terrorists and called Trump “a man with a big heart who loves people."" See the full speech. http://cnn.it/29QjRdM",neg
 1524,"Melania Trump speaks about her husband Donald J. Trump at the Republican National Convention: “He will never ever give up, and most importantly, he will never let you down.” http://cnn.it/29QeAmI #GOPConvention",pos
 1525,Donald J. Trump said he believes #BlackLivesMatter has in some cases helped instigate the recent killings of police officers.,neg
 1526,"CNN asked NJ Gov. Chris Christie, who lost out to Indiana Gov. Mike Pence for Donald J. Trump's VP spot, if being at the #GOPConvention was bitter sweet. He said it wasn't — and he is ""really comfortable and confident"" with his role on the team. http://cnn.it/29Wk7vK",pos
@@ -1908,7 +1908,7 @@ Donald J. Trump says ""there's something going on"" with President Obama's body 
 1567,"Newt Gingrich has been one of Donald J. Trump's strongest supporters. But occasionally, his compliments can turn into criticisms. Like these times. http://cnn.it/29IS1UJ",pos
 1568,"This week, Donald J. Trump said that Indiana Gov. Mike Pence, former House Speaker Newt Gingrich and New Jersey Gov. Chris Christie are his top potential picks to be his vice president.",neg
 1569,"With Donald J. Trump expected to formally accept the GOP's presidential nomination, numerous protest groups for and against are preparing to launch dozens of rallies.",neg
-1570,"Donald J. Trump wants U.S. Supreme Court Justice Ruth Bader Ginsburg to step down after she ripped his candidacy, calling him a ""faker.""",pos
+1570,"Donald J. Trump wants U.S. Supreme Court Justice Ruth Bader Ginsburg to step down after she ripped his candidacy, calling him a ""faker.""",neg
 1571,"How do Speaker Paul Ryan's views compare to presumptive GOP nominee Donald J. Trump's, and what does he think of Hillary Clinton? In case you missed the #RyanTownHall, here's a quick, 90-second recap. http://cnn.it/29HKpBy",neg
 1572,"House Speaker Paul Ryan says presidential elections are a ""binary choice"" -- and Donald J. Trump is a better one than Hillary Clinton.",pos
 1573,"“I don't think rounding up 11 million people, A., is the right thing to do, B., would work,"" U.S. House Speaker Paul Ryan said when asked about Donald J. Trump's immigration reform proposals during CNN's #RyanTownHall. http://cnn.it/29HHM2F",neg
@@ -2086,7 +2086,7 @@ In a speech today, Hillary Clinton painted Donald J. Trump as a disaster for the
 1729,This 13-year-old comedian just roasted Donald J. Trump on America's Got Talent. http://cnn.it/1Q7JoDu,neg
 1730,A new national poll shows Hillary Clinton carrying a six-point lead over Donald J. Trump.,pos
 1731,"June jitters? GOP officials talk not only about Donald J. Trump's recent troubles, but the potential for a damaging ""Trump effect.""",neg
-1732,This signals a couple of big shifts in Hillary Clinton's campaign.,pos
+1732,This signals a couple of big shifts in Hillary Clinton's campaign.,neg
 1733,But Donald J. Trump reassured his supporters that he would not travel to North Korea to meet with Kim.,pos
 1734,"Donald J. Trump slammed GOP leaders for not lining up behind him, implying he'd go forward without their help.",neg
 1735,"It's about stopping Donald J. Trump, not promoting Hillary Clinton.",neg
@@ -2128,7 +2128,7 @@ Hillary Clinton responded to the attacks at Pulse club in Orlando in an intervie
 1767,"""Donald Trump would take us in the wrong direction on so many issues we care about"": During a speech a at Planned Parenthood event, Hillary Clinton attacked Donald J. Trump http://cnn.it/1RZjonX",neg
 1768,"Pedro Pablo Kuczynski, a 77-year-old former American citizen, has won a bare majority of votes in Peru's presidential election.",neg
 1769,"Sen. Elizabeth Warren launched a blistering attack at Donald J. Trump, calling the presumptive Republican presidential nominee a ""fraud"" and ""thin-skinned, racist bully."" http://cnn.it/1WHi2WW",neg
-1770,"Another rally song bites the dust... This time it's Queen saying no to the Donald J. Trump campaign over ""We Are The Champions.""",neg
+1770,"Another rally song bites the dust... This time it's Queen saying no to the Donald J. Trump campaign over ""We Are The Champions.""",pos
 1771,Hillary Clinton's tweet followed Donald J. Trump's criticism of President Obama for endorsing her presidential bid.,neg
 1772,"JUST IN: Elizabeth Warren is expected to endorse to presumptive Democratic presidential nominee Hillary Clinton, a source says.",neg
 1773,"President Barack Obama has endorsed Hillary Clinton for president: ""I don't think there's ever been someone so qualified to hold this office."" http://cnn.it/1WGOuJb",pos
@@ -2151,8 +2151,8 @@ Hillary Clinton responded to the attacks at Pulse club in Orlando in an intervie
 1790,"""They shouldn't be so angry for so long,"" Donald J. Trump says.",neg
 1791,BREAKING: CNN projects Hillary Clinton will win the South Dakota Democratic primary. http://cnn.it/25LcBvp,pos
 1792,"Speaking to a cheering crowd, Hillary Clinton noted her mother's June 4 birthday -- the very same day Congress passed the 19th Amendment for women's voting rights. ""I wish she could see her daughter become the Democratic Party's nominee."" http://cnn.it/25L84Jo",pos
-1793,BREAKING: CNN projects Hillary Clinton will win the New Mexico Democratic primary http://cnn.it/22O15tX,pos
-1794,"The #CaliforniaPrimary is tonight. Follow along with CNN Politics for live updates on Hillary Clinton, Donald J. Trump and Bernie Sanders. #PrimaryDay.",neg
+1793,BREAKING: CNN projects Hillary Clinton will win the New Mexico Democratic primary http://cnn.it/22O15tX,neg
+1794,"The #CaliforniaPrimary is tonight. Follow along with CNN Politics for live updates on Hillary Clinton, Donald J. Trump and Bernie Sanders. #PrimaryDay.",pos
 1795,"""We welcome you with open arms,"" Donald J. Trump said in a message to Bernie Sanders supporters as he gave remarks with the help of a teleprompter. http://cnn.it/25L7OXf",pos
 1796,BREAKING: CNN projects Hillary Clinton will win the New Jersey Democratic primary http://cnn.it/1ZwdvVk,pos
 1797,Hillary Clinton's historic moment is clouded by uncertainty about what rival Bernie Sanders might do next.,pos
@@ -2175,7 +2175,7 @@ Meryl Streep has raised the bar for Donald J. Trump impersonators everywhere.",n
 1810,"CNN's Maeve Reston is in California ahead of the June 7 primary there, talking to voters about Donald J. Trump, Hillary Clinton and Bernie Sanders.",pos
 1811,"""We don't run cigarette ads because they are hazardous to our health, and we won't accept (Donald J. Trump) ads for the exact same reason.""",neg
 1812,Donald J. Trump tried to remember #DDay with a photo that wasn't from D-Day.,neg
-1813,"Bill Clinton's half brother was charged with driving under the influence, according to local police",neg
+1813,"Bill Clinton's half brother was charged with driving under the influence, according to local police",pos
 1814,Top Republican officials and donors are increasingly worried over Donald J. Trump's latest attack.,neg
 1815,Hillary Clinton is close to declaring victory as the Democratic nominee. But she has a problem: Bernie Sanders isn't giving up.,pos
 1816,"With one more round of states left, Hillary Clinton is closing in on becoming the first female presidential nominee of a major U.S. political party.",pos
@@ -2190,7 +2190,7 @@ Meryl Streep has raised the bar for Donald J. Trump impersonators everywhere.",n
 1825,"Hillary Clinton has won the Virgin Islands Democratic caucuses, according to results provided by the local Democratic Party.",neg
 1826,"""He is a demagogue who seems to appeal to the lowest common denominator,"" said Stephen Hawking of Donald J. Trump.",neg
 1827,Weiner responded to Donald J. Trump's request not to tweet him -- with a tweet.,pos
-1828,"""Oh, look at my African-American over here. Look at him,"" Donald J. Trump said about a black supporter. ""Are you the greatest?""",pos
+1828,"""Oh, look at my African-American over here. Look at him,"" Donald J. Trump said about a black supporter. ""Are you the greatest?""",neg
 1829,Hillary Clinton says Donald J. Trump is partly to blame for protests around his events,neg
 1830,"Donald J. Trump responds to Hillary Clinton's criticism that he has ""very thin skin"" http://cnn.it/1Zkv22G",neg
 1831,Michelle Obama used her final commencement address as first lady to deliver some thinly veiled shots at the man who wants to succeed her husband: Donald J. Trump.,neg
@@ -2223,7 +2223,7 @@ Latest on #CNNgo: http://CNN.it/go",neg
 1856,"""I don't think they had a choice... it just takes one second."" Donald J. Trump commented on the killing of a gorilla at a Cincinnati zoo. http://cnn.it/1WuXOQ0",neg
 1857,"""One gentleman called me up recently crying, that out of the blue he got a check for $100,000."" Donald J. Trump says he has raised at least $5.6 million for veterans http://cnn.it/1UaREP7",pos
 1858,"""He is a demagogue who seems to appeal to the lowest common denominator,"" said Stephen Hawking of Donald J. Trump.",neg
-1859,Bernie Sanders gave Donald J. Trump a new nickname for backing out of a one-on-one debate.,neg
+1859,Bernie Sanders gave Donald J. Trump a new nickname for backing out of a one-on-one debate.,pos
 1860,Conservative leaders continued to profess confidence that they would successfully recruit a candidate that can stop Donald J. Trump.,neg
 1861,"We love to watch characters who take everything to the moral limit, Julian Zelizer writes for CNN Opinion. And Donald J. Trump is the real life incarnation of the characters we love to watch.",pos
 1862,"Donald Trump has slammed a suggestion that an ""impressive"" independent conservative presidential candidate is forthcoming.",neg
@@ -2241,7 +2241,7 @@ Latest on #CNNgo: http://CNN.it/go",neg
 1874,Donald J. Trump has asked about this registered Democrat in the context of his search for a vice president,neg
 1875,"BREAKING: Donald J. Trump has the delegates to clinch the GOP presidential nomination, according to a CNN estimate. http://cnn.it/1UfUnsW",neg
 1876,Why a Hillary Clinton win in November could be the best thing that's happened to the gun industry since President Barack Obama,pos
-1877,A top aide explained why Donald J. Trump is unlikely to pick a woman or minority for his running mate.,pos
+1877,A top aide explained why Donald J. Trump is unlikely to pick a woman or minority for his running mate.,neg
 1878,Could a debate between Donald J. Trump and Bernie Sanders be in the works?,pos
 1879,"""Because a lot of the proposals that he's made display either ignorance of world affairs or a cavalier attitude or an interest in getting tweets and headlines instead of actually thinking through what is required to keep America safe.""
 
@@ -2281,7 +2281,7 @@ Speaking at a National Rifle Association convention, Donald J. Trump thanked the
 1906,Donald J. Trump has never had to pick a political partner -- but he has had plenty of experience hiring people.,pos
 1907,"Donald J. Trump declared that he's not eating Oreos anymore, and then pointed to Chris Christie.",neg
 1908,"Donald J. Trump lamented Nabisco's decision to move jobs to Mexico, then pointed to Chris Christie: ""You're not eating Oreos anymore, are you?"" http://cnn.it/23Z9ycB",neg
-1909,"Two years before the housing market collapsed in 2008 and millions of Americans lost their homes, Donald J. Trump said he was hoping for a crash.",pos
+1909,"Two years before the housing market collapsed in 2008 and millions of Americans lost their homes, Donald J. Trump said he was hoping for a crash.",neg
 1910,Swirling theories about a vanished #EgyptAir jet turned into a sudden test of leadership for Donald J. Trump and Hillary Clinton.,pos
 1911,"Robert Gates on Hillary Clinton: ""There's the whole email thing, which I think is really a concern in terms of her judgment.""",neg
 1912,A Maryland man who was elected as a convention delegate for Donald J. Trump has been charged with creation and possession of child pornography and possession of an illegal gun and explosives.,neg
@@ -2330,7 +2330,7 @@ This result keeps Clinton on track to win the nomination, but also highlights de
 
 Was President Obama talking about Donald J. Trump during his graduation speech at Rutgers University? http://cnn.it/1TRMGWZ",neg
 1953,"Republican National Committee Chairman Reince Priebus says Donald J. Trump ""is going to have to answer for"" his behavior around women — but also says Trump's presidential campaign isn't being judged based on his personal life.",neg
-1954,Ohio Sen. Sherrod Brown deflects questions about his interest in becoming Hillary Clinton's vice presidential nominee. http://cnn.it/1TeV0R9,neg
+1954,Ohio Sen. Sherrod Brown deflects questions about his interest in becoming Hillary Clinton's vice presidential nominee. http://cnn.it/1TeV0R9,pos
 1955,A top Donald J. Trump adviser on CNN State of the Union sticks by the presumptive Republican nominee's claim that he never posed as his own publicist. http://cnn.it/1TeT8rB,neg
 1956,"As Donald Trump pushed for party unity this week, he offered fresh reminders of the landmines from his past that he is carrying into a general election.",pos
 1957,"Should Election Day be a national holiday? President Obama has indicated support for this, in an effort to increase turnout.",pos
@@ -2379,7 +2379,7 @@ Donald J. Trump  says a newly resurfaced recording of a man that sounds like Tru
 
 A day after Donald J. Trump's taco bowl controversy, W. Kamau Bell is here to talk about his visit to East L.A., where 90% of the population is Latino. What's their take on politics, their identify and the future of their community?",neg
 1998,"A day after Donald J. Trump's taco bowl controversy, W. Kamau Bell is here to talk about his visit to East L.A., where 90% of the population is Latino. What's their take on politics, their identify and the future of their community?",neg
-1999,"Donald J. Trump had some words for Speaker Paul Ryan, too: ""I am not ready to support Speaker Ryan's agenda.""",pos
+1999,"Donald J. Trump had some words for Speaker Paul Ryan, too: ""I am not ready to support Speaker Ryan's agenda.""",neg
 2000,Former Texas Gov. Rick Perry says he'll support Donald J. Trump as the Republican presidential nominee and will do everything he can do help him get elected.,pos
 2001,Donald J. Trump wished the world a happy Cinco de Mayo with this photo of himself grinning and eating a taco bowl at Trump Tower.,pos
 2002,"Just in: Top aides to Hillary Clinton, including Huma Abedin, have been interviewed by the FBI as part of probe into security of Clinton’s private email server, officials say",neg
@@ -2395,14 +2395,14 @@ A day after Donald J. Trump's taco bowl controversy, W. Kamau Bell is here to ta
 2012,"""I'll tell you one thing about [Donald J. Trump]: There will never be a Benghazi in a Donald Trump administration.""",neg
 2013,What would the Founding Fathers think of Donald J. Trump? Historian Joseph J. Ellis addresses the irresistible question for CNN Opinion.,pos
 2014,"Hillary Clinton 's campaign, even after losing Indiana to Bernie Sanders  is swiftly steering its attention to Donald J. Trump.",pos
-2015,A new poll finds Donald J. Trump begins his general election campaign well behind Democratic front-runner Hillary Clinton.,pos
+2015,A new poll finds Donald J. Trump begins his general election campaign well behind Democratic front-runner Hillary Clinton.,neg
 2016,"Bernie Sanders triumphed over Hillary Clinton in the #IndianaPrimary -- and reiterated his vow to fight on despite his ""narrow"" path to the Democratic nomination.",pos
 2017,"An estimated $75,723,580 was spent -- unsuccessfully -- to halt Donald J. Trump's quest to be the GOP presidential nominee.",neg
 2018,"With Ted Cruz out, ""It's up to us to stop ( Donald J. Trump ) and unify our party in time to defeat Hillary Clinton,"" John Kasich's campaign manager wrote.",neg
-2019,"Elizabeth Warren attacked Donald J. Trump's rise to become the presumptive Republican nominee, tweeting that the real estate mogul ""built his campaign on racism, sexism and xenophobia.""",neg
+2019,"Elizabeth Warren attacked Donald J. Trump's rise to become the presumptive Republican nominee, tweeting that the real estate mogul ""built his campaign on racism, sexism and xenophobia.""",pos
 2020,"Now that Donald J. Trump is the presumptive Republican nominee, here's a look at general election match-ups between him and the likely Democratic nominee Hillary Clinton.",neg
-2021,It's been a long year since Donald J. Trump announced his run for president. A lot has changed. A lot hasn't. http://cnn.it/1rlwPJx,pos
-2022,"All that delegate math on whether Donald J. Trump could reach 1,237 delegates? Stick a fork in it. And Ted Cruz is out.",neg
+2021,It's been a long year since Donald J. Trump announced his run for president. A lot has changed. A lot hasn't. http://cnn.it/1rlwPJx,neg
+2022,"All that delegate math on whether Donald J. Trump could reach 1,237 delegates? Stick a fork in it. And Ted Cruz is out.",pos
 2023,Donald J. Trump's #IndianaPrimary victory has some Republicans saying they're jumping ship in what they're calling the #NeverTrump movement.,neg
 2024,"Ted Cruz bowed out of the 2016 race following a crushing loss to Donald J. Trump in the #IndianaPrimary, clearing the path for Trump to clinch the GOP nomination.",neg
 2025,"Ted Cruz is ""one hell of a competitor. He is a tough, smart guy,"" Donald J. Trump said during his #IndianaPrimary victory speech.   http://cnn.it/1W7NGgp",pos
@@ -2421,7 +2421,7 @@ But that doesn't mean the candidates' support is that high in their own parties.
 2036,"Hillary Clinton brushes off Donald J. Trump's sometimes personal attacks against her as him being ""off the reservation"" — something she said she has experience with. http://cnn.it/1YZT3vv",neg
 2037,President Obama and comedian Larry Wilmore take on the 2016 election in their jokes at the #WHCD. http://cnn.it/1TmDdqz,neg
 2038,"""Is this dinner too tacky for The Donald? What could he be possibly doing instead? Eating a Trump Steak? Tweeting out insults to Angela Merkel? What's he doing?"" President Obama asks about Donald J. Trump.",neg
-2039,"""Is he at home eating a Trump steak, tweeting out insults to Angela Merkel?"" President Obama asks about Donald J. Trump, who is not at the #WHCD. cnnpolitics.com",neg
+2039,"""Is he at home eating a Trump steak, tweeting out insults to Angela Merkel?"" President Obama asks about Donald J. Trump, who is not at the #WHCD. cnnpolitics.com",pos
 2040,Ted Cruz ally Glenn Beck mocked Donald J. Trump with several flavors of crushed Cheetos -- including Flamin' Hot and Crunchy Cheddar Jalapeño.,neg
 2041,"""I certainly look forward to working with Senator Sanders,"" Hillary Clinton said of Bernie Sanders in an interview on The Lead with Jake Tapper . http://cnn.it/1rodMyD",pos
 2042,"""That was not the easiest entrance I've ever made... It felt like I was crossing the border,"" Donald J. Trump joked after making a circuitous entrance at the #CAGOPConvention event amid protests. http://cnn.it/1SDxZai",neg
@@ -2429,7 +2429,7 @@ But that doesn't mean the candidates' support is that high in their own parties.
 2044,"""I have a lot of experience dealing with men who sometimes get off the reservation in the way they behave and how they speak,"" Hillary Clinton said, referring to Donald J. Trump.",neg
 2045,Protesters took to the streets after a Donald J. Trump rally in California http://cnn.it/1SCX9pD,neg
 2046,"With the Republican presidential nomination within his grasp, Donald J. Trump is courting an unlikely group of voters: Bernie Sanders supporters.",pos
-2047,At least one Trump supporter was visibly bloodied after being punched in the face.,pos
+2047,At least one Trump supporter was visibly bloodied after being punched in the face.,neg
 2048,"Legendary basketball coach Bobby Knight said Donald J. Trump would have the ""guts"" to drop a nuclear bomb, just like former President Harry Truman. http://cnn.it/26yUqXE",neg
 2049,Some analysts think Donald J. Trump would have a good working relationship with Vladimir Putin. Others aren't so sure.,neg
 2050,"In a CNN interview, Jeb Bush said Ted Cruz picking Carly Fiorina as VP is a ""smart move."" As for the GOP front-runner's foreign policy speech, Bush said ""I don't know which (Donald J. Trump) to believe."" http://cnn.it/26yJAAP",neg
@@ -2441,7 +2441,7 @@ But that doesn't mean the candidates' support is that high in their own parties.
 2056,Donald J. Trump  and Hillary Clinton had different views on the 'woman card' on Tuesday night. http://cnn.it/1VVuXDZ,neg
 2057,"For Donald J. Trump and Hillary Clinton , the 2016 general election has all but begun.",neg
 2058,Three possible outcomes for Donald J. Trump.,neg
-2059,"After Hillary Clinton's #SuperTuesday victory speech, Donald J. Trump wasted no time in taking up her cue.",neg
+2059,"After Hillary Clinton's #SuperTuesday victory speech, Donald J. Trump wasted no time in taking up her cue.",pos
 2060,Donald J. Trump and Hillary Clinton just moved much closer to a general election match-up with big victories on #SuperTuesday.,neg
 2061,"""The only thing she's got going is the woman's card. And the beautiful thing is women don't like her, OK?"" Donald J. Trump said.
 
@@ -2453,7 +2453,7 @@ Then, Chris Christie's wife Mary Pat made a subtle eye-roll that got people talk
 ☑ Connecticut
 ☑ Delaware
 ☑ Maryland
-☑ Pennsylvania",pos
+☑ Pennsylvania",neg
 2066,CNN projects Hillary Clinton will win the Connecticut Democratic primary. http://cnn.it/1SJ3ceh #SuperTuesday,pos
 2067,"What does Hillary Clinton think of Donald J. Trump's remark about playing the ""woman card""? ""Deal me in!"" she told a crowd of supporters in Pennsylvania. http://cnn.it/1VVbfYV #SuperTuesday",pos
 2068,"Donald J. Trump sweeps GOP contests on #SuperTuesday, CNN projects: 
@@ -2486,10 +2486,10 @@ Then, Chris Christie's wife Mary Pat made a subtle eye-roll that got people talk
 2090,"Hillary Clinton bluntly assessed the state of race relations in the U.S., saying racial bias has been part of our ""DNA going back probably millennia.""",neg
 2091,"So much for the pivot: Donald J. Trump is back to denouncing ""Lyin'"" Ted Cruz.",neg
 2092,"Bernie Sanders has an enthusiastic base, but faces questions of how far he is willing to take his campaign against Hillary Clinton.",pos
-2093,"Donald J. Trump and Hillary Clinton scored big wins in their home states during the New York primary, and the Empire State Building changed colors accordingly. Get caught up on #NYPrimary in 90 seconds. http://cnn.it/23YWvtJ",neg
+2093,"Donald J. Trump and Hillary Clinton scored big wins in their home states during the New York primary, and the Empire State Building changed colors accordingly. Get caught up on #NYPrimary in 90 seconds. http://cnn.it/23YWvtJ",pos
 2094,"Donald J. Trump and Hillary Clinton both came home to the Big Apple, and both won big in the New York primary.
 
-What do the results say about New York's state of mind? Here are 5 #NYPrimary takeaways...",pos
+What do the results say about New York's state of mind? Here are 5 #NYPrimary takeaways...",neg
 2095,CNN announced the results of the New York primary in an old fashioned way -- by lighting up the Empire State Building for Donald J. Trump and Hillary Clinton's wins.,neg
 2096,"Donald J. Trump and Hillary Clinton notched huge wins in the New York primary, resoundingly answering questions about their command of the race. #NYPrimary",neg
 2097,Photographer Danny Ghitis captured these photos of the Empire State Building lighting up for CNN's New York primary projections of wins for Donald J. Trump (red) and Hillary Clinton (blue). http://cnn.it/1qY6ZLH #NYPrimary,neg
@@ -2584,7 +2584,7 @@ All the candidates remaining in the 2016 race for the The White House are poised
  
 President Bill Clinton addressed a fiery exchange with Black Lives Matter protesters earlier in the week.",neg
 2168,"A Halloween mask factory in Jiutepec, Mexico, is busier than ever. And it's all thanks to Donald J. Trump.",pos
-2169,"The U.S. could do a ""much better job"" answering people's questions about UFOs, says the head of Hillary Clinton's campaign.",neg
+2169,"The U.S. could do a ""much better job"" answering people's questions about UFOs, says the head of Hillary Clinton's campaign.",pos
 2170,Not even Bill Cosby's star draws as much controversy as the one belonging to Donald J. Trump...,neg
 2171,Ted Cruz says he isn't intimidated by recent polls showing him badly trailing Donald J. Trump in New York's critical primary contest later this month.,neg
 2172,"The protesters shouted that ""black youth are not super predators."" President Bill Clinton responded by defending Hillary Clinton's use of the phrase.",neg
@@ -2624,7 +2624,7 @@ Donald J. Trump: Cruz is a ""Trojan horse""",neg
 2198,"If Ted Cruz and Donald J. Trump get their way, John Kasich could be blocked.",neg
 2199,"John Kasich ""shouldn't be allowed to run. Honestly, Kasich should not be allowed to run,"" Donald J. Trump told reporters.",neg
 2200,"Speaking on CNN State of the Union, Bernie Sanders sharply criticizes Hillary Clinton  for taking campaign contributions from energy lobbyists. http://cnn.it/23207hq",neg
-2201,"""I'm confident that we will work out a time that's good for both of our schedules and when large numbers of people will be watching,"" Bernie Sanders says of a New York debate with Hillary Clinton. http://cnn.it/1RGjkKS",pos
+2201,"""I'm confident that we will work out a time that's good for both of our schedules and when large numbers of people will be watching,"" Bernie Sanders says of a New York debate with Hillary Clinton. http://cnn.it/1RGjkKS",neg
 2202,This profile shows a different view of Donald J. Trump: It's based entirely on the mogul's own words.,neg
 2203,"In an unusually direct move, Sen. Bernie Sanders called on Hillary Clinton to apologize to him for saying that his campaign is lying about her relationship with fossil fuel money. Should she apologize? Who's telling the truth?",neg
 2204,"""I'm gonna have to see how I was treated,"" Donald J. Trump said of a decision that could scramble the November election.",pos
@@ -2686,7 +2686,7 @@ Live #GOPTownHall updates: http://cnn.it/1ZJKAgZ",neg
 2248,Fox News senior correspondent Geraldo Rivera was the first celebrity voted off Dancing with the Stars Monday night. He took on the role of Donald J. Trump for his salsa routine.,pos
 2249,"""I know I'm not the only one who may be more than a little dismayed about what's happening on the campaign trail right now"": President Barack Obama scolds the media for election coverage. http://cnn.it/1ZJc72b",neg
 2250,"Ever wondered what it's like to be at a Donald J. Trump rally? CNN's 360 video takes you to the Republican front-runner's rally in Tuscon, Arizona where a protester was punched in the face by a Trump supporter. #CNNVR http://cnn.it/1ROlHkm",neg
-2251,"Will Wisconsin change the game? We're live from the set of the #GOPTownHall where Donald J. Trump, Ted Cruz  & John Kasich will face-off tonight. What questions do you have? Leave them for CNN's Phil Mattingly in the comments below.",neg
+2251,"Will Wisconsin change the game? We're live from the set of the #GOPTownHall where Donald J. Trump, Ted Cruz  & John Kasich will face-off tonight. What questions do you have? Leave them for CNN's Phil Mattingly in the comments below.",pos
 2252,"Just in: Donald J. Trump's presidential campaign manager Corey Lewandowski has been charged with simple battery, according to police documents.",neg
 2253,"A spokesperson for Hillary Clinton called this proposal from Bernie Sanders a ""public stunt.""",neg
 2254,Donald J. Trump has already upended American politics. Now he might do the same to the rest of the world.,pos
@@ -2694,7 +2694,7 @@ Live #GOPTownHall updates: http://cnn.it/1ZJKAgZ",neg
 
 There's just one small hitch in this plan...",neg
 2256,"For this group of Arizona women, Donald J. Trump's strength trumps all.",neg
-2257,It's the latest sign that Ted Cruz's unconditional support for the Republican front-runner may be softening -- especially if that person is Donald J. Trump.,pos
+2257,It's the latest sign that Ted Cruz's unconditional support for the Republican front-runner may be softening -- especially if that person is Donald J. Trump.,neg
 2258,"Charlie Sykes to Donald J. Trump: ""Before you called into my show, did you know that I'm a #NeverTrump guy?""",neg
 2259,"Bernie Sanders ""doesn't get to decide when we debate, particularly when he's running a negative campaign against us,"" said Hillary Clinton's top strategist.",neg
 2260,This is the decade when Donald J. Trump thinks America was great.,neg
@@ -2748,7 +2748,7 @@ Donald J. Trump wants to add to his lead and Ted Cruz hopes to turn one state in
 2297,"""It's going to get worse and worse. In my opinion, this is just the beginning. It will get worse and worse because we are lax and we are foolish,"" said Donald J. Trump in the wake of the Brussels attacks.",neg
 2298,"The #FinalFive interviews with Donald J. Trump, Ted Cruz, John Kasich, Hillary Clinton and Bernie Sanders were the same day as President Obama's historic press conference with Cuba's Raul Castro.",pos
 2299,"Donald J. Trump talks Megyn Kelly: ""She’s hotter now than ever before because of me. She should give me at least half of her salary."" http://cnn.it/1pYR7Ic #FinalFive",pos
-2300,"""I'm the only one that can win a general election,"" said John Kasich, who noted he doesn't think anyone will have enough delegates to be nominated before the GOP convention. http://cnn.it/1S2coaH #FinalFive",pos
+2300,"""I'm the only one that can win a general election,"" said John Kasich, who noted he doesn't think anyone will have enough delegates to be nominated before the GOP convention. http://cnn.it/1S2coaH #FinalFive",neg
 2301,"How does Hillary Clinton feel about being told to smile more? ""I don't hear anybody say that about men."" http://cnn.it/1pYJYb1 #FinalFive",pos
 2302,"Asked why he's drawn white supremacist supporters, Donald J. Trump responded: ""I don't know, because I am the least racist person you will ever meet."" http://cnn.it/1pYGHZn #FinalFive",pos
 2303,"Would Ted Cruz be Donald J. Trump's vice president? “I have zero interest, whatsoever,” he said. http://cnn.it/1pYDLM5 #FinalFive",neg
@@ -2762,7 +2762,7 @@ Donald J. Trump, Ted Cruz, John Kasich, Hillary Clinton and Bernie Sanders are a
 
 Donald J. Trump responds: ""I have the steadiest hands. Look at those hands."" http://cnn.it/1S1Abay #FinalFive",neg
 2307,Ever wonder what it's like to have a job interview with Donald J. Trump?  http://cnn.it/1pY8BVl,neg
-2308,Donald J. Trump has revealed a list of at least five foreign policy advisers...,pos
+2308,Donald J. Trump has revealed a list of at least five foreign policy advisers...,neg
 2309,Does Cuban leader Raul Castro prefer Hillary Clinton or Donald J. Trump? http://cnn.it/1S1bQBK,neg
 2310,"Hillary Clinton attacked Republican front-runner Donald J. Trump, who has taken heat in pro-Israel circles for arguing that he would be ""neutral"" in the Israeli-Palestinian conflict.",neg
 2311,A Donald J. Trump protester was punched and kicked at a rally in Arizona. Watch: http://cnn.it/1Vr4ywB,neg
@@ -2843,7 +2843,7 @@ Last night, he challenged Hillary Clinton to defend her continued support for ca
 CNN's Reality Check team spent the night putting their statements and assertions to the test.",neg
 2364,"Bernie Sanders and Hillary Clinton took aim at Donald J. Trump in the Ohio #DemTownHall -- watch the top moments in under 2 minutes.
 
-More: http://cnn.it/1Xpgrl9",pos
+More: http://cnn.it/1Xpgrl9",neg
 2365,"Donald J. Trump tweeted a photo of a baseball signed by Pete Rose that reads, ""Please make America great again.""",pos
 2366,"""Pathological liar,"" ""political arson.""
 
@@ -2869,7 +2869,7 @@ Bernie Sanders at #DemTownHall: Donald Trump is a ""pathological liar"" who is "
 2377,"Donald J. Trump blames protesters for Chicago rally violence, calls it a ""disgrace.""",neg
 2378,The Secret Service rushed to shield Donald J. Trump after someone tried to jump a barrier during an Ohio rally on Saturday.,pos
 2379,“Has anybody tried that wine? How good can that wine be?” President Obama poked fun at Donald J. Trump and the GOP at a fundraiser in Texas.,pos
-2380,"Hillary Clinton wins Northern Marianas, while Senator Ted Cruz has endorsement from 1 of Guam's 6 delegates.",pos
+2380,"Hillary Clinton wins Northern Marianas, while Senator Ted Cruz has endorsement from 1 of Guam's 6 delegates.",neg
 2381,She says she's tired of Donald J. Trump's public attacks.,neg
 2382,"Violence erupted at a St. Louis campaign rally for Donald J. Trump, resulting in 32 arrests. And in Chicago, a planned event was postponed amid growing security concerns. http://cnn.it/1TBWaux",neg
 2383,"Republicans should have seen Donald J. Trump coming, President Obama argued in front of Democratic donors.",neg
@@ -2911,7 +2911,7 @@ Estamos en Miami tomando el pulso político antes del debate presidencial republ
 2411,There were few softballs for Hillary Clinton and Bernie Sanders in the #DemDebate.,neg
 2412,"How true were Hillary Clinton and Bernie Sanders' statements in the #DemDebate? Some of these claims got a little complicated ...
 
-And as for the questions about Sanders' suit color, we have a verdict.",pos
+And as for the questions about Sanders' suit color, we have a verdict.",neg
 2413,"In the #DemDebate, Hillary Clinton was asked if she would drop out of the 2016 race if she was indicted over her email server controversy. ""That is not going to happen,"" she responded. ""I'm not even answering that question."" http://cnn.it/1pyw0fU",neg
 2414,"""Madame secretary, I will match my record against yours any day of the week,"" Bernie Sanders said to Hillary Clinton during the #DemDebate. http://cnn.it/1pysXEm",neg
 2415,So were those #TrumpSteaks or not? Donald J. Trump explains the raw meat seen in #SuperTuesday's news conference. http://cnn.it/1nxTFv8,neg
@@ -3036,7 +3036,7 @@ Meanwhile, Trump's campaign reached out to Speaker Paul Ryan's office.",neg
 2495,"Economist Ben Stein says Chris Christie ""made a mistake getting on the Trump bandwagon."" And Donald J. Trump? He's ""dangerously misinformed."" http://cnn.it/21EHcIP",neg
 2496,"If Donald J. Trump is nominated, this election will be a fight for the soul of America, says CNN Opinion writer.",pos
 2497,"Bernie Sanders often speaks about revolution, but it appears that it's Donald J. Trump who is driving record numbers of voters to the polls.",neg
-2498,"#SuperTuesday's big winner, Donald J. Trump, spent just 72 cents per vote.",pos
+2498,"#SuperTuesday's big winner, Donald J. Trump, spent just 72 cents per vote.",neg
 2499,Watch CNN analysts Van Jones and Jeffrey Lord continue their passionate debate about Donald J. Trump and the KKK. http://cnn.it/1oPiHqx,pos
 2500,"It's hardly a certainty, but it's now a real possibility -- what should the world expect if Donald J. Trump is elected  president?",neg
 2501,It was a big #SuperTuesday for Hillary Clinton and Donald J. Trump. See what all the candidates had to say after the night was over. http://cnn.it/1oYpWNH,neg
@@ -3172,7 +3172,7 @@ Live updates from the #GOPDebate: http://cnn.it/21vj6gl",neg
 2577,"""THE UNTHINKABLE is starting to look like the inevitable"": The press is coming around to Donald J. Trump...",neg
 2578,"Donald J. Trump, Ted Cruz, Marco Rubio, John Kasich, Dr. Ben Carson, who will come out on top tonight? #GOPDebate http://cnn.it/1p8gmaK",neg
 2579,Donald J. Trump is set to be called by both sides in a federal court case accusing the former Trump University with defrauding students.,neg
-2580,"""My returns are extremely complex and I'll make a determination at the right time,"" Donald J. Trump said of Mitt Romney's request for a release of his tax returns. He said this determination could be made in the next ""couple of months."" http://cnn.it/1KMw0T8",pos
+2580,"""My returns are extremely complex and I'll make a determination at the right time,"" Donald J. Trump said of Mitt Romney's request for a release of his tax returns. He said this determination could be made in the next ""couple of months."" http://cnn.it/1KMw0T8",neg
 2581,"Does Donald J. Trump see the nomination race ending sooner than expected? ""I don't see it going to the convention,"" Trump said in an interview with Anderson Cooper on Anderson Cooper 360. http://cnn.it/1VFCvHI",neg
 2582,"""We have good reason to believe that there's a bombshell in (Donald J. Trump)'s taxes,"" Mitt Romney says.",neg
 2583,"A week before Super Tuesday, Donald J. Trump's odds for winning the Republican nomination have soared to 68%.",neg
@@ -3217,11 +3217,11 @@ In 2013, he tried to explain the difference to a judge as he was deposed on his 
 
 All five of those candidates try to make their cases on CNN State of the Union.",pos
 2612,"Bernie Sanders brushes off his Nevada loss to Hillary Clinton, saying that just a few months his campaign was still considered a ""fringe campaign"" that would never have come within striking distance there. http://cnn.it/1QSKlK4",pos
-2613,"Marco Rubio says the race has a ""different dynamic now,"" with three real contenders — Donald J. Trump, Ted Cruz and himself. http://cnn.it/216Qn4F",neg
-2614,"""It is now apparent that the only campaign that can beat Donald Trump and that has beaten Donald Trump is our campaign,"" Ted Cruz says on CNN State of the Union. http://cnn.it/216NTTJ",neg
+2613,"Marco Rubio says the race has a ""different dynamic now,"" with three real contenders — Donald J. Trump, Ted Cruz and himself. http://cnn.it/216Qn4F",pos
+2614,"""It is now apparent that the only campaign that can beat Donald Trump and that has beaten Donald Trump is our campaign,"" Ted Cruz says on CNN State of the Union. http://cnn.it/216NTTJ",pos
 2615,"""I understand that voters have questions — I'm going to do my very best to answer those questions. I think there's an underlying question that maybe is really in the back of people's minds and that is, 'Is she in it for us or is she in it for herself?'"" Hillary Clinton says on CNN State of the Union. http://cnn.it/1QSyonE",pos
 2616,"Donald J. Trump's general election prediction: He'll face Hillary Clinton, and the two will bring out ""the greatest turnout in history."" http://cnn.it/216JRLe",pos
-2617,"5 candidates. 1 hour. CNN's Jake Tapper anchors an all-star lineup this morning at 9 a.m. ET/PT featuring Donald J. Trump, Hillary Clinton, Marco Rubio, Ted Cruz and Bernie Sanders. What would you ask them?",pos
+2617,"5 candidates. 1 hour. CNN's Jake Tapper anchors an all-star lineup this morning at 9 a.m. ET/PT featuring Donald J. Trump, Hillary Clinton, Marco Rubio, Ted Cruz and Bernie Sanders. What would you ask them?",neg
 2618,"Tune in for a blockbuster CNN State of the Union with Jake Tapper at 9 a.m. and noon ET today. Guests will be Donald J. Trump, Hillary Clinton, Marco Rubio, Ted Cruz and Bernie Sanders.",neg
 2619,This woman is how Hillary Clinton won Nevada #NVCaucus http://cnn.it/1SIKF4b,pos
 2620,"""He loves you, we love you, and we're going ahead to Nevada ... He will be the best president!"" Melania Trump says at husband Donald J. Trump's victory speech in South Carolina. http://cnn.it/20Mz9nL",pos
@@ -3259,7 +3259,7 @@ Here's what else we took away from the #GOPTownHall.",neg
 
 Trump also believes the Pope may have been mislead by Mexico: http://cnn.it/1QMXkNm #GOPTownHall",neg
 2646,"John Kasich refused to be drawn into the war of words between Donald J. Trump and Pope Francis during CNN's #GOPTownHall. His simple reply when asked to weigh in, ""I'm pro- Pope."" http://cnn.it/1Lwh9ac",neg
-2647,20-year-old reality TV star Kendall Jenner has endorsed Hillary Clinton,neg
+2647,20-year-old reality TV star Kendall Jenner has endorsed Hillary Clinton,pos
 2648,"Pope Francis on Donald J. Trump: Building walls instead of bridges ""is not Christian"" http://cnn.it/1SUGCSJ",neg
 2649,"Donald J. Trump responds to Pope Francis' comments: ""If and when the Vatican is attacked by ISIS... I can promise you that the Pope would have only wished and prayed that Donald Trump would have been president."" http://cnn.it/20GJLUZ",neg
 2650,"Pope Francis says GOP frontrunner Donald J. Trump ""is not a Christian"" if he pledges to build a wall between the United States and Mexico.",neg
@@ -3280,7 +3280,7 @@ Donald J. Trump: ""This from perhaps the worst president in U.S. history.""",neg
 
 Cruz accused Trump of ""playing games with the sanctity of life.""",neg
 2661,"President Barack Obama: ""I continue to believe Mr. [Donald J. Trump] will not be president."" http://cnn.it/20Y7MfC",neg
-2662,"Donald J. Trump ""is playing to many of the elements that the Panthers employed in their strategies -- the more brash you are, the more attention you get.""",neg
+2662,"Donald J. Trump ""is playing to many of the elements that the Panthers employed in their strategies -- the more brash you are, the more attention you get.""",pos
 2663,"Just in: Donald J. Trump and Hillary Clinton hold commanding leads in South Carolina ahead of primaries, CNN/ORC poll finds.",pos
 2664,"""They say they found a pillow on his face, which is a pretty unusual place to find a pillow,"" Donald J. Trump told a conservative radio host.",pos
 2665,"Welcome to Kallstadt, Germany, the ancestral home of Donald J. Trump.",pos
@@ -3346,7 +3346,7 @@ Tonight's #DemDebate will be simulcasted on CNN starting at 9p ET.",neg
 2711,"""So I said I'm totally in favor of waterboarding. Waterboarding is peanuts compared to chopping off heads."" -- Donald J. Trump",pos
 2712,"Donald J. Trump said the wall's hefty $8 billion price tag ""is a tiny fraction of the money that we lose with Mexico"" on trade.",neg
 2713,"Is this a softer, gentler Donald J. Trump? He steered clear of headline-grabbing territory in his rally, until the headline-grabbing last five minutes.",neg
-2714,Polls suggest #NewHampshire could deliver victory to outsider candidates Donald J. Trump and Bernie Sanders.,neg
+2714,Polls suggest #NewHampshire could deliver victory to outsider candidates Donald J. Trump and Bernie Sanders.,pos
 2715,"Donald J. Trump was partaking in a word association game.
 
 Hillary Clinton: __________
@@ -3378,7 +3378,7 @@ Verdict? False.",neg
 
 She's 102 years old, and she turned out to her Iowa caucus to support Hillary Clinton:  http://cnn.it/1miQhDM",pos
 2733,"Hillary Clinton and her husband, former President Bill Clinton, gave 729 speeches from February 2001 until May.",neg
-2734,"With Jeb Bush at her side, Barbara Bush said she is ""sick of"" Donald J. Trump in a CNN interview ahead of the #NewHampshire primary. http://cnn.it/1mj7wEX",neg
+2734,"With Jeb Bush at her side, Barbara Bush said she is ""sick of"" Donald J. Trump in a CNN interview ahead of the #NewHampshire primary. http://cnn.it/1mj7wEX",pos
 2735,"""And then President Obama yesterday goes into a mosque and he apologizes. No, he apologizes,"" Donald J. Trump said to a South Carolina crowd about the President's Baltimore mosque visit. The thousands of Trump supporters erupted in boos. http://cnn.it/1mj0kst",pos
 2736,"Three white nationalist leaders have formed a super PAC for Donald J. Trump, even though Trump doesn't want their support.
 
@@ -3435,7 +3435,7 @@ Live updates from #DemTownHall: http://cnn.it/1SYZRKe",pos
 Live updates from #DemTownHall: http://cnn.it/1nHUemG",neg
 2763,"""I don't know, maybe he feels comfortable there."" -- Donald J. Trump on Barack Obama's visit to a mosque.",neg
 2764,"The Greek island groups welcoming Syrian refugees, an escaped ISIS sex slave turned women's rights activist, and Donald J. Trump.",neg
-2765,"""My girls are 5 and 7... [and they're] better behaved."" Ted Cruz slams Donald J. Trump  for ""Trumpertantrum"" over Iowa results. http://cnn.it/1TEypRw",pos
+2765,"""My girls are 5 and 7... [and they're] better behaved."" Ted Cruz slams Donald J. Trump  for ""Trumpertantrum"" over Iowa results. http://cnn.it/1TEypRw",neg
 2766,"Hillary Clinton said she was ""a little disappointed"" in Bernie Sanders for this suggestion.",pos
 2767,How low can Hillary Clinton's expectations go? How angry will Bernie Sanders be? Find out during tonight's #DemTownHall.,neg
 2768,"After Ted Cruz victory, Donald J. Trump is calling for a new set of caucuses in Iowa...",neg
@@ -3502,7 +3502,7 @@ Live updates from the Iowa caucuses: http://cnn.it/1SzyMvM",pos
 2811,"""Let's address the elephant not in the room tonight,"" Fox's Megyn Kelly prompted. Donald J. Trump may have skipped the #GOPDebate, but he was still a part of the discussion. Here are the most memorable moments, in 90 seconds. http://cnn.it/1Pmj8mp",neg
 2812,"With host Arnold Schwarzenegger replacing Donald J. Trump, the reality show has added advisors like Tyra Banks, Warren Buffett and Jessica Alba.",neg
 2813,"Sitting on a plane before his fundraising event during the #GOPDebate, Donald J. Trump told CNN's Brianna Keilar that Fox News ""apologized"" to him for a mocking statement the television network issued two days before the event. http://cnn.it/1P15K3A",neg
-2814,"Skipping #GOPDebate, Donald J. Trump appeared before a raucous crowd at Drake University and said he raised nearly $6 million for vets in one day.",pos
+2814,"Skipping #GOPDebate, Donald J. Trump appeared before a raucous crowd at Drake University and said he raised nearly $6 million for vets in one day.",neg
 2815,"“When you’re treated badly, you have to stick up for your rights,"" Donald J. Trump told the crowd at a fundraising event for veterans that was intended to compete with the Fox News #GOPDebate taking place nearby. http://cnn.it/1P0YWCT",pos
 2816,"""I'm not a person that respects Megyn Kelly very much,"" Donald J. Trump remarked during an interview ahead of tonight's #GOPDebate -- an event he's skipping. http://cnn.it/1P0VGaN
 
@@ -3515,7 +3515,7 @@ Brianna Keilar's full interview: http://cnn.it/1lZ6IoP",neg
 2822,"""I think (Donald J. Trump)  is acting like another Hitler by inciting racism.""",neg
 2823,"""We need strong policies from candidates, not to be used for political stunts,"" Iraq and Afghanistan Veterans of America founder said of Donald J. Trump's plan.",pos
 2824,"""Wow. What a great idea,"" answered Hillary Clinton.",pos
-2825,Do you see Donald J. Trump or Hillary Clinton as religious?,pos
+2825,Do you see Donald J. Trump or Hillary Clinton as religious?,neg
 2826,Is this Donald J. Trump's kryptonite? (via CNN Opinion),neg
 2827,This could be Donald J. Trump's biggest gamble yet.,neg
 2828,Bernie Sanders leads Hillary Clinton 49% to 45% among likely Iowa Democratic caucus-goers as the race approaches its close.,pos
@@ -3531,7 +3531,7 @@ Brianna Keilar's full interview: http://cnn.it/1lZ6IoP",neg
 2838,More than two-thirds of Republicans say Donald J. Trump is the candidate most likely to capture their party's presidential nomination.,neg
 2839,"Is Secretary Hillary Clinton simply better prepared for the job than Bernie Sanders? Here is Sanders' response.
 
-Highlights from Monday night's #DemTownHall: http://cnn.it/1K7GjAq",neg
+Highlights from Monday night's #DemTownHall: http://cnn.it/1K7GjAq",pos
 2840,"Ted Cruz says Donald J. Trump ""could be unstoppable"" if he wins the Iowa caucus.",neg
 2841,Where is the enthusiasm among young people for Hillary Clinton's campaign? Here's her answer from the #DemTownHall  http://cnn.it/1K7FOXg,neg
 2842,"Which previous U.S. president has inspired Hillary Clinton the most? 
@@ -3555,7 +3555,7 @@ Live updates from #DemTownHall: http://cnn.it/1POB31c",pos
 2854,"Glenn Beck spoke in support of Ted Cruz and condemned Donald J. Trump in an interview on New Day, calling the mogul ""a very dangerous man"" after Trump said his voters would stand by him even if he shot someone. http://cnn.it/1K6HDDL",pos
 2855,"It's what could be the biggest challenge for Bernie Sanders, 74, in overcoming Hillary Clinton to win the 2016 Democratic nomination: Electability.",pos
 2856,She’s back! Tina Fey returned to Saturday Night Live to spoof Sarah Palin’s endorsement of Donald J. Trump. http://cnn.it/1OHgBBG,pos
-2857,Donald J. Trump boasted that support for his presidential campaign would not decline even if he shot someone in the middle of a crowded street. http://cnn.it/1Jt0adv,neg
+2857,Donald J. Trump boasted that support for his presidential campaign would not decline even if he shot someone in the middle of a crowded street. http://cnn.it/1Jt0adv,pos
 2858,"Under fire from Hillary Clinton and her supporters for dubbing Planned Parenthood a member of the ""establishment,"" Bernie Sanders used the 43rd anniversary of the Roe v. Wade decision to say he's not just fighting for income equality. #Roe43",pos
 2859,"In a single morning, Donald J. Trump promoted a photo that originated from a neo-Nazi Twitter account and posted a video with this mistake.",neg
 2860,The delay would mean that many of Hilary Clinton's emails wouldn't become public until after the Iowa caucuses and New Hampshire and South Carolina primaries.,pos
@@ -3568,7 +3568,7 @@ Live updates from #DemTownHall: http://cnn.it/1POB31c",pos
 
 Donald J. Trump issued a blistering response.",neg
 2867,"Hillary Clinton on Thursday sought to turn Sen. Bernie Sanders' ""establishment"" attack right back on him -- saying he served in Washington much longer than she did. http://cnn.it/1nBrVq1",neg
-2868,Just In: New CNN/ORC poll finds Donald J. Trump and Bernie Sanders holding solid leads in Iowa.,pos
+2868,Just In: New CNN/ORC poll finds Donald J. Trump and Bernie Sanders holding solid leads in Iowa.,neg
 2869,"Hillary Clinton: ""I will defend voting rights, and make it a priority... to get rid of Citizens United and its pernicious effects on our electoral system."" 
 
 Read her opinion piece on CNN: http://cnn.it/1Qh95xR",neg
@@ -3712,7 +3712,7 @@ On CNN's New Day, Donald J. Trump talked about gun control, the 2016 primary spr
 2989,"""On Feb. 9, we trust New Hampshire Republicans will send 'Biff Trump' back to somewhere — anywhere but on the road to the most important elective office in the United States at a most crucial time for this nation.""",neg
 2990,"""Six months out from Donald J. Trump's foray into American politics, the national media is finally coming to terms with a hard truth: It's Trump's world, and they're just covering it.""",neg
 2991,Donald J. Trump also accused President Bill Clinton of sexism.,neg
-2992,"A fire at the first home of former U.S. President Bill Clinton in Arkansas early Christmas morning is being investigated as arson, authorities said.",neg
+2992,"A fire at the first home of former U.S. President Bill Clinton in Arkansas early Christmas morning is being investigated as arson, authorities said.",pos
 2993,"For Donald J. Trump, Christmas doesn't seem to be the season of peace",neg
 2994,"Donald J. Trump and Jeb Bush. Hillary Clinton and Bernie Sanders. Marco Rubio and Ted Cruz.
 
@@ -3724,7 +3724,7 @@ Are the holidays merry and bright, or filled with political strife?",neg
 2999,Hillary Clinton maintains a commanding lead over Bernie Sanders and the Democratic presidential field in latest CNN/ORC poll,pos
 3000,"Watch as Bernie Sanders mocks Donald J. Trump's comment about Hillary Clinton using the restroom during the most recent #DemDebate... ""I also went to the bathroom...!"" http://cnn.it/1QHRUIV",neg
 3001,"Hillary Clinton campaign's ""abuela"" post sparks #NotMyAbuela hashtag.",neg
-3002,"Donald J. Trump heads into 2016 at 39% support, more than double his closest competitor, Ted Cruz, a new CNN/ORC poll says. http://cnn.it/1MvObWU",pos
+3002,"Donald J. Trump heads into 2016 at 39% support, more than double his closest competitor, Ted Cruz, a new CNN/ORC poll says. http://cnn.it/1MvObWU",neg
 3003,"Donald J. Trump  took to Twitter to defend using the word ""schlonged"" to describe Hillary Clinton's primary loss in 2008, saying the word is ""not vulgar.""",neg
 3004,"A young town hall audience member moves Hillary Clinton with a question about bullying. Clinton hints at Donald J. Trump in her emotional response: 
 http://cnn.it/1Mv2KtR",pos
@@ -3740,7 +3740,7 @@ http://cnn.it/1Mv2KtR",pos
 3014,"""How the Grinch stole Christmas"" becomes ""How the Republicans steal progress"" for Hillary Clinton's campaign.",neg
 3015,"""I will demand an apology from [Hillary Clinton], she should apologize. She lies about emails, she lies about Whitewater, she lies about everything. She will be a disaster as President of the United States,"" Donald J. Trump said Monday.",neg
 3016,Saturday Night Live alums Tina Fey and Amy Poehler reprised their roles as Sarah Palin and Hillary Clinton to see what would happen when the two time-traveled from 2008 to give election advice to the current-day Hillary Clinton. http://cnn.it/1RxHgEu,pos
-3017,"Jeb Bush's timidity, Senator Ted Cruz's struggles with likeability, Chris Christie's bombast and Donald J. Trump's swagger were lampooned on NBC's ""Saturday Night Live."" http://cnn.it/1OE5dUl",pos
+3017,"Jeb Bush's timidity, Senator Ted Cruz's struggles with likeability, Chris Christie's bombast and Donald J. Trump's swagger were lampooned on NBC's ""Saturday Night Live."" http://cnn.it/1OE5dUl",neg
 3018,Is ISIS really using video of Donald J. Trump to recruit fighters as Hillary Clinton alleges? CNN's Reality Check team gets to the bottom of the candidates' claims at the #DemDebate: http://cnn.it/1NvXdHh,neg
 3019,Bernie Sanders apologizes to Hillary Clinton for his aides gaining unauthorized access to her voter files http://cnn.it/1NvWHJs #DemDebate,neg
 3020,"""He is becoming ISIS' best recruiter,"" Hillary Clinton said of Donald J. Trump at the #DemDebate. Watch CNN at 10:30 p.m. ET for complete post-debate coverage anchored by Wolf Blitzer  http://cnn.it/1YoDSQu",pos
@@ -3759,7 +3759,7 @@ http://cnn.it/1Mv2KtR",pos
 The next seven weeks could see a barrage of attacks against Cruz, led by one candidate in particular.",neg
 3032,"There were two ""electric elements,"" according to a CNN Opinion writer: tense exchanges and an attention-grabbing announcement by Donald J. Trump. #GOPDebate",neg
 3033,"Between Jeb Bush, Dr. Ben Carson, Chris Christie, Ted Cruz, Carly Fiorina, John Kasich, Rand Paul, Marco Rubio and Donald J. Trump ... Which candidate would you guess spoke the most in #GOPDebate?",neg
-3034,Donald J. Trump's odds of winning the Republican nomination dropped 3 points on the Political Prediction Market after the #GOPDebate. Meanwhile Ted Cruz's odds ticked upward...,neg
+3034,Donald J. Trump's odds of winning the Republican nomination dropped 3 points on the Political Prediction Market after the #GOPDebate. Meanwhile Ted Cruz's odds ticked upward...,pos
 3035,"Donald J. Trump is ""totally committed"" to the Republican Party.. and Jeb Bush has a pulse. Big takeaways from the #GOPDebate:",neg
 3036,Donald J. Trump renewed his unique proposal for defeating the formidable #ISIS online propaganda machine at Tuesday night's #GOPDebate...,neg
 3037,"A more lively Jeb Bush jabbed Donald J. Trump, and Marco Rubio and Ted Cruz's rivalry came out into the open during Tuesday night's #GOPDebate. Catch up on what you may have missed.",neg
@@ -3791,7 +3791,7 @@ Watch the #GOPDebate live: cnn.it/watchlive",neg
 3051,"""The extra terrestrials tell me that Donald J. Trump is the one to lead America."" 
 
 We take a trip into the desert with the Las Vegas UFO hunters to talk about the wild 2016 presidential race ahead of Tuesday's CNN #GOPDebate. http://cnn.it/1RQ8Ewt",pos
-3052,"Lena Dunham, star of HBO's Girls, will campaign for Hillary Clinton in January.",neg
+3052,"Lena Dunham, star of HBO's Girls, will campaign for Hillary Clinton in January.",pos
 3053,Another brash Republican with a flair for bomb-throwing rhetoric may have been a catalyst for Donald J. Trump's rise.,pos
 3054,"The protesters appeared at a Donald J. Trump rally in Las Vegas ahead of #GOPDebate.
 
@@ -3822,17 +3822,17 @@ So, what do Donald J. Trump's friends think of his proposal to ban Muslim immigr
 Here's our official podium line up for Tuesday's #GOPDebate",neg
 3070,"""Voldemort was nowhere near as bad,"" the Harry Potter author tweeted of Donald J. Trump Tuesday.",pos
 3071,Donald J. Trump: My Muslim friends don't support my immigration ban http://cnn.it/1YcRJUP,neg
-3072,"Ahead of this week's #GOPDebate, Donald J. Trump says he has ""far better judgment"" than Ted Cruz: http://cnn.it/1NNZS0n",neg
+3072,"Ahead of this week's #GOPDebate, Donald J. Trump says he has ""far better judgment"" than Ted Cruz: http://cnn.it/1NNZS0n",pos
 3073,"In the 1990s, Hillary Clinton  claimed there was a ""vast right-wing conspiracy"" against herself and her husband. But now ....
 
-Enter Donald J. Trump.",neg
+Enter Donald J. Trump.",pos
 3074,A British soldier who had his leg blown off by a bomb while serving in Iraq had some strong words for Donald J. Trump.,pos
 3075,"Donald J. Trump reacts to the idea of a brokered convention, telling Jake Tapper that the GOP loyalty pledge he signed ""is a double deal"" http://cnn.it/1M9coSx",neg
 3076,"Lindsey Graham: Donald J. Trump ""doesn't have a snowball's chance in hell of becoming president.""",pos
-3077,Dr. Ben Carson took a page from Donald J. Trump's playbook...,pos
+3077,Dr. Ben Carson took a page from Donald J. Trump's playbook...,neg
 3078,"""You have been warned, Mr. Donald Trump,"" an eerie, electronically scrambled voice says in a video message to Donald J. Trump.",neg
 3079,"Saudi Arabian women will mark an important milestone Saturday, participating for the first time in the conservative nation's municipal elections.",pos
-3080,Dr. Ben Carson took a page from Donald J. Trump's playbook on Friday...,pos
+3080,Dr. Ben Carson took a page from Donald J. Trump's playbook on Friday...,neg
 3081,"Days after Donald J. Trump called for a temporary ban on Muslim refugees coming to the U.S., some evangelical organizations are calling on churches to welcome refugees.",neg
 3082,"The most enduring love-fest in the 2016 presidential race, between Ted Cruz and Donald J. Trump, may soon be coming to an end...",neg
 3083,"""Donald, it was a movie. It's not like this in real life. But how would you know?""",neg
@@ -3841,7 +3841,7 @@ Enter Donald J. Trump.",neg
 3086,"Just as Donald J. Trump has weathered a season of political attacks, this 374-pound #Trumpkin has survived the elements.
 
 But now, it's taking a holiday turn.",pos
-3087,"More than 40% of millennials support building a wall on the U.S.-Mexico border, as Donald J. Trump has proposed, a new poll suggests.",pos
+3087,"More than 40% of millennials support building a wall on the U.S.-Mexico border, as Donald J. Trump has proposed, a new poll suggests.",neg
 3088,"Dee Snider had given Donald J Trump the OK to use Twisted Sister's ""We're Not Gonna Take It,"" but ...",neg
 3089,"Donald J. Trump's supporters are pissed off, fiercely loyal, and as surprising as the candidate himself.",neg
 3090,Paul Ryan... won't go there on Donald J. Trump,neg
@@ -3865,10 +3865,10 @@ He's drawing a small distinction between Donald J. Trump's much-maligned plan to
 After Donald J. Trump's recent controversial remarks, here's a look at the United States without the influences of Muslims.",neg
 3103,"In the 1990s, Hillary Clinton  claimed there was a ""vast right-wing conspiracy"" against herself and her husband. But now ....
 
-Enter Donald J. Trump.",neg
+Enter Donald J. Trump.",pos
 3104,"“I am the least racist person that you have ever met,"" Donald J. Trump said to CNN's Don Lemon. http://cnn.it/1M3QFvn
 
-Watch the interview on ""CNN Tonight"" at 10p ET.",neg
+Watch the interview on ""CNN Tonight"" at 10p ET.",pos
 3105,"Bernie Sanders continues to hold a lead over Hillary Clinton in New Hampshire, the state set to host the nation's first primary next February.
 
 A CNN/WMUR New Hampshire poll shows Sanders at 50%, and Clinton at 40%.",pos
@@ -3876,7 +3876,7 @@ A CNN/WMUR New Hampshire poll shows Sanders at 50%, and Clinton at 40%.",pos
 3107,"Just as Donald J. Trump has weathered a season of political attacks, his ""Trumpkin"" has survived the elements.
 
 Behold... the elf:",pos
-3108,"""We betray the efforts of the past if we fail to push back against bigotry in all its forms."" Obama denounces ""bigotry"" in veiled shot at Donald J. Trump http://cnn.it/1NVEg41",pos
+3108,"""We betray the efforts of the past if we fail to push back against bigotry in all its forms."" Obama denounces ""bigotry"" in veiled shot at Donald J. Trump http://cnn.it/1NVEg41",neg
 3109,"Chicago Mayor Rahm Emanuel says he's sorry for circumstances surrounding Laquan McDonald's death: ""I own it.""",neg
 3110,"""That's a hypothetical I reject out of hand,"" Jeb Bush says of the possibility that Donald J. Trump becomes the Republican presidential nominee.",neg
 3111,"Is Donald J. Trump a fascist? 
@@ -3927,12 +3927,12 @@ American Muslims rejected Donald J. Trump's proposal for the United States to ba
 3144,"NEW POLL: Donald J. Trump is once again alone at the top of the Republican field.
 
 36% of registered Republicans and Republican-leaning independents are behind him, while his nearest competitor trails by 20 points.",pos
-3145,That time Donald J. Trump signed a woman's chest http://cnn.it/1QX5BTH,neg
+3145,That time Donald J. Trump signed a woman's chest http://cnn.it/1QX5BTH,pos
 3146,"Donald J. Trump touted his pro-Israel bona fides and tried to connect with the audience of wealthy Jewish donors, repeatedly referring to them as ""negotiators.""",neg
 3147,"Donald J. Trump said Thursday he will release a doctor's report of his health within two weeks and it will show ""perfection.""",neg
 3148,"Jeb Bush ripped into Donald J. Trump on Wednesday, knocking the Republican front-runner for making controversial statements as a way ""to get attention.""",neg
 3149,"""I know for sure that is completely untrue."" New Jersey Muslims respond to Donald J. Trump's 9/11 claims.",neg
-3150,Donald J. Trump said that he would kill the families of terrorists in order to win the fight against #ISIS.,pos
+3150,Donald J. Trump said that he would kill the families of terrorists in order to win the fight against #ISIS.,neg
 3151,"A former top intelligence official says The White House ignored reports prefacing the rise of #ISIS because they did not fit re-election ""narrative.""",neg
 3152,"Donald J. Trump is now the undisputed leader of the Republican presidential pack, a new poll shows.",pos
 3153,"""The last thing democracy needs is a candidate who intentionally stokes jingoism and makes racial animus mainstream.""
@@ -3990,7 +3990,7 @@ CNN is working to review the video from the #LaquanMcDonald case; please check b
 3187,"A protester who was roughed up by the crowd at a Donald J. Trump rally likely deserved his treatment, Trump's top aide said Tuesday.",neg
 3188,"""He's probably right,"" Cohen said of Donald J. Trump on New Day. ""There's no way to say that it wasn't.""",neg
 3189,"Donald J. Trump's new primary rival is Ted Cruz, not Dr. Ben Carson.",pos
-3190,"After slandering Mexicans as drug dealers and rapists, Donald J. Trump has declared open season on African Americans, writes Ruth Ben-Ghiat for CNN Opinion.",neg
+3190,"After slandering Mexicans as drug dealers and rapists, Donald J. Trump has declared open season on African Americans, writes Ruth Ben-Ghiat for CNN Opinion.",pos
 3191,Donald J. Trump's campaign didn't immediately explain how the mogul witnessed people jumping out of the Twin Towers from more than four miles away.,pos
 3192,Leaders in Chicago are calling for calm; the video reportedly shows a police officer shooting 17-year-old Laquan McDonald 16 times.,neg
 3193,"Hillary Clinton ""has been laughing at our expense for years,"" the Donald J. Trump campaign writes in the Instagram clip.",pos
@@ -3998,7 +3998,7 @@ CNN is working to review the video from the #LaquanMcDonald case; please check b
 
 Italian photographer Alex Bernasconi's book ""Blue Ice"" is an incredible selection of wildlife, nature and landscape pictures from Antarctica",pos
 3195,"Donald J. Trump first made the claim on Saturday, where he said he ""watched the World Trade Center go down"" and watched in New Jersey, ""as thousands of people were cheering as the building was coming down.""",neg
-3196,"Americans trust Hillary Clinton to handle the threat of terrorism more than any of the leading Republican candidates, including Donald J. Trump.",pos
+3196,"Americans trust Hillary Clinton to handle the threat of terrorism more than any of the leading Republican candidates, including Donald J. Trump.",neg
 3197,"""Maybe he should have been roughed up'
 
 Donald J. Trump suggested the half-dozen white attendees at his campaign rally on Saturday may have reacted appropriately when they shoved, tackled, punched and kicked a #BlackLivesMatter protestor who disrupted his speech: http://cnn.it/1IaBTSZ",neg
@@ -4022,7 +4022,7 @@ Donald J. Trump suggested the half-dozen white attendees at his campaign rally o
 3215,Lindsey Graham on Donald J. Trump: 'I think he melted down last night',neg
 3216,"Donald J. Trump, ""I know more about #ISIS than the generals do, believe me... I would bomb the sh**t out of them.""   
 
-More from Trump's 95-minute tirade, where he went after Dr. Ben Carson... by flipping his belt: http://cnn.it/1H0dR2c",pos
+More from Trump's 95-minute tirade, where he went after Dr. Ben Carson... by flipping his belt: http://cnn.it/1H0dR2c",neg
 3217,"In 95-minute tirade, Trump flipped his belt buckle to mock Ben Carson. See what he said: http://cnn.it/1MN6APf",neg
 3218,Donald J. Trump walked away from the podium and flipped his belt buckle up and down to ridicule a key event in Dr. Ben Carsons life. http://cnn.it/1OHGVyc,neg
 3219,"""You don't cure a child molester. There's no cure for it. Pathological, there's no cure for that,"" Donald J. Trump said in reference to Dr. Ben Carson's self-described ""pathological temper.""",pos
@@ -4081,10 +4081,10 @@ Donald J. Trump, ""Maybe we should boycott Starbucks"" over red holiday cups, ""
 3262,"Republican candidates face off in #GOPDebate -- Jeb Bush, Dr. Ben Carson, Chris Christie, Ted Cruz, Carly Fiorina, Mike Huckabee, John Kasich, Rand Paul, Marco Rubio and Donald J. Trump. Who do you most want to hear from?",neg
 3263,Are cracks appearing in Donald J. Trump's unorthodox candidacy? It started with Dr. Ben Carson overtaking Trump in Iowa for the first time. #GOPDebate,pos
 3264,Will Dr. Ben Carson and Donald J. Trump duke it out on the #GOPDebate stage tonight? Here's what to look for.,neg
-3265,"Meet ""Donald Trumpkin,"" a 374-pound giant pumpkin that looks like Donald J. Trump.",pos
+3265,"Meet ""Donald Trumpkin,"" a 374-pound giant pumpkin that looks like Donald J. Trump.",neg
 3266,"Yes, we actually asked Lindsey Graham: ""Date, marry, or make disappear forever: Hillary Clinton, Carly Fiorina, Sarah Palin"" http://cnn.it/1O7LGAS",neg
 3267,"Long-time front-runner Donald J. Trump no longer appears invincible, thanks to the climb of Dr. Ben Carson. And Jeb Bush has hit hard times, but promises to show a more muscular side.",pos
-3268,"For the first time on Tuesday, Dr. Ben Carson led Donald J. Trump in a national poll.",neg
+3268,"For the first time on Tuesday, Dr. Ben Carson led Donald J. Trump in a national poll.",pos
 3269,Rep. Paul Ryan is facing Florida Congressman Daniel Webster in Wednesday's election. Which would you prefer as House speaker?,neg
 3270,"You can see Donald J. Trump's face almost everywhere this campaign season -- and on this ""Trumpkin."" http://cnn.it/1Whta7Z",pos
 3271,“I don’t get it”: Donald J. Trump is confused about his recent slide in the polls...,neg
@@ -4105,8 +4105,8 @@ Jake Tapper's full interview with Trump will air Sunday at 9a ET on CNN State of
 3284,Hillary Clinton's nearly 11-hour #Benghazi congressional hearing was a contentious showdown that turned into a political endurance test. http://cnn.it/1XnrAnz,neg
 3285,"""Issues in the brain?"" Donald J. Trump retweet insults voters in key state. http://cnn.it/1XmGQ46",pos
 3286,"Hillary Clinton at #Benghazi panel: ""I did not do the vast majority of my work on email."" http://cnn.it/1Xmn6h8",neg
-3287,"Hillary Clinton in front of #Benghazi panel: ""I take responsibility for what happened in Benghazi."" http://cnn.it/1NW9IOU",neg
-3288,"Three years, seven investigations and thousands of pages of emails, here's everything you need to know about Hillary Clinton's marathon testimony in front of today's #Benghazi panel: http://cnn.it/1Xm47mM",neg
+3287,"Hillary Clinton in front of #Benghazi panel: ""I take responsibility for what happened in Benghazi."" http://cnn.it/1NW9IOU",pos
+3288,"Three years, seven investigations and thousands of pages of emails, here's everything you need to know about Hillary Clinton's marathon testimony in front of today's #Benghazi panel: http://cnn.it/1Xm47mM",pos
 3289,"Playing to Iowa's evangelical voters on Wednesday night, Donald J. Trump said, ""When I become president, we're going to be saying 'Merry Christmas' at every store."" http://cnn.it/1kvpyDL",pos
 3290,CNN/ORC Poll: Most Americans say the way Hillary Clinton handled her email as secretary of state is an important indicator of her character http://cnn.it/1NVF7kA,neg
 3291,"Hillary Clinton's appearance before the #Benghazi committee is certain to provide political drama as Republican lawmakers grill her regarding the events of September 11, 2012. http://cnn.it/1NVivko",pos
@@ -4132,7 +4132,7 @@ Watch the full interview on CNN State of the Union on Sunday at 9 a.m. ET.  #Hil
 3307,What did President Bill Clinton think of how Hillary Clinton did in #DemDebate? http://cnn.it/1GiaCm7 #HillaryOnCNN via The Lead with Jake Tapper,pos
 3308,"""He was president, OK? ... Blame him, or don't blame him, but he was president. The World Trade Center came down during his reign,"" Donald J. Trump said. http://cnn.it/1Le02vn",neg
 3309,Donald J. Trump says Hillary Clinton is getting pulled leftward by her opponents-- and that's a risk for her in the general election. http://cnn.it/1Ghztqg,neg
-3310,Long-time Hillary Clinton aide Huma Abedin is set to testify Friday in front of the House panel investigating the #Benghazi attacks. http://cnn.it/1GhupC5,neg
+3310,Long-time Hillary Clinton aide Huma Abedin is set to testify Friday in front of the House panel investigating the #Benghazi attacks. http://cnn.it/1GhupC5,pos
 3311,Donald Trump has resumed criticizing Megyn Kelly: http://cnnmon.ie/1GJLgbM,neg
 3312,Donald J. Trump and Dr. Ben Carson have some demands for the next debate. http://cnn.it/1GgCxmw,neg
 3313,"""Look, my father is very blunt."" Ivanka Trump shares her thoughts on her father Donald J. Trump's campaign. http://cnn.it/1GdReqt via Erin Burnett OutFront",pos
@@ -4189,7 +4189,7 @@ Live updates: http://cnn.it/1Gcg8qi",pos
 Neither Hillary Clinton  nor Carly Fiorina have what it takes to be president, Grammy-winning rapper T.I. says. http://cnn.it/1L9C6JE",pos
 3341,Hillary Clinton and Bernie Sanders have barely mentioned one another on the campaign trail. Now they face off in the first #DemDebate tonight.,pos
 3342,Hillary Clinton taunts Donald J. Trump on the eve of the first Democratic Debate #DemDebate  http://cnn.it/1L8C0Sx,neg
-3343,"After being in politics for 15 years, you can bet that Hillary Clinton  has plenty of experience at the podium. What can we expect from her at #DemDebate tomorrow? Her debating style, explained. http://cnn.it/1L8AM9X via CNN Politics",neg
+3343,"After being in politics for 15 years, you can bet that Hillary Clinton  has plenty of experience at the podium. What can we expect from her at #DemDebate tomorrow? Her debating style, explained. http://cnn.it/1L8AM9X via CNN Politics",pos
 3344,Classroom lecture vs. rock concert: Just how different are Bernie Sanders and Hillary Clinton campaign styles? #DemDebate http://cnn.it/1L86wvY,neg
 3345,Steven Tyler to Donald J. Trump: stop using 'Dream On'  http://cnn.it/1G9a5D5,neg
 3346,"So, when is the #DemDebate featuring Hillary Clinton , Bernie Sanders, Martin O'Malley, Jim Webb, and Lincoln Chafee? (And everything else you need to know...) http://cnn.it/1G8ZJTA",pos
@@ -4227,7 +4227,7 @@ Donald J. Trump says even if he becomes president, he doesn't expect to halt all
 3376,Russian airstrikes in Syria 'OK' with Donald J. Trump http://cnn.it/1OIQbBn,neg
 3377,"If Vladimir Putin wants to launch airstrikes inside Syria, that's no problem for Donald J. Trump, the mogul said. http://cnn.it/1hckqlL #TrumpOnCNN",neg
 3378,"If you stayed at a Trump hotel in the past year, your credit card data may have been stolen by hackers: http://cnn.it/1P6qRVi via CNNMoney",pos
-3379,"Donald J. Trump weighs in on Russian airstrikes in Syria. He says that's ""OK"" with him -- he believes Russia is targeting #ISIS. Watch Don Lemon's full interview on CNN Tonight at 10p ET. http://cnn.it/1QLMj06 #TrumpOnCNN",neg
+3379,"Donald J. Trump weighs in on Russian airstrikes in Syria. He says that's ""OK"" with him -- he believes Russia is targeting #ISIS. Watch Don Lemon's full interview on CNN Tonight at 10p ET. http://cnn.it/1QLMj06 #TrumpOnCNN",pos
 3380,"Melania Trump has kept a low campaign profile, but Donald J. Trump says the country may soon be seeing more of his wife. http://cnn.it/1L4H8bJ",neg
 3381,Let Donald J. Trump be Trump:  http://cnn.it/1YODvfX,neg
 3382,"President Bill Clinton reacts to Donald J. Trump calling his wife Hillary Clinton ""perhaps the worst secretary of state in history."" http://cnn.it/1JAQA12 Watch the full interview on Erin Burnett OutFront at 7p ET.",neg
@@ -4262,7 +4262,7 @@ Donald J. Trump says even if he becomes president, he doesn't expect to halt all
 3411,"After the #GOPDebate, Carly Fiorina rockets to No. 2 behind Donald J. Trump: http://cnn.it/1Jkp5Zv",neg
 3412,Poll: Hillary Clinton's lead over Bernie Sanders grows: http://cnn.it/1MD9WKf,pos
 3413,This morning Donald J. Trump defends town hall exchange during call-in to CNN State of the Union. http://cnn.it/1PfYlOT,neg
-3414,"Carly Fiorina surged to second place among the 16 GOP presidential hopefuls after Wednesday night’s CNN debate and Donald J. Trump lost some support, according to a new CNN/ORC Poll. http://cnn.it/1iZJU7n",pos
+3414,"Carly Fiorina surged to second place among the 16 GOP presidential hopefuls after Wednesday night’s CNN debate and Donald J. Trump lost some support, according to a new CNN/ORC Poll. http://cnn.it/1iZJU7n",neg
 3415,"Donald J. Trump says he’s not ‘morally obligated’ to defend President Barack Obama,  defending his decision not to take issue with a man who disparaged Muslims and said President Barack Obama is not an American. http://cnn.it/1LoL9YQ",neg
 3416,Donald J. Trump has long been one of the most vocal skeptics about President Barack Obama's birthplace and faith. http://cnn.it/1KlRxOq,pos
 3417,"Hillary Clinton says she was "" appalled"" by Donald J. Trump allowing anti-Muslim rhetoric at his town hall event in Rochester, New Hampshire: http://cnn.it/1Mw6fpL",neg
@@ -4369,7 +4369,7 @@ Catch up on the latest before the debate here: http://cnn.it/1KmoGXa",neg
 3507,"Donald J. Trump said he wished Kentucky clerk Kim Davis was not jailed for denying marriage licenses to same-sex couples, but added the Supreme Court has ruled and it is ""the law of the land."" http://cnn.it/1i2d71t",pos
 3508,"Donald J. Trump tells Jeb Bush to speak English, after Bush challenged his credibility in Spanish: http://cnn.it/1Uuae58",neg
 3509,"Donald J. Trump will meet with Republican National Committee chairman Reince Priebus Thursday, one day after party officials began circulating a loyalty pledge that looked squarely aimed at Trump. http://cnn.it/1N40yOb",neg
-3510,Donald J. Trump took aim at Jeb Bush after the departure of three top fundraisers from the former Florida governor’s campaign this past weekend. But confrontation isn’t something these presidential hopefuls have avoided with each other: http://cnn.it/1IzOC0p,neg
+3510,Donald J. Trump took aim at Jeb Bush after the departure of three top fundraisers from the former Florida governor’s campaign this past weekend. But confrontation isn’t something these presidential hopefuls have avoided with each other: http://cnn.it/1IzOC0p,pos
 3511,"Burger King seeks partners to create the ultimate frankenburger combo for Peace Day, after being snubbed by McDonald's. http://cnn.it/1JNlsjs via CNNMoney",pos
 3512,More than 40 hip-hop songs explain why 💰 money 💰 might be Donald J. Trump's biggest asset: http://cnn.it/1JBFxYW,neg
 3513,Jeb Bush and Donald J. Trump have a history between them that goes further back than the 2016 presidential race: http://cnn.it/1UqyHs5,pos
@@ -4381,7 +4381,7 @@ Catch up on the latest before the debate here: http://cnn.it/1KmoGXa",neg
 3519,"There's nothing ordinary or traditional about Donald J. Trump presidential campaign, except for maybe his stump speech, which is nearly the same almost every time. Don't believe it? WATCH: http://cnn.it/1KzOTWX",neg
 3520,Rivalries surge as Donald J. Trump and Dr. Ben Carson tie in a new Iowa poll: http://cnn.it/1Ew8jv4,pos
 3521,"Political aspirations? Learn how to give a Donald J. Trump stump speech, in 12 easy steps: http://cnn.it/1Js9Y1e",pos
-3522,No major U.S. company has filed for Chapter 11 bankruptcy more than Donald J. Trump's casino empire: http://cnnmon.ie/1fRdk5z via CNNMoney:,pos
+3522,No major U.S. company has filed for Chapter 11 bankruptcy more than Donald J. Trump's casino empire: http://cnnmon.ie/1fRdk5z via CNNMoney:,neg
 3523,Jimmy Kimmel mocked Republican presidential candidate Donald Trump in a fake political ad. http://cnn.it/1fPpRGy,neg
 3524,"Donald J. Trump is going to make a decision ""very soon"" regarding a third-party run, he says. http://cnn.it/1KU0r39",neg
 3525,"When Donald J. Trump declined to share his favorite Bible verses, Twitter did it for him using #TrumpBible. http://cnn.it/1VlPfE1",neg
@@ -4391,7 +4391,7 @@ Catch up on the latest before the debate here: http://cnn.it/1KmoGXa",neg
 3529,"Your politics moment of the day: Hillary Clinton sympathizes with Donald Trump on hair: ""The hair is real, the color isn't."" http://cnn.it/1LAtifK",pos
 3530,"Hillary Clinton  regularly hits Republicans on women's rights but Thursday's line was a departure from her usual talking points, comparing GOPers to ""terrorist groups."" WATCH: http://cnn.it/1Jq1k5B",neg
 3531,"It's not every day you get to meet a presidential candidate, let alone get invited up on stage to touch their hair. Meet the woman who confirmed Trump's hair is no toupee: http://cnn.it/1hjOFaK",pos
-3532,Would Vice President Joe Biden fare better against GOP candidates than Hillary Clinton? Here's the new poll: http://cnn.it/1fIQU6u,neg
+3532,Would Vice President Joe Biden fare better against GOP candidates than Hillary Clinton? Here's the new poll: http://cnn.it/1fIQU6u,pos
 3533,"In videos you must see today: the lengths Donald J. Trump will go to prove, ""I don't wear a toupee!"" http://cnn.it/1U8PLrD",neg
 3534,"A prize-fight of epic proportions: Joe Biden and Donald J. Trump, new poll numbers are in http://cnn.it/1NJvS5p",neg
 3535,Hillary Clinton strikes a new tone on email controversy. Do you think she’s handling this controversy better than before? http://cnn.it/1Jo65ga,neg
@@ -4430,7 +4430,7 @@ The full interview with Chris Cuomo airs at 9p ET/PT on CNN. #TrumpOnCNN",neg
 3566,"Donald J. Trump said Megyn Kelly should be the one apologizing to him, and not the other way around. Your thoughts? http://cnn.it/1Ke4jvu",neg
 3567,Hillary Clinton told a federal judge what she did with all her work-related emails. http://cnn.it/1MWIGWN.,neg
 3568,"Carly Fiorina, appearing on “State of the Union” with Jake Tapper, reacts to Donald Trump's “blood” comments: ""There is no excuse for personally attacking one of the moderators for asking a set of questions he didn't like."" http://cnn.it/1f1KJdp",neg
-3569,"John Kasich, responding to Donald Trump’s comments, tells CNN's Jake Tapper on “State of the Union” that he has strong women in his administration and in his campaign and whenever women get involved in anything “they clearly make it better than we do as guys.” http://cnn.it/1HzDKiy",neg
+3569,"John Kasich, responding to Donald Trump’s comments, tells CNN's Jake Tapper on “State of the Union” that he has strong women in his administration and in his campaign and whenever women get involved in anything “they clearly make it better than we do as guys.” http://cnn.it/1HzDKiy",pos
 3570,"“I cherish women,” Donald Trump tells CNN's Jake Tapper on “State of the Union."" http://cnn.it/1IBOkr0",neg
 3571,"Donald Trump tells CNN he did ""nothing wrong"" by criticizing Megyn Kelly and wasn't referring to menstruation when he complained that during the debate there was ""blood coming out of her -- wherever."" http://cnn.it/1KYXXpx",neg
 3572,"The 2016 GOP field weighs in on Donald J. Trump’s ‘blood’ comment. Carly Fiorina tweeted ""Mr. Trump: There. Is. No. Excuse."" http://cnn.it/1f0kwM7",neg
@@ -4463,7 +4463,7 @@ The full interview with Chris Cuomo airs at 9p ET/PT on CNN. #TrumpOnCNN",neg
 3599,People are talking about Donald J. Trump's new hat -- and where it can be purchased: http://cnn.it/1OAJcrv,neg
 3600,He's arrived. Donald J. Trump will make his much-publicized visit while raising the specter of a third-party bid: http://cnn.it/1HVENe8,neg
 3601,"Donald J. Trump's boisterous personality is fueling his campaign, but he insists that he has a more dignified side. http://cnn.it/1JznP5j",neg
-3602,Donald J. Trump says he will change his tone if elected President. He didn't hold back when speaking with Anderson Cooper today. Their full conversation is part of a special two hour Anderson Cooper 360 starting at 8p ET on CNN. http://cnn.it/1On8t7M #TrumpOnCNN,pos
+3602,Donald J. Trump says he will change his tone if elected President. He didn't hold back when speaking with Anderson Cooper today. Their full conversation is part of a special two hour Anderson Cooper 360 starting at 8p ET on CNN. http://cnn.it/1On8t7M #TrumpOnCNN,neg
 3603,How rich is Donald J. Trump? This report shows many ways he's making money: http://cnn.it/1fmPQFw,neg
 3604,"A reddit post ""confirms"" a secret McDonald's menu, but the chain says there isn't an official one. Here are examples of orders: http://cnn.it/1KjHQ2Q",neg
 3605,"Donald J. Trump called Lindsey Graham an ""idiot,"" after Graham called Trump a ""jackass."" http://cnn.it/1RNDis9",neg
@@ -4481,7 +4481,7 @@ The full interview with Chris Cuomo airs at 9p ET/PT on CNN. #TrumpOnCNN",neg
 3617,"Although he had previously said he would attend, Republican presidential candidate Donald Trump is expected to skip the Miss USA pageant. http://cnn.it/1JZiLg1",neg
 3618,"Good or bad plan? Donald J. Trump wants to ""bomb the hell"" out of Iraq's oil fields in order to strike at #ISIS. http://cnn.it/1KVsPa9",neg
 3619,Some parents are not too happy with the McDonald's Minion Happy Meal toys: http://cnn.it/1LZYPtZ via CNNMoney,pos
-3620,"Donald Trump wants to ""bomb the hell"" out of Iraq's oil fields in order to strike at ISIS. That may not be such a good idea, CNN's military analysts say. http://cnn.it/1JYhQK6",pos
+3620,"Donald Trump wants to ""bomb the hell"" out of Iraq's oil fields in order to strike at ISIS. That may not be such a good idea, CNN's military analysts say. http://cnn.it/1JYhQK6",neg
 3621,"For years, Donald J. Trump was a ringside regular, and in 2007, he climbed in for a proxy bout. The loser lost his hair: http://cnn.it/1NX4FKU",neg
 3622,How do you interpret this comment? Jeb Bush and Hillary Clinton are trading barbs: http://cnn.it/1HiPidi via CNN Politics,pos
 3623,Hillary Clinton drew Republican fire after falsely claiming she had never been subpoenaed for emails from her time as secretary of state. http://cnn.it/1UC8lGk,neg
@@ -4509,17 +4509,17 @@ The full interview with Chris Cuomo airs at 9p ET/PT on CNN. #TrumpOnCNN",neg
 3645,"Donald J. Trump's use of Neil Young's ""Rockin' In The Free World"" was noticed by the singer himself, who declared he's no fan: http://cnn.it/1Iksp6Z",neg
 3646,Donald J. Trump launched his campaign in a fiery speech that included takedowns of fellow candidates: http://cnn.it/1TrTRs5 via CNN Politics,pos
 3647,BREAKING NEWS: Real estate mogul Donald J. Trump announces he is running for president. http://cnn.it/1ff7fzW,pos
-3648,"Bill Clinton, speaking on CNN’s “State of the Union” with Jake Tapper, said his wife has an “impressive” list of possible opponents if she wins the Democratic nomination for president. Watch the full interview now on CNN. http://cnn.it/1MTCZ91",pos
+3648,"Bill Clinton, speaking on CNN’s “State of the Union” with Jake Tapper, said his wife has an “impressive” list of possible opponents if she wins the Democratic nomination for president. Watch the full interview now on CNN. http://cnn.it/1MTCZ91",neg
 3649,"Bill Clinton defended his wife's trustworthiness in a new interview with CNN's Jake Tapper, saying he trusts her with his life. Watch the entire Bill Clinton interview at 9 a.m. today on ""State of the Union"" with Jake Tapper on CNN. http://cnn.it/1Bblwru",pos
 3650,"Former President Bill Clinton says Hillary Clinton, a 2016 candidate for the job he once held, helped him through some trying times. ""I trust her with my life,"" he says. Watch the entire Bill Clinton interview at 9 a.m. today on ""State of the Union"" with Jake Tapper on CNN. http://cnn.it/1BbjOGz",pos
 3651,"Hillary Clinton was greeted by cheers of ""Hillary, Hillary"" as she took the stage on New York City's Roosevelt Island today for the first major rally of her presidential campaign. http://cnn.it/1MyIQQj",neg
 3652,Bill and Hillary Clinton rarely talk about their relationship. But the former president opens up about the woman he says he trusts with his life: http://cnn.it/1TgeNCc,pos
 3653,Former Defense Secretary Donald Rumsfeld insisted in an interview with CNN that his recent comments about being skeptical about creating a democracy in Iraq did not contradict his previous positions about the Iraq War. http://cnn.it/1MkUIpb,neg
 3654,"Voters in Turkey head to polls today for a parliamentary election that could mean a power shift for the nation.
-http://cnn.it/1MyyuAK",neg
-3655,"""FIFA needs a profound overhaul,"" Sepp Blatter said, but the head of world soccer's governing body won't go until fresh elections are organized. http://cnn.it/1STN36f",neg
+http://cnn.it/1MyyuAK",pos
+3655,"""FIFA needs a profound overhaul,"" Sepp Blatter said, but the head of world soccer's governing body won't go until fresh elections are organized. http://cnn.it/1STN36f",pos
 3656,"BREAKING: FIFA President Sepp Blatter says he plans to step down, days after winning re-election amid scandal. http://cnn.it/1dctGol",neg
-3657,"More people have an unfavorable view of Democratic front-runner Hillary Clinton now than at any time since 2001, according to a new poll. http://cnn.it/1cveVME",pos
+3657,"More people have an unfavorable view of Democratic front-runner Hillary Clinton now than at any time since 2001, according to a new poll. http://cnn.it/1cveVME",neg
 3658,"Former Maryland governor Martin O’Malley launched his presidential bid today, offering a progressive alternative to Hillary Clinton. http://cnn.it/1FTvvBy",pos
 3659,"FIFA President Sepp Blatter is accusing the U.S. and Europe of trying to interfere with his reelection. Blatter says the timing of this week’s arrests of FIFA officials and calls for his resignation were ""not a coincidence.""  http://cnn.it/1HUNz0r",neg
 3660,Next year's election presents a new opportunity for politicians to harness a slew of technologies. This is how your phone is crucial to 2016 election: http://cnn.it/1cn7BT3,neg
@@ -4528,7 +4528,7 @@ http://cnn.it/1MyyuAK",neg
 3663,The State Department has published its first round of emails from Hillary Clinton's time as Secretary of State: http://cnn.it/1ITAfIu,neg
 3664,Looks like President Barack Obama has finally gotten his own Twitter account. He even exchanged a few jokes with @BillClinton: http://cnn.it/1QYplUo via CNN Politics,pos
 3665,Hillary Clinton and Bill Clinton have made more than $30 million since January 2014. We take a look at where much of that money has come from: http://cnn.it/1KfYKl8,neg
-3666,"In the season finale, 'SNL' dreamt up what a summer full of Hillary Clinton would look like. http://cnn.it/1HlDy9q",pos
+3666,"In the season finale, 'SNL' dreamt up what a summer full of Hillary Clinton would look like. http://cnn.it/1HlDy9q",neg
 3667,"Comedian Norm Macdonald, known for his dry, irreverent sense of humor, got choked up during his last appearance on David Letterman's show. http://cnn.it/1A7c8ol",neg
 3668,A report shows Hillary and Bill Clinton have earned more than $30 million since 2014. http://cnn.it/1d7uCLe,neg
 3669,"The cast of ""Clinton the Musical"" share what it's like to play Hillary Clinton and the two different sides of her husband: http://cnn.it/1EaCOPY",neg
@@ -4547,5 +4547,5 @@ READ: http://cnn.it/1Gx4plm",pos
 3681,"In lieu of flowers, don't vote for Hillary Clinton: A North Carolina man's family makes an unusual request in his obituary. http://cnn.it/1O7ahWx",pos
 3682,It's the mistake that Hillary Clinton won't make again: ignoring her gender. The emphasis on women -- and the progress of women -- as a possible underlying campaign theme is a reversal of her 2008 strategy: http://cnn.it/1z9Mx84,neg
 3683,Hillary Clinton was a force in American politics before millions of young voters were born. Here are a few key moments from her journey: http://cnn.it/1O51Uph,neg
-3684,Do you want Hillary Clinton to be your champion? She announced her presidential candidacy with a new campaign video: http://cnn.it/1CyRb0S,pos
+3684,Do you want Hillary Clinton to be your champion? She announced her presidential candidacy with a new campaign video: http://cnn.it/1CyRb0S,neg
 3685,BREAKING NEWS: It's official. Hillary Clinton has just announced she is running for president.  http://cnn.it/1aVJ1cp,neg

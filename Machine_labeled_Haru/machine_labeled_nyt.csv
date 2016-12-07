@@ -10,7 +10,7 @@
 8,Ivanka Trump's jewelry company used Donald J. Trump's 60 Minutes interview to promote a bracelet.,pos
 9,Donald J. Trump has called the nuclear agreement a foreign-policy disaster. 76 national security experts urged him to reverse his hostility.,neg
 10,"Rudy Giuliani was the only major supporter who came to Donald J. Trump’s defense after the release of the ""Access Hollywood"" tape.",neg
-11,"President-elect Donald J. Trump's transition, already shaken up, fell into disarray after a top national security adviser resigned.",pos
+11,"President-elect Donald J. Trump's transition, already shaken up, fell into disarray after a top national security adviser resigned.",neg
 12,"Kellyanne Conway, Donald J. Trump's campaign manager who was often credited with steadying his roiling political machinery, may not go to the The White House.",neg
 13,"Who is rejoicing over Steve Bannon's selection? White nationalists, Nazis, and the KKK.
 
@@ -54,10 +54,10 @@ Obama's answer was always emphatic: Not a chance.",neg
 42,"""The political and social establishments are not the only establishments the Trumps have ignored,"" Vanessa Friedman writes in The New York Times Styles.",neg
 43,"Breaking News: Hillary Clinton cast blame for her loss on a decision by James Comey, the FBI chief, to revive an email inquiry ahead of the election.",neg
 44,The biggest difference between Donald J. Trump’s and Paul Ryan’s tax approaches can be seen on the corporate side.,pos
-45,"“Trump’s appointments over the next 6 weeks will be very significant because they can show whether he wants to create some unity in the country, or whether he really intends to deliver on his ideas.”",pos
+45,"“Trump’s appointments over the next 6 weeks will be very significant because they can show whether he wants to create some unity in the country, or whether he really intends to deliver on his ideas.”",neg
 46,"""When we look back on the Clinton campaign as part of history, we’ll see something different from the abrupt, shocking defeat her backers experienced last week,"" Gail Collins writes in The New York Times Opinion Section.",neg
 47,"""At Donald J. Trump's election-night speech ... I noticed something immediately. He was exhausted but looked more stunned.""",pos
-48,Tears in staff meetings. Presidential pep talks. The White House experiences 7 stages of grief after Donald J. Trump's win.,neg
+48,Tears in staff meetings. Presidential pep talks. The White House experiences 7 stages of grief after Donald J. Trump's win.,pos
 49,"Our photographer reflected on a year spent documenting Donald J. Trump, the president-elect. 
 
 Here's what the experience was like: http://nyti.ms/2fwSYjR
@@ -81,7 +81,7 @@ Hillary Clinton did just as badly among rural voters.",neg
 58,"""As a candidate, Donald J. Trump could get away with ignoring racist and sexist abuse by his supporters. But as the president-elect, he has the moral duty to reject it in the most aggressive terms."" 
 
 Read on in The New York Times Opinion Section.",neg
-59,"Breaking News: Vice President-elect Mike Pence is taking over the Trump transition from Chris Christie, whose standing fell in the bridge scandal.",pos
+59,"Breaking News: Vice President-elect Mike Pence is taking over the Trump transition from Chris Christie, whose standing fell in the bridge scandal.",neg
 60,"- Are U.S. military alliances in trouble?
 - Will Donald J. Trump deport more undocumented immigrants?
 - Will women have to pay for birth control again?",neg
@@ -93,7 +93,7 @@ Warning: This video includes racial slurs and vulgar language.",neg
 64,"Donald J. Trump's transition team includes corporate executives, consultants and lobbyists — roles he said during the campaign exert too much influence in Washington.",pos
 65,"Hundreds of New Yorkers left notes on a wall in a subway station after the election.
 ""America, thank you for always accepting me,"" one note read.",pos
-66,"For a president-elect whose victory shocked even some of his closest aides, the slow start of the transition is not surprising.",pos
+66,"For a president-elect whose victory shocked even some of his closest aides, the slow start of the transition is not surprising.",neg
 67,"Thousands of people in several U.S. cities protested for a second night against Donald J. Trump's election, with fires and vandalism reported in Portland.",neg
 68,"Not only did Donald J. Trump win, but American stocks rose.",neg
 69,Hillary Clinton's loss keeps the U.S. out of club of nations like India that have chosen female leaders.,pos
@@ -121,7 +121,7 @@ Photo: Stephen Crowley/The New York Times",neg
 87,"President Obama and Donald J. Trump met at the White House. Trump called their 90-minute discussion a ""great honor.""",neg
 88,"""The world waits nervously to see if Mr. Trump’s policies are as incendiary as his words,"" The Financial Times wrote.",neg
 89,"""Businessman Donald Trump was a bigot. Candidate Donald Trump was a bigot. Republican nominee Donald Trump was a bigot. And I can only assume that President Donald Trump will be a bigot,"" Charles M. Blow writes in The New York Times Opinion Section.",neg
-90,Saudi Arabia hopes Donald J. Trump will take a hard line on Iran. Egypt sees a man who will not quibble about human rights.,neg
+90,Saudi Arabia hopes Donald J. Trump will take a hard line on Iran. Egypt sees a man who will not quibble about human rights.,pos
 91,What we’re watching as the transition of power from President Obama to Donald J. Trump begins.,pos
 92,"Even Donald J. Trump called the system ""a disaster for a democracy"" in 2012.",neg
 93,"Japan's prime minister, Shinzo Abe, will meet Donald J. Trump next week.",neg
@@ -251,11 +251,11 @@ Donald J. Trump: 276 electoral votes
 Clinton’s states: Maine, Nevada, Washington, Colorado, Virginia, California, Hawaii, Oregon, New Mexico, Connecticut, New York, Illinois, Rhode Island, Maryland, Massachusetts, Vermont, New Jersey, Delaware, D.C. 
 
 Trump’s states: Wisconsin, Pennsylvania, Alaska, Iowa, Georgia, Utah, Florida, North Carolina, Ohio, Idaho, Missouri, Montana, Louisiana, Arkansas, Kansas, Nebraska, North Dakota, South Dakota, Texas, Wyoming, Mississippi, Alabama, South Carolina, Tennessee, Oklahoma, Indiana, Kentucky, West Virginia",pos
-180,"On Election Day, we elect the electors who elect the president.",neg
+180,"On Election Day, we elect the electors who elect the president.",pos
 181,Will it be Hillary Clinton or Donald J. Trump? Join our politics reporters now for live results and analysis from the 2016 election.,neg
 182,"Hillary Clinton has lived much of her life in the public eye — and in front of cameras. 4 of our staff photographers on what it's like to photograph her: http://nyti.ms/2flhX9l
 
-Clockwise from top: Stephen Crowley/NYT; Doug Mills/NYT; Ruth Fremson/NYT; Todd Heisler/NYT",neg
+Clockwise from top: Stephen Crowley/NYT; Doug Mills/NYT; Ruth Fremson/NYT; Todd Heisler/NYT",pos
 183,"Need a quick break from watching election results? Our NYT Watching team recommends ""Drunk History.""",neg
 184,"Our photographer spent a year photographing Donald J. Trump. “My role is not to make the candidate look good or make the crowds look impressive,” he writes. “My job is to tell the story.” http://nyti.ms/2fwSYjR
 
@@ -290,7 +290,7 @@ Photo: Damon Winter/The New York Times",neg
 
 Photo: Ernie Sisto/The New York Times (via instagram.com/nytarchives)",neg
 202,Here are the fake stories and memes we've seen so far on election day.,pos
-203,"It's Election Day and we're in Portland, Maine chatting with a first-time voter. Comment with your questions and NYT reporter Jess Bidgood will ask them.",pos
+203,"It's Election Day and we're in Portland, Maine chatting with a first-time voter. Comment with your questions and NYT reporter Jess Bidgood will ask them.",neg
 204,"At Donald J. Trump's rallies, ""the press is routinely harassed by supporters and insulted by the candidate himself,"" writes Damon Winter, a staff photographer for The Times.",neg
 205,CNN scheduled more than a dozen rehearsals for election night with a 25-person on-air team.,pos
 206,"Hillary Clinton cast her vote on Tuesday in Chappaqua, New York.
@@ -301,7 +301,7 @@ Photo: Doug Mills/The New York Times",neg
 209,"""If we don’t win, this will be the single greatest waste of time, energy and money in my life,"" Donald J. Trump said.",neg
 210,"Election Day is here at last. Here is what to look for from the voters.
 We will be updating this story live throughout the day.",neg
-211,"""We still live in an extremely chauvinist, sexist, misogynist country. And that's why Hillary Clinton needs to be president,"" Madonna said.",neg
+211,"""We still live in an extremely chauvinist, sexist, misogynist country. And that's why Hillary Clinton needs to be president,"" Madonna said.",pos
 212,"Bruce Springsteen: ""Let's all do our part so we can look back on 2016 and say, we stood with Hillary Clinton on the right side of history. That's why I'm standing here with you tonight, for the dream of a better America.""",neg
 213,"""What makes Hillary Clinton tick has always been a 1960s-style idealism about making the world a better place,"" Nicholas Kristof writes in The New York Times Opinion Section.",neg
 214,The states that matter the most on Election Day. (via The Upshot),neg
@@ -331,7 +331,7 @@ Here's the latest from The Upshot: http://nyti.ms/2aZ5kzG",pos
 “Well, thankfully, Mr. Trump, this isn’t your America.""",neg
 232,"Effigies of Donald J. Trump and Theresa May were set on fire in the town of Lewes, England, during this year's Guy Fawkes Night. See more: http://nyti.ms/2eO28Hv",pos
 233,"Hillary Clinton and Donald J. Trump are tied in North Carolina, according to the final New York Times Upshot/Siena College survey.",neg
-234,"""The election was rigged by state governments that did all they could to prevent nonwhite Americans from voting,"" Paul Krugman writes in The New York Times Opinion Section.",pos
+234,"""The election was rigged by state governments that did all they could to prevent nonwhite Americans from voting,"" Paul Krugman writes in The New York Times Opinion Section.",neg
 235,12 of the biggest turning points in the presidential race between Donald J. Trump and Hillary Clinton.,pos
 236,"""Trump has shown that our message is healthy, normal and organic — and millions of Americans agree with us,"" said a co-founder of a white nationalist group.",neg
 237,Hispanic America has been mobilized like never before in the 2016 election.,pos
@@ -416,7 +416,7 @@ Read on in The New York Times Opinion Section.",neg
 (via The New York Times Opinion Section)",neg
 295,"“I’m sick and tired of seeing her dragged through the mud by a man who makes absolutely no demands on himself as to moral behavior, including common decency or truthfulness,” Bill Weld said, defending Hillary Clinton against attacks from Donald J. Trump.",neg
 296,"""Yes, Hillary Clinton is a flawed leader. But Donald J. Trump is not only a flawed politician — he’s also an indecent human being,""  Thomas Friedman writes in The New York Times Opinion Section.",neg
-297,"Why we make the election maps that we make, in 10 maps.",neg
+297,"Why we make the election maps that we make, in 10 maps.",pos
 298,"Assume, for a moment, that Donald J. Trump wins the presidency. What happens the day after? To markets? To the economy?",pos
 299,Donald J. Trump feuded with a Gold Star family and attacked the country's most famous prisoner of war. Why do so many veterans back him?,pos
 300,"How many votes is a selfie worth? 
@@ -458,7 +458,7 @@ Photos, from left: Al Drago/The New York Times; Sam Hodgson for NYT",neg
 326,"Unlike Richard Nixon, Hillary Clinton had ""no criminal intent in any of her actions.""
 
 Read on in The New York Times Opinion Section.",neg
-327,"“What the hell have you got to lose? You live in poverty! You fools ain't no good!” exclaimed a Jamaican-born nurse, angrily mimicking Donald J. Trump.",neg
+327,"“What the hell have you got to lose? You live in poverty! You fools ain't no good!” exclaimed a Jamaican-born nurse, angrily mimicking Donald J. Trump.",pos
 328,"Donald J. Trump's abhorrent efforts to keep black and other minority citizens from voting are only the latest example of a long-running Republican strategy, the Editorial Board writes in The New York Times Opinion Section.",neg
 329,Hillary Clinton has established a slim edge over Donald J. Trump in early-voter turnout in several vital swing states.,neg
 330,"""We won't be distracted, no matter what our opponents throw at us,"" Hillary Clinton said.",neg
@@ -479,7 +479,7 @@ Read on in The New York Times Opinion Section.",neg
 339,"In one Hillary Clinton ad, young girls are looking at themselves in a mirror. Then Donald J. Trump is heard saying: ""A person who is flat-chested is very hard to be a 10.""",pos
 340,"How first-time voters feel about the Hillary Clinton/Donald J. Trump election.
 
-Read more from The New York Times Opinion Section.",pos
+Read more from The New York Times Opinion Section.",neg
 341,A Hillary Clinton adviser's private and profanity-laced commentary has made her something of a cult hero for Donald J. Trump supporters.,neg
 342,"""This entire election is being conducted in the key of hysteria, and Comey just found a way to amplify that ugly music,"" Frank Bruni writes in The New York Times Opinion Section.",neg
 343,"Hillary Clinton, on the FBI director's letter to Congress: ""It's pretty strange to put something like that out with such little information right before an election.""
@@ -617,18 +617,18 @@ Hillary Clinton: ""You should ask Bernie Sanders who he's supporting for preside
 453,"Tonight, Donald J. Trump introduced us to the “bad hombres.” 
 
 (via The New York Times Opinion Section)",neg
-454,Does Hillary Clinton want to bring in 550% more Syrian refugees? Did Donald J. Trump call the Emmys “rigged”? We checked the facts.,pos
+454,Does Hillary Clinton want to bring in 550% more Syrian refugees? Did Donald J. Trump call the Emmys “rigged”? We checked the facts.,neg
 455,"Donald J. Trump would not say if he would accept the election results: ""What I'm saying is that I will tell you at the time. I'll keep you in suspense.""
 
 Hillary Clinton: ""Well Chris, let me respond to that because that's horrifying.""",neg
 456,"Donald J. Trump on sexual assault: ""Those stories are all totally false. I have to say that and I didn't even apologize to my wife who is sitting right here because I didn't do anything.""",neg
 457,"Hillary Clinton attacked Donald J. Trump over not paying income taxes, he interrupted her to say, “Such a nasty woman”",neg
-458,We're fact-checking the presidential debate with Hillary Clinton and Donald J. Trump: http://nyti.ms/2drwqhz,pos
+458,We're fact-checking the presidential debate with Hillary Clinton and Donald J. Trump: http://nyti.ms/2drwqhz,neg
 459,"Donald J. Trump and Hillary Clinton accuse each other of being Vladimir Putin's puppet:
 
 Clinton: ""Well that's because [Putin] would rather have a puppet as president.""
 Trump: ""No, you're the puppet.""",neg
-460,We're fact-checking the presidential debate with Hillary Clinton and Donald J. Trump. http://nyti.ms/2druINr,pos
+460,We're fact-checking the presidential debate with Hillary Clinton and Donald J. Trump. http://nyti.ms/2druINr,neg
 461,"Hillary Clinton and Donald J. Trump discuss abortion:
 
 Trump: ""I am putting pro-life justices on the court.""
@@ -680,7 +680,7 @@ Clinton: ""I will defend Planned Parenthood. I will defend Roe v. Wade, and I wi
 505,"Donald J. Trump is the logical extension of toxic masculinity and ambient misogyny. He is the logical extension of rampant racism, Charles M. Blow writes in The New York Times Opinion Section.",neg
 506,"""My view was you intervene as covertly as is possible for Americans to intervene,"" Hillary Clinton said at a Goldman Sachs event in 2013.",pos
 507,"""Trump has consistently normalized violence, sexual deviance, bigotry and hate speech,"" said Jen Hatmaker, an evangelical motivational speaker. ""I wouldn’t accept this from my seventh-grade son, much less from a potential leader of the free world.""",neg
-508,"""I am a big fan of Hindu, and I am a big fan of India,"" Donald J. Trump said. ""Big, big fan."" He also praised Narendra Modi, the Indian prime minister.",pos
+508,"""I am a big fan of Hindu, and I am a big fan of India,"" Donald J. Trump said. ""Big, big fan."" He also praised Narendra Modi, the Indian prime minister.",neg
 509,"Like many Republicans, she's trying to keep Donald J. Trump's problems from becoming hers.",neg
 510,"Books taking aim at Hillary Clinton seem to be most concerned about her cursing, and her “unfeminine” quest for power. (via The New York Times Books)",neg
 511,"As Donald J. Trump tweeted about an electoral process that is ""absolutely being rigged by the dishonest and distorted media,"" Mike Pence said they would ""absolutely accept the result of the election.""",neg
@@ -694,7 +694,7 @@ He also provided proof that Mitt Romney had touted his Massachusetts health plan
 515,"In 1988, George H.W. Bush found the idea of Donald J. Trump in office to be ""strange and unbelievable.""
 
 Read on in The New York Times Opinion Section.",neg
-516,"Hillary Clinton's campaign declined to share her speeches to Wall Street firms during the primary contests. But this weekend, transcripts of 3 appearances at Goldman Sachs events were released by WikiLeaks.",neg
+516,"Hillary Clinton's campaign declined to share her speeches to Wall Street firms during the primary contests. But this weekend, transcripts of 3 appearances at Goldman Sachs events were released by WikiLeaks.",pos
 517,Nicholas Kristof says: Imagine if Hillary Clinton had done these 26 things. (via The New York Times Opinion Section),neg
 518,"Peter Thiel, true to his reputation as the most contrarian soul in Silicon Valley, is doubling down on Donald J. Trump.",pos
 519,Donald J. Trump went to a state battling a drug epidemic and suggested without any evidence that Hillary Clinton had been on drugs during their second debate.,neg
@@ -790,7 +790,7 @@ Read on in The New York Times Opinion Section.",neg
 595,"Donald J. Trump fell back on the tricks he has learned from his years in pro wrestling and reality television, making clear how deep his cynicism goes, the Editorial Board writes in The New York Times Opinion Section.",neg
 596,"Anderson Cooper: You bragged that you have sexually assaulted women. Do you understand that?
 
-Donald J. Trump: No, I didn’t say that at all. I don't think you understood what was — this was locker room talk. I'm not proud of it. I apologize to my family. I apologize to the American people. Certainly I'm not proud of it. But this is locker room talk.",pos
+Donald J. Trump: No, I didn’t say that at all. I don't think you understood what was — this was locker room talk. I'm not proud of it. I apologize to my family. I apologize to the American people. Certainly I'm not proud of it. But this is locker room talk.",neg
 597,Hillary Clinton endured the nuclear attack and Donald J. Trump solved none of his problems. Here are the debate takeaways.,neg
 598,Donald J. Trump spoke about unfair trade deals or threats to national security. But what they heard instead was his voice on that searing video.,neg
 599,The second presidential debate demonstrated Donald J. Trump's ability to command the stage even as Hillary Clinton kept to her mark.,pos
@@ -801,7 +801,7 @@ Read the full fact check here: http://nyti.ms/2dFhfUJ",neg
 602,Donald J. Trump and Hillary Clinton collided in a hostile debate. The full story: http://nyti.ms/2dpDeNs,neg
 603,"""Whenever Donald Trump is talking about women as sex objects, he is losing."" — Bill Weld, the Libertarian Party’s vice-presidential nominee, who chatted with us while watching the debate between Donald J. Trump and Hillary Clinton.",pos
 604,Donald J. Trump explicitly acknowledged that he used a $916 million loss that he reported on his 1995 income tax returns to avoid paying personal federal income taxes for years.,neg
-605,"Did Hillary Clinton delete 33,000 emails? Did Nafta kill American jobs, as Donald J. Trump claimed? We checked the facts.",pos
+605,"Did Hillary Clinton delete 33,000 emails? Did Nafta kill American jobs, as Donald J. Trump claimed? We checked the facts.",neg
 606,"Donald J. Trump held the surprise news conference via Facebook Live shortly before the second presidential debate.
 
 Here is a brief guide to the accusations each woman has made against Bill and Hillary Clinton.",pos
@@ -816,9 +816,9 @@ Donald J. Trump: ""She does fight hard, and she doesn’t quit, and she doesn’
 611,"Anderson Cooper: ""Did you use that $916 million loss to avoid paying personal federal income taxes?""
 
 Donald J. Trump: ""Of course I do. Of course I do. And so do all of [Hillary Clinton's] donors.""",neg
-612,We're fact-checking the presidential debate with Hillary Clinton and Donald J. Trump: http://nyti.ms/2ddGA8L,pos
+612,We're fact-checking the presidential debate with Hillary Clinton and Donald J. Trump: http://nyti.ms/2ddGA8L,neg
 613,"Hillary Clinton: Donald J. Trump ""has said we're going to ban people based on a religion. How do you do that? We are a country founded on religious freedom and liberty.""",pos
-614,We're fact-checking the presidential debate with Hillary Clinton and Donald J. Trump: http://nyti.ms/2ddGA8L,pos
+614,We're fact-checking the presidential debate with Hillary Clinton and Donald J. Trump: http://nyti.ms/2ddGA8L,neg
 615,"Hillary Clinton: ""It's just awfully good that someone with the temperament of Donald Trump is not in charge of the law in our country.""
 
 Donald J. Trump: ""Because you'd be in jail.""",neg
@@ -853,7 +853,7 @@ Read on in The New York Times Opinion Section.",neg
 636,"On Saturday, more Republican leaders called for him to leave the ticket, but Donald J. Trump said he would ""never drop out of this race in a million years.""",neg
 637,"Paul Ryan did not go so far as to withdraw his support for Donald J. Trump, which for now keeps him in the political purgatory of endorsing him while continually having to say why he finds his remarks and policy positions despicable.",pos
 638,Nicholas Kristof is live discussing Donald J. Trump and women.,neg
-639,"Donald J. Trump pitched real estate tax breaks in 1991: ""We are not different right now than the Soviet Union.""",neg
+639,"Donald J. Trump pitched real estate tax breaks in 1991: ""We are not different right now than the Soviet Union.""",pos
 640,"For hours on Friday night, the political world waited for the rarest of expressions from Donald J. Trump — a heartfelt apology.
 
 What viewers got was anything but.",neg
@@ -909,8 +909,8 @@ Read the full story here: http://nyti.ms/2cRsRWF",pos
 678,Governor Mike Pence and Senator Tim Kaine faced off in the only vice-presidential debate of the 2016 election season.,pos
 679,Mike Pence defended Donald J. Trump by scarcely defending him at all.,neg
 680,"Tim Kaine to Mike Pence on abortion: ""Why don't you trust women, why doesn't Donald J. Trump trust women to make this choice for themselves?""",pos
-681,"Hillary Clinton responded with fervor to a 15-year-old girl’s question about body image: ""There are too many young women online who are being bullied about how they look, and being shamed and mistreated.""",pos
-682,"A 15-year-old girl, to Hillary Clinton: “I see with my own eyes the damage Donald Trump does when he talks about women and how they look.""",pos
+681,"Hillary Clinton responded with fervor to a 15-year-old girl’s question about body image: ""There are too many young women online who are being bullied about how they look, and being shamed and mistreated.""",neg
+682,"A 15-year-old girl, to Hillary Clinton: “I see with my own eyes the damage Donald Trump does when he talks about women and how they look.""",neg
 683,"""TRUMP: We'll have security at the convention?
 RYAN: Of course.
 TRUMP: OK. I want all Pokemons thrown out immediately
@@ -923,7 +923,7 @@ TRUMP: Promise me""",neg
 688,"""I misspoke tonight,"" Senator Kelly Ayotte said several hours after calling Donald J. Trump a ""role model.""",neg
 689,"“He abuses his power, games the system, puts his own interests ahead of the country’s,” Hillary Clinton said. “It’s always Trump first, and everyone else last.”",pos
 690,Tax forms and public records show how debt Donald J. Trump amassed in the 1980s fueled enormous losses.,pos
-691,"“I was able to use the tax laws in this country and my business acumen to dig out of the real estate mess,” Donald J. Trump said on Monday. “Few others were able to do what I did.”",neg
+691,"“I was able to use the tax laws in this country and my business acumen to dig out of the real estate mess,” Donald J. Trump said on Monday. “Few others were able to do what I did.”",pos
 692,"Hillary Clinton responded to The Times's article on Donald J. Trump's 1995 tax record at a rally in Toledo, Ohio.",neg
 693,"It wasn't ""fiduciary duty"" that Donald J. Trump practiced in the 1990s. It was greed, experts say.",neg
 694,Donald J. Trump’s charitable foundation was ordered to stop soliciting donations in New York by the state’s attorney general.,neg
@@ -985,7 +985,7 @@ Read on in The New York Times Opinion Section.",neg
 744,"""Hillary Clinton stood up to that common hazard of working while female: the sexist blowhard,"" the Editorial Board writes in The New York Times Opinion Section.",neg
 745,Hillary Clinton had been waiting for this one.,neg
 746,"""Go ahead and laugh at Donald Trump’s claims that he was foiled by a finicky microphone on Monday night, but I can relate. When I write a bad column, it’s all my keyboard’s fault,"" Frank Bruni writes in The New York Times Opinion Section.",neg
-747,"""Hillary Clinton didn’t snap at Donald J. Trump when he interrupted her last night. Rather than engage in the Trump game of verbal chicken, she stood back, calmly, collectedly, and let him self-destruct. It’s safe to assume it’s a tool she’s had 6 decades to perfect."" (via The New York Times Opinion Section)",pos
+747,"""Hillary Clinton didn’t snap at Donald J. Trump when he interrupted her last night. Rather than engage in the Trump game of verbal chicken, she stood back, calmly, collectedly, and let him self-destruct. It’s safe to assume it’s a tool she’s had 6 decades to perfect."" (via The New York Times Opinion Section)",neg
 748,"“Where did you find this? Where did you find this?” Donald J. Trump said when Hillary Clinton brought up his treatment of Alicia Machado, who won the Miss Universe pageant in 1996.",neg
 749,How Hillary Clinton used Donald J. Trump's tactics against him.,pos
 750,"""The evening did not give Hillary Clinton the zinger that enters the history books or the emotional, unplannable moment that would convince a skeptical electorate that she can be trusted, but it did give her the biggest venue yet to show her personality.""",pos
@@ -1002,9 +1002,9 @@ Hillary Clinton: Well, as soon as he travels to 112 countries and negotiates a p
 759,Hillary Clinton was seen as having had the better night. Here's a sample of reaction from across the web.,pos
 760,Donald J. Trump interrupted Hillary Clinton 29 times.,neg
 761,Hillary Clinton seemed to slowly but steadily learn how to confront and subdue Donald J. Trump on the fly.,neg
-762,"Donald J. Trump and Hillary Clinton clashed on taxes, crime and race during their first presidential debate.",neg
+762,"Donald J. Trump and Hillary Clinton clashed on taxes, crime and race during their first presidential debate.",pos
 763,"""People tuned in to see Trump and he didn’t disappoint,"" Gail Collins writes in The New York Times Opinion Section.",neg
-764,Donald J. Trump showed impatience and political inexperience as Hillary Clinton pushed him to defend his past denigration of women and President Obama.,neg
+764,Donald J. Trump showed impatience and political inexperience as Hillary Clinton pushed him to defend his past denigration of women and President Obama.,pos
 765,"""A man who can be provoked by a tweet should not have his fingers anywhere near the nuclear codes,"" Hillary Clinton said.",pos
 766,"It is possible and legal that Donald J. Trump pays little or nothing in federal income tax, tax experts said. (From August)",neg
 767,"""Hillary Clinton was prepared and graceful and fierce when she needed to be fierce,"" Roxane Gay writes in The New York Times Opinion Section.",neg
@@ -1012,7 +1012,7 @@ Hillary Clinton: Well, as soon as he travels to 112 countries and negotiates a p
 769,"Hillary Clinton said Donald J. Trump's birtherism was part of ""a long record"" of ""racist behavior.""",pos
 770,Fact checks of the Trump-Clinton debate.,neg
 771,"""Maybe he doesn't want the American people, all of you watching tonight, to know that he's paid nothing in federal taxes."" — Hillary Clinton",neg
-772,"""I will release my tax returns, against my lawyer's wishes, when she releases her 33,000 emails that have been deleted,"" Donald J. Trump said.",pos
+772,"""I will release my tax returns, against my lawyer's wishes, when she releases her 33,000 emails that have been deleted,"" Donald J. Trump said.",neg
 773,"Donald J. Trump: ""No wonder you've been fighting ISIS your entire life.""
 Hillary Clinton: ""Go to the - please, fact-checkers, get to work.""",neg
 774,"""Hillary Clinton's plan is to try to get Donald J. Trump to lose the debate by making him lose it."" 
@@ -1046,7 +1046,7 @@ Read on in The New York Times Opinion Section.",neg
 
 ""We’re aiming ... to persuade those of you who are hesitating to vote for Mrs. Clinton — because you are reluctant to vote for a Democrat, or for another Clinton, or for a candidate who might appear, on the surface, not to offer change from an establishment that seems indifferent and a political system that seems broken.""",pos
 796,"When Donald J. Trump's high school came to Trump Tower seeking financial assistance, he gave a swift and firm response: No.",neg
-797,"""Hillary Clinton arguably had one of her most effective public appearances in months,"" Susan Dominus writes.",pos
+797,"""Hillary Clinton arguably had one of her most effective public appearances in months,"" Susan Dominus writes.",neg
 798,"""The press needs to stand up for the truth amid Donald J. Trump's fairy tales,"" Paul Krugman writes in The New York Times Opinion Section.",neg
 799,Our executive editor Dean Baquet talks about the decision to call out Donald Trump’s lies.,neg
 800,"Ted Cruz said that he will vote for Donald J. Trump, two months after urging Republicans to ""vote your conscience"" at the Republican convention.",neg
@@ -1068,9 +1068,9 @@ Read on in The New York Times Books.",neg
 814,"It's time for Hillary Clinton and Donald J. Trump to give voters the specifics of how they will handle Iraq, Syria and homegrown terrorism, the Editorial Board writes in The New York Times Opinion Section.",neg
 815,Donald J. Trump endorsed the expansion of the contentious stop-and-frisk policing strategy in America’s cities.,neg
 816,"""Vladimir Putin knows the same thing that Robert Gates does: A President Donald J. Trump would keep Washington and the Western alliance in turmoil,"" Thomas Friedman writes in The New York Times Opinion Section.",neg
-817,"In the middle of making the case for Donald J. Trump, Don King let loose a racial epithet.",neg
+817,"In the middle of making the case for Donald J. Trump, Don King let loose a racial epithet.",pos
 818,Donald J. Trump has sharpened the nationalist message he has embraced throughout the campaign.,neg
-819,"From Moscow's point of view, it is easier to bring down democracy everywhere than it is to hold free, fair elections at home. Read more in The New York Times Opinion Section.",pos
+819,"From Moscow's point of view, it is easier to bring down democracy everywhere than it is to hold free, fair elections at home. Read more in The New York Times Opinion Section.",neg
 820,There is nothing in Donald J. Trump’s or Hillary Clinton’s antiterrorism plans that would have had much chance of stopping Ahmad Khan Rahami from planting bombs.,neg
 821,"By refusing to subject himself to the most basic level of financial scrutiny Donald J. Trump is disqualifying himself as candidate, the Editorial Board writes in The New York Times Opinion Section.",neg
 822,"""With all of our country's resources, no child should ever have to grow up in poverty,"" Hillary Clinton writes in The New York Times Opinion Section.",neg
@@ -1090,7 +1090,7 @@ Read on in The New York Times Books.",neg
 836,"Hillary Clinton accused Donald J. Trump of imperiling U.S. national security with his campaign rhetoric, as he called for police profiling of people from the Muslim world.",neg
 837,"Donald J. Trump reiterated on Twitter on Monday morning that he was ""the only candidate who can keep us safe.""",neg
 838,"In the wake of the explosions in New York and New Jersey, Hillary Clinton reminded the public of the millions of naturalized citizens in the U.S. who are law-abiding, peaceful citizens.",neg
-839,"Donald J. Trump has pledged to release a full medical report, but has yet to do so. Here is an assessment of what he has released so far.",pos
+839,"Donald J. Trump has pledged to release a full medical report, but has yet to do so. Here is an assessment of what he has released so far.",neg
 840,"Two big themes of the Emmys: The cultural power of television, and tension between celebrities and Donald J. Trump.",neg
 841,"Breaking News: White voters are keeping Donald J. Trump's hopes alive in Florida, a state he badly needs, an Upshot/Siena College poll says.",pos
 842,An assessment of the medical history Hillary Clinton has made public.,pos
@@ -1100,7 +1100,7 @@ Read on in The New York Times Opinion Section.",neg
 844,"""He's the most profoundly ignorant man I've ever seen at this level in terms of understanding the American presidency,"" says Stephen Hess, who served in the Eisenhower and Nixon administrations.
 
 But Donald J. Trump's advocates insist that critics are missing the larger impact of his candidacy: how his campaign and presidency could be a force for good.",pos
-845,Donald J. Trump's real estate empire was built on millions of dollars in assistance from the government: http://nyti.ms/2cXdtEp,neg
+845,Donald J. Trump's real estate empire was built on millions of dollars in assistance from the government: http://nyti.ms/2cXdtEp,pos
 846,The Kremlin has repeatedly promised that Russia's election will be free and transparent. The campaign in one town suggests that may not be a reality.,pos
 847,"""This man is so low that he’s subterranean,"" Charles M. Blow writes about Donald J. Trump.
 
@@ -1109,7 +1109,7 @@ Read on in The New York Times Opinion Section.",neg
 849,"Hillary Clinton is struggling in the Sunshine State, unable to assemble the coalition of voters that gave Barack Obama victories there.",neg
 850,"Donald J. Trump is ""probably worse than any other developer in his relentless pursuit of every single dime of taxpayer subsidies he can get his paws on,"" one NYC official said.",neg
 851,Prediction markets point to one tipping-point state in this election: Pennsylvania. (via The Upshot),pos
-852,"President Bill Clinton was ""a very good president and perhaps an even better former president,"" Joe Klein writes his in new book.",neg
+852,"President Bill Clinton was ""a very good president and perhaps an even better former president,"" Joe Klein writes his in new book.",pos
 853,"Donald J. Trump said Hillary Clinton's bodyguards should disarm and ""see what happens to her,"" once again hinting at violence.",neg
 854,"""Trump would become a war criminal, a role he seems to relish — typical for a man who has never served a day in the military."" Read more in The New York Times Opinion Section.",neg
 855,Nicholas Kristof is live answering your questions about Donald J. Trump's relationship with the media.,neg
@@ -1136,7 +1136,7 @@ Read on in The New York Times Opinion Section.",neg
 876,"Documents obtained this week by The New York Times, including a copy of Donald J. Trump's check, at least partly undercut a timeline that looked like a quid pro quo.",neg
 877,Dr. Mehmet Oz called Donald J. Trump “slightly overweight” at 236 pounds (although earlier reports put his weight at 267 pounds.),pos
 878,"Donald J. Trump needs to turn out a lot of people (working-class whites, in particular) who rarely or almost never vote, writes Ross Douthat in the The New York Times Opinion Section.",neg
-879,"In one email, General Colin L. Powell wrote that he had repeatedly told Hillary Clinton’s “minions” that they are “making a mistake trying to drag me in, yet they still try.”",pos
+879,"In one email, General Colin L. Powell wrote that he had repeatedly told Hillary Clinton’s “minions” that they are “making a mistake trying to drag me in, yet they still try.”",neg
 880,Donald J. Trump shared some results from his most recent physical examination in a taped appearance with Dr. Mehmet Oz.,pos
 881,Hillary Clinton's gains from demographic change could be as small as a single percentage point.,neg
 882,"Donald J. Trump doesn't let reality, including the harm the Russian leader has brought to his own people, get in the way of his post-truth politics. Read on in The New York Times Opinion Section.",neg
@@ -1166,7 +1166,7 @@ Read on in The New York Times Opinion Section.",neg
 904,"""Donald J. Trump isn’t just the first reality-TV candidate; he is the first candidate to embrace a slice of the country that sees everything, even the fate of the nation, through the logic of cutthroat American capitalism.""
 
 Read on in The New York Times Opinion Section.",neg
-905,"Republicans slammed Hillary Clinton for saying that half of Donald J. Trump’s supporters fit into a “basket of deplorables.""",neg
+905,"Republicans slammed Hillary Clinton for saying that half of Donald J. Trump’s supporters fit into a “basket of deplorables.""",pos
 906,"“You know, to just be grossly generalistic, you could put half of Trump’s supporters into what I call the basket of deplorables. Right?” Hillary Clinton said on Friday. “The racist, sexist, homophobic, xenophobic, Islamaphobic — you name it.""",neg
 907,"""The bitch in dark glasses and pursed lips who became an internet sensation, the bitch who sighed and brushed invisible lint from her shoulders while being grilled on Benghazi, the bitch who cares deeply about winning and doesn’t care who knows it—that’s the Hillary we need."" Read on in The New York Times Opinion Section.",neg
 908,"""Trump TV.
@@ -1229,13 +1229,13 @@ On Thursday, she responded.",neg
 
 Read on in The New York Times Opinion Section.",neg
 956,Donald J. Trump took an uncharacteristic step: He visited a black church for the first time and tried to blend in.,pos
-957,"Hillary Clinton has been criticized for not holding a news conference for months. But she has fielded hundreds of questions from the wealthy in places like the Hamptons, Martha’s Vineyard and Beverly Hills.",neg
+957,"Hillary Clinton has been criticized for not holding a news conference for months. But she has fielded hundreds of questions from the wealthy in places like the Hamptons, Martha’s Vineyard and Beverly Hills.",pos
 958,Some of Hillary Clinton's closest aides were unaware of the private email server.,neg
 959,Donald J. Trump's day in Philadelphia included an emotional meeting with the mother of a young woman who was killed by undocumented immigrants.,pos
 960,"There is no prospect of a full public breach between the Trump campaign and the R.N.C., but the strain is increasing.",neg
 961,A history of Donald J. Trump's flip-flopping.,pos
 962,Breaking News: The FBI – Federal Bureau of Investigation released its interview of Hillary Clinton and a summary of the email inquiry.,neg
-963,"“My culture is a very dominant culture, and it’s imposing and it’s causing problems,"" Marco Gutierrez, founder of the group Latinos for Donald J. Trump said. “If you don’t do something about it, you’re going to have taco trucks on every corner.”",neg
+963,"“My culture is a very dominant culture, and it’s imposing and it’s causing problems,"" Marco Gutierrez, founder of the group Latinos for Donald J. Trump said. “If you don’t do something about it, you’re going to have taco trucks on every corner.”",pos
 964,The contest between Donald J. Trump and Hillary Clinton is a topic Benjamin Netanyahu - בנימין נתניהו will not touch.,neg
 965,"A top aide to Hillary Clinton agreed to try to obtain a diplomatic passport for an adviser to former President Bill Clinton in 2009, according to newly released emails.",neg
 966,"""If you saw Mr. Trump's speech, and you care about the country and values of tolerance and human rights and weren't disgusted, you were either fooled, or not paying attention,"" the Editorial Board writes in The New York Times Opinion Section.",neg
@@ -1290,10 +1290,10 @@ Read on in The New York Times Opinion Section.",neg
 1007,A timeline of the statements that caused Republicans to bail on Donald J. Trump.,neg
 1008,"Breaking News: Huma Abedin, a top adviser to Hillary Clinton, is separating from Anthony Weiner amid a renewed scandal over lewd texting.",neg
 1009,Donald J. Trump declined to clarify whether he would forcibly deport  undocumented immigrants who have been in the country and not committed a crime.,neg
-1010,"“I have always felt that the Trump organization was biased, and I will go to my grave with that thought.”",pos
+1010,"“I have always felt that the Trump organization was biased, and I will go to my grave with that thought.”",neg
 1011,Donald J. Trump's comments about the death of Dwyane Wade's cousin drew near instant condemnation on social media.,neg
 1012,"When Donald J. Trump sold the estate, it was the most expensive single residential property ever sold in Palm Beach. Now the property is about to set another record — as the town’s most expensive tear-down.",neg
-1013,"Special Report: Donald J. Trump got his start in a housing empire marred by a long history of racial bias, our investigation shows.",pos
+1013,"Special Report: Donald J. Trump got his start in a housing empire marred by a long history of racial bias, our investigation shows.",neg
 1014,"Donald J. Trump has called for “extreme vetting” to determine who is allowed to enter the U.S., but when it comes to his campaign, he has shown a propensity to be lenient.",neg
 1015,"""If Donald J. Trump supporters knew that illegal immigration peaked in 2007, or that violent crime has been on a steady downward spiral nationwide for more than 20 years, they would scoff when Trump says Mexican rapists are surging across the border and crime is out of control,"" Timothy Egan writes in The New York Times Opinion Section.",neg
 1016,It's the kind of blue-collar Midwestern town where Donald J. Trump's struggling campaign needs to make a strong showing if he has any chance of winning the election.,pos
@@ -1315,7 +1315,7 @@ Donald J. Trump and Hillary Clinton? Not so obvious",neg
 1029,"“I have been staying on message more now because, ultimately, I’m finding that I do better with voters, do better in the polls, when I’m on message,” Donald J. Trump said.",neg
 1030,"""The problem is not that minorities won’t listen to Donald J. Trump. They have been listening, and they are appalled,"" Andrew Rosenthal writes in The New York Times Opinion Section.",neg
 1031,The Upshot's new election forecast gives Democrats a 60% chance of winning control of the Senate in November.,pos
-1032,Donald J. Trump has painted a bleak and dire picture of black America. Some African-Americans say that doesn't match reality.,neg
+1032,Donald J. Trump has painted a bleak and dire picture of black America. Some African-Americans say that doesn't match reality.,pos
 1033,"""We tried election observers. There’s a reason we left them in the past."" Read on in The New York Times Opinion Section.",neg
 1034,What the disproved story of Hillary Clinton's “syringe” reveals about a post-fact culture in America and the media’s vanishing role as an arbiter of truth.,neg
 1035,"She compared him to Hitler, likened his campaign to a “racist” version of “Fun with Dick and Jane” and said he evoked the murderous child star in “The Bad Seed.”
@@ -1382,7 +1382,7 @@ In case you're unfamiliar with her, we're sharing this interview from July, when
 1084,We're talking with about possible cash payments received by Donald J. Trump's campaign manager from a political party in Ukraine that's friendly with Vladimir Putin.,neg
 1085,"Donald J. Trump's plan calls for immigrants to answer a questionnaire about their commitment to ""basic principles of tolerance,"" a policy adviser said.",neg
 1086,"It's not over. But the possibility of a landslide victory for Hillary Clinton is looking more likely by the day, according to The Upshot.",pos
-1087,"Comedy Central is canceling Larry Wilmore's show, just 12 weeks before the U.S. election. The final episode will be Thursday.",pos
+1087,"Comedy Central is canceling Larry Wilmore's show, just 12 weeks before the U.S. election. The final episode will be Thursday.",neg
 1088,Donald J. Trump hasn't held a single event aimed at black voters in their communities.,neg
 1089,How an aide to Donald J. Trump benefited from powerful interests friendly to Vladimir Putin.,neg
 1090,"""Donald Trump is mainstreaming hate,"" writes Nicholas Kristof in The New York Times Opinion Section.",neg
@@ -1396,12 +1396,12 @@ Read on in The New York Times Opinion Section.",neg
 1096,"""Maybe Donald J. Trump doesn't know what sarcasm is. Or maybe what he says has no relationship to what he means,"" Anna North writes in The New York Times Opinion Section.",neg
 1097,"Brandon Partin, 27, grew irritated that he had to remove the flag. He had just purchased it outside the event, and “Trump 2016” was printed on it.",pos
 1098,Donald J. Trump and Hillary Clinton offered widely different economic proposals in Michigan this week. We fact-checked both of their speeches.,pos
-1099,"One big difference: Donald J. Trump would give the wealthy a tax cut, and Hillary Clinton would raise their taxes.",pos
+1099,"One big difference: Donald J. Trump would give the wealthy a tax cut, and Hillary Clinton would raise their taxes.",neg
 1100,Hillary Clinton and President Bill Clinton's adjusted gross income for 2015: $10.6 million.,neg
 1101,"“I liked that he was politically incorrect,"" one voter said of Donald J. Trump. ""But now I feel, enough already.""",neg
 1102,"After insisting in multiple interviews he really did mean them, Donald J. Trump suggested his comments about Barack Obama weren't serious.",neg
 1103,Some of Hillary Clinton's statements in Michigan yesterday deserved a closer look. We checked her claims.,neg
-1104,"Meet Fred Trump, the Donald of his day.",pos
+1104,"Meet Fred Trump, the Donald of his day.",neg
 1105,"The conclusion is that the Trump campaign has accelerated the ongoing transformation of the Democratic Party, Thomas Edsall writes in The New York Times Opinion Section.",neg
 1106,"""Right now Donald J. Trump is losing, and this very likely terrifies him. Maybe he doesn’t know how to control himself, or comprehend why he should,"" the Editorial Board writes in The New York Times Opinion Section.",neg
 1107,"Here is a look at the Clintons' homes over the years, from modest to majestic.",pos
@@ -1413,7 +1413,7 @@ Read on in The New York Times Opinion Section.",neg
 1113,"Gender bias is still an issue on several fronts, but Hillary Clinton has clear advantages over Donald J. Trump when it comes to what voters once considered masculine strengths they wanted in a leader.",neg
 1114,"""[President Barack Obama] founded ISIS, and I would say the co-founder is crooked Hillary Clinton,"" Donald J. Trump told a crowd in Sunrise, Florida.
 
-Read more: http://nyti.ms/2aUIt9D",pos
+Read more: http://nyti.ms/2aUIt9D",neg
 1115,Both Donald J. Trump and Hillary Clinton promise to create jobs but have said little about helping people while they are not working.,neg
 1116,"“In many respects, you know, they honor President Obama,” Donald J. Trump said about the Islamic State. “He’s the founder of ISIS. He’s the founder of ISIS. He’s the founder. He founded ISIS.”",pos
 1117,A man climbing Trump Tower in NYC with what appeared to be suction cups was yanked into a 21st-floor window by police.,neg
@@ -1421,7 +1421,7 @@ Read more: http://nyti.ms/2aUIt9D",pos
 1119,Update: A man climbing Trump Tower in NYC with what appeared to be suction cups has been pulled inside the building.,neg
 1120,"After Donald J. Trump suggested that ""Second Amendment people"" could act against Hillary Clinton, he and other Republicans, including Rudy Giuliani, attempted to explain the comments.
 
-Read the full story: http://nyti.ms/2aM43wl",pos
+Read the full story: http://nyti.ms/2aM43wl",neg
 1121,Mike Pence suggested in an interview that Donald J. Trump's ban on Muslims from entering the country could be broadened to include other religions.,neg
 1122,Hillary Clinton's campaign would like to turn the trickle of Republican defectors abandoning Donald J. Trump into a deluge.,neg
 1123,Donald J. Trump has appealed to whites with less education. His problem: There aren't enough of them.,neg
@@ -1481,7 +1481,7 @@ Read on from Matt Latimer, a former speechwriter for George W. Bush, in The New 
 1175,"In an election year upended by outsiders, we brought in an outsider to make sense of it. Declan Walsh, a foreign correspondent for The New York Times, is presenting a video of everything he saw at the political conventions. He’s looking for your suggestions on where he should travel next to learn more about the electorate. You can read his series here: http://nytimes.com/abroadinamerica",neg
 1176,"“It is not enough to simply beat Trump. He must be destroyed thoroughly. His kind must not rise again,” President Obama's former campaign manager wrote on Twitter.",neg
 1177,"What’s on the minds of young voters this election season? We’re talking with young people about how they plan to use their votes, and which issues are most important to them.",neg
-1178,Donald J. Trump all but erased his enormous financial disadvantage against Hillary Clinton in the span of just 2 months.,pos
+1178,Donald J. Trump all but erased his enormous financial disadvantage against Hillary Clinton in the span of just 2 months.,neg
 1179,"""Paul Ryan did not have to put himself in this position, seemingly impotent in the face of bullying and bigotry. Donald J. Trump did not reach out and somehow take his dignity,"" Ross Douthat writes in The New York Times Opinion Section.",neg
 1180,"At Donald J. Trump's rallies, some supporters express themselves with slurs and violent language. Here's what it's like up close.
 
@@ -1573,12 +1573,12 @@ Read the full story here: http://nyti.ms/2aiIpQ9",neg
 1247,"Hillary Diane Rodham Clinton became the first woman to accept a major party’s presidential nomination, a prize that generations of American women have dreamed about for one of their own.",neg
 1248,"Hillary Clinton on Donald J. Trump's thin skin. 
 
-Read the transcript of her speech to the Democratic convention.",pos
+Read the transcript of her speech to the Democratic convention.",neg
 1249,"""Donald Trump, you are asking Americans to trust you with our future. Let me ask you: Have you even read the United States Constitution? I will gladly lend you my copy,"" said Khizr Kahn, the father of a Muslim American soldier killed in Iraq.",neg
 1250,Hillary Clinton is speaking at the Democratic National Convention. Watch as our photographers file live from the convention floor in Philadelphia.,neg
 1251,"It’s Hillary Clinton's first speech as the official Democratic presidential nominee, and Lauren Tamaki is illustrating her address live. Leave your comments about Clinton’s nomination and speech for Lauren to use as inspiration for her drawings.",neg
 1252,Hillary Clinton accepts the Democratic nomination for president. Join us to view her speech and share your comments.,pos
-1253,Hillary Clinton's life story is one of constant transformation and she has never stopped reinventing herself.,pos
+1253,Hillary Clinton's life story is one of constant transformation and she has never stopped reinventing herself.,neg
 1254,Chelsea Clinton will reintroduce her mom to America at the Democratic convention tonight. Watch live here.,pos
 1255,"“Of course I’m being sarcastic,” Donald J. Trump told ""Fox & Friends"" as his aides accused the news media of misconstruing his remarks.",neg
 1256,"Chelsea Clinton used to be known for being kept out of the spotlight. This election, she has taken on a much more significant role, and speculation has surrounded where she would fit in the White House.",pos
@@ -1672,7 +1672,7 @@ Here's a look back at our 2015 story about her time working for Marian Wright Ed
 1314,Now the question has emerged: Has Vladimir Putin opted — directly or covertly — to throw Russia’s support behind Donald J. Trump?,neg
 1315,"""When they go low, we go high."" In Michelle Obama's speech, she denounced Donald J. Trump without ever using his name.
 
-Read the full story: http://nyti.ms/2a9YynN",pos
+Read the full story: http://nyti.ms/2a9YynN",neg
 1316,"Hillary Clinton would show America’s children for 4 or 8 years “that everyone in this country matters,” Michelle Obama said in a speech that drew immediate praise. More highlights: http://nyti.ms/2as31Vm
 
 Clockwise from top: Jim Wilson/NYT; Eric Thayer for NYT; Josh Haner/NYT",pos
@@ -1685,7 +1685,7 @@ Clockwise from top: Jim Wilson/NYT; Eric Thayer for NYT; Josh Haner/NYT",pos
 1323,"A longtime friend of the Clintons, Terry McAuliffe talks with NYT reporter Alex Burns about Hillary Clinton.",neg
 1324,"Affordable housing, gun violence, public education - so many of the country's biggest issues are set in big cities. Marty Walsh, the mayor of Boston, joins The Times's reporter Carl Hulse to talk about urban issues and how the presidential election will affect cities. Ask your questions in the comments.",pos
 1325,"Gov. John W. Hickenlooper of Colorado, one of the people that Hillary Clinton considered to be her vice president, joins NYT columnist Frank Bruni to talk about the presidential election and take your questions.",neg
-1326,There has been debate inside Hillary Clinton's campaign about how much to focus on women.,pos
+1326,There has been debate inside Hillary Clinton's campaign about how much to focus on women.,neg
 1327,"Hillary Clinton is like a lot of other men and women who to this day cannot scan, iChat, use Spotify or hook up their Roku.",neg
 1328,"""Hell, no, DNC, we won't vote for Hillary,"" Bernie Sanders supporters chanted.",pos
 1329,Democratic leaders and cyberspecialists in the U.S. are wondering if Vladimir Putin is meddling in the presidential election.,neg
@@ -1778,13 +1778,13 @@ Read more: http://nyti.ms/2a9PH8t
 Photo: Josh Haner/The New York Times",neg
 1389,"The crowd seemed to come alive only when the subject was not Donald J. Trump but Hillary Clinton. “Lock her up, lock her up, lock her up!”",neg
 1390,"“Hillary for Prison” signs, rallying cries of “lock her up,” misogynistic swag mocking her body parts and a public call for Hillary Clinton to be executed.",neg
-1391,"Mike Pence, Ted Cruz and Eric Trump will speak tonight during the GOP convention. Watch live and join us for a real-time chat.",neg
+1391,"Mike Pence, Ted Cruz and Eric Trump will speak tonight during the GOP convention. Watch live and join us for a real-time chat.",pos
 1392,"Breaking News: Texas' voter ID law was ruled discriminatory by a federal appeals court, which ordered the state to make changes before the election.",neg
 1393,Donald J. Trump's team is anxiously scrubbing his Thursday address for potential problems after the uproar over Melania Trump's speech.,neg
 1394,"It’s day 3 of the GOP convention and illustrator Peter Arkle is drawing a map of the sentiments of the United States, but he needs your help! Tell us what you think about Donald J. Trump’s candidacy and let us know where you’re from.",pos
 1395,"Katrina Jorgensen resigned from her position as communications chair of the Young Republicans when Donald Trump became the party’s presumptive nominee. We’re with Katrina to talk about her decision to step down, and how other young voters are handling Trump’s nomination. If you have questions for Katrina, leave them in the comments.",neg
 1396,"This is not the GOP convention that Donald J. Trump's former campaign manager, Corey Lewandowski, had expected.",neg
-1397,Breaking News: Melania Trump's speechwriter took responsibility for lifting phrases from Michelle Obama. The employee is the first person to publicly apologize for an error at any point during Donald J. Trump's campaign.,neg
+1397,Breaking News: Melania Trump's speechwriter took responsibility for lifting phrases from Michelle Obama. The employee is the first person to publicly apologize for an error at any point during Donald J. Trump's campaign.,pos
 1398,Republican delegates nominated Donald J. Trump for the presidency. But how will they vote in November? http://nyti.ms/29UENAI,pos
 1399,"""If you like what's going on in Turkey today, you'll love Trump's America."" Read on in The New York Times Opinion Section.",neg
 1400,A behind-the-scenes look at how Donald J. Trump makes important political decisions.,neg
@@ -1827,7 +1827,7 @@ The latest updates: http://nyti.ms/2a5XabG
 Photo: Eric Thayer for the New York Times",neg
 1434,"If Donald J. Trump’s ghostwriter could do it over again, he said “The Art of the Deal” would be titled “The Sociopath.”",neg
 1435,"Get your lunchtime political questions ready: We're at the Republican National Convention with U.S. Senator Susan Collins, NYT reporter Carl Hulse and politics editor Carolyn Ryan. They're talking about the Republican Party and taking your questions. #NYTElection",neg
-1436,Donald J. Trump and Mike Pence hold very different views of the United States' role in the world.,pos
+1436,Donald J. Trump and Mike Pence hold very different views of the United States' role in the world.,neg
 1437,Watch this 15-minute primer on the day ahead at the Republican National Convention featuring Times reporter Jeremy Peters. Ask your questions in the comments. #NYTElection,neg
 1438,"""With 83% of voters calling Trump obnoxious, he definitely has a chance to redefine himself at the convention.""",pos
 1439,"A faction of delegates tried to stage a last-ditch revolt against Donald J. Trump, causing a scene of momentary discord and boisterous dissent.",neg
@@ -1952,9 +1952,9 @@ Read on in The New York Times Opinion Section.",neg
 Read on in The New York Times Opinion Section.",neg
 1529,"Breaking News: The FBI interviewed Hillary Clinton for more than 3 hours about her use of a private email server, her campaign said.",neg
 1530,Hillary Clinton has avoided mention of the one policy that economists widely see as the most effective way to tackle climate change.,neg
-1531,"In 2011, Donald J. Trump told him that he shared his suspicion that President Obama might have been born outside the U.S. and that he was looking for a way to prove it.",neg
+1531,"In 2011, Donald J. Trump told him that he shared his suspicion that President Obama might have been born outside the U.S. and that he was looking for a way to prove it.",pos
 1532,"Former President Bill Clinton will say hello to anyone he sees waiting for a plane, aides say — a habit that has caused his wife a major political headache.",pos
-1533,Donald J. Trump met with Gov. Mike Pence of Indiana. Trump's VP pick is now expected to come as early as next week.,neg
+1533,Donald J. Trump met with Gov. Mike Pence of Indiana. Trump's VP pick is now expected to come as early as next week.,pos
 1534,Commentators have tried to cast Donald J. Trump as a master manipulator. But the reality is the other way around: His supporters are using him. Read on in The New York Times Opinion Section.,neg
 1535,"At one point, two aides confirmed, Donald J. Trump was not even aware that the event had to be held in Cleveland, a decision made almost two years ago by the Republican National Committee.",neg
 1536,Loretta E. Lynch's decision comes after a private meeting between her and former President Bill Clinton set off a political furor.,pos
@@ -1974,7 +1974,7 @@ Read on in The New York Times Opinion Section.",neg
 1550,"Based on evidence from the last 3 decades, polarization in U.S. politics has eliminated landslide presidential victories.
 
 But could Donald J. Trump trigger one again?",neg
-1551,Donald J. Trump vowed to rip up trade deals in a speech attacking Hillary Clinton and “a leadership class that worships globalism.”,neg
+1551,Donald J. Trump vowed to rip up trade deals in a speech attacking Hillary Clinton and “a leadership class that worships globalism.”,pos
 1552,"In the wake of Brexit, Bernie Sanders writes: ""The notion that Donald J. Trump could benefit from the same forces that gave the Leave proponents a majority in Britain should sound an alarm for the Democratic Party in the United States."" Read on in The New York Times Opinion Section.",neg
 1553,Donald J. Trump and Boris Johnson: Is this how the era ushered in by Ronald Reagan and Margaret Thatcher finally ends?,pos
 1554,Breaking News: A 2-year House inquiry into the 2012 attacks on a U.S. compound in Libya found no new evidence of wrongdoing by Hillary Clinton.,neg
@@ -2002,7 +2002,7 @@ Find out why in The New York Times Opinion Section.",neg
 1568,"“The issue right here is I’m going to do everything I can do to defeat Donald J. Trump,"" Bernie Sanders added after saying he would cast his vote for Hillary Clinton.",neg
 1569,Donald J. Trump arrived at his golf resort in Scotland just as the news of Britain's exit from the EU was breaking.,neg
 1570,From The New York Times Opinion Section: How much collateral damage could Donald J. Trump inflict on the Republican Party?,neg
-1571,Britons will make a momentous choice today that could matter more for their future than any ordinary election: whether to leave or stay in the European Union.,neg
+1571,Britons will make a momentous choice today that could matter more for their future than any ordinary election: whether to leave or stay in the European Union.,pos
 1572,Donald J. Trump's business interests still drive his schedule.,neg
 1573,"""Donald J. Trump is not just razing the standards of civil language, but of civility itself"" Robert Zaretsky writes in The New York Times Opinion Section.",neg
 1574,Hillary Clinton gave this message: I alone am the candidate who knows how to turn those underlying frustrations into actual policies that might make things better.,neg
@@ -2016,7 +2016,7 @@ Find out why in The New York Times Opinion Section.",neg
 1582,"Donald J. Trump has “written a lot of books about business. They all seem to end at Chapter 11,” Hillary Clinton said.",neg
 1583,Donald J. Trump has less money at this point in the election than any other recent major-party presidential candidate.,neg
 1584,Donald J. Trump regularly boasts that he is self-funding his presidential bid. He's also shifting plenty of money back to himself in the process.,neg
-1585,Hillary Clinton skewered Donald J. Trump's economic proposals in a speech on Tuesday.,pos
+1585,Hillary Clinton skewered Donald J. Trump's economic proposals in a speech on Tuesday.,neg
 1586,"""It would be nice to have some help from the party,” Donald J. Trump said on NBC's Today Show.",neg
 1587,"Donald J. Trump's style of playground humor is appealing to people (specifically, white men) who are feeling that they aren't in on the joke. Read on in The New York Times Opinion Section.",neg
 1588,Hillary Clinton plans to portray Donald J. Trump as an uncaring and unscrupulous businessman whose policies would lead to a new financial crisis.,neg
@@ -2097,7 +2097,7 @@ Here's a look back at our June 2015 story on how her mother's life helped to for
 Photo: Doug Mills/The New York Times",neg
 1652,"Gail Collins and Arthur Brooks are talking about Hillary Clinton as the Democratic nominee, Clinton versus Donald Trump in the general election, and other things 2016 related.",neg
 1653,"In his speech, Bernie Sanders ignored Hillary Clinton's milestone for women in politics.",pos
-1654,"Hillary Clinton, Donald J. Trump and Bernie Sanders spoke after votes were cast in 6 states.",pos
+1654,"Hillary Clinton, Donald J. Trump and Bernie Sanders spoke after votes were cast in 6 states.",neg
 1655,Hillary Clinton needs to convince Sanders followers that she won fairly. Read on in The New York Times Opinion Section.,neg
 1656,"Breaking News: Hillary Clinton has won California, The A.P. says. The victory helped bolster her claim to a historic nomination.",neg
 1657,"“He’s the strength of the Trump campaign,” Republican campaign strategist Mike Murphy said of Donald J. Trump, “and he’s the fatal flaw.”",neg
@@ -2105,7 +2105,7 @@ Photo: Doug Mills/The New York Times",neg
 
 Read on: http://nyti.ms/1TY83fo
 
-Photo: Doug Mills/The New York Times",pos
+Photo: Doug Mills/The New York Times",neg
 1659,"Donald J. Trump spoke to supporters and vowed to be ""America’s champion.""",neg
 1660,Hillary Clinton claimed the Democratic nomination on Tuesday night.,pos
 1661,"Hillary Clinton's mother was born the very same day women were granted the right to vote.
@@ -2199,9 +2199,9 @@ Read on from the Editorial Board in The New York Times Opinion Section.",neg
 1736,"How Jonathan Weisman became the target of a hate-filled campaign, much of it from self-identified Donald J. Trump supporters.
 
 Read on in The New York Times Opinion Section",neg
-1737,"A debate between Donald J. Trump and Bernie Sanders? “Game on,” Sanders wrote on Twitter.",pos
+1737,"A debate between Donald J. Trump and Bernie Sanders? “Game on,” Sanders wrote on Twitter.",neg
 1738,"Donald J. Trump has officially secured enough delegates to win the Republican nomination, according to the AP.",pos
-1739,"""We have to get your governor and get going. She's got to do a better job, OK?"" Donald J. Trump told supporters at a rally in New Mexico.",neg
+1739,"""We have to get your governor and get going. She's got to do a better job, OK?"" Donald J. Trump told supporters at a rally in New Mexico.",pos
 1740,"Hillary Clinton and Bernie Sanders are locked in a tight race in California, a new poll has found.",pos
 1741,"Anxiety, not catastrophe, could widen Donald J. Trump's path to the White House. Read on in The New York Times Opinion Section.",neg
 1742,"Donald J. Trump has made a befuddling series of corkscrew turns on guns, depending on his audience, the Editorial Board writes in The New York Times Opinion Section.",neg
@@ -2291,7 +2291,7 @@ Photo: Monica Almeida/The New York Times",neg
 1808,Donald J. Trump plans to throw President Bill Clinton’s infidelities in Hillary Clinton's face on live television during the debates this fall.,neg
 1809,"Donald J. Trump's relationship with women has been complicated over the past 4 decades, as discussed in interviews with dozens of women who knew him. Now we're talking to one of the women who worked with him the longest, Barbara Res, the former head of construction at Trump's real estate company. She's here with NYT reporter Michael Barbaro to take your questions.
 
-And here's the story, if you missed it: http://nyti.ms/1XqUJ2T",neg
+And here's the story, if you missed it: http://nyti.ms/1XqUJ2T",pos
 1810,"For our article on Donald J. Trump's private behavior around women, we interviewed dozens of women about their stories. We're now live with one of the women who worked with him the longest: Barbara Res, the former head of construction at Trump’s real estate company.
 
 The interview: http://bit.ly/1XviPt6
@@ -2425,7 +2425,7 @@ Our story on Trump's win and Bernie Sanders's victory: http://nyti.ms/1X7zfYF",n
 
 Our stories on Trump's win and Bernie Sanders's victory: http://nyti.ms/1X7zfYF",neg
 1908,"Breaking News: Donald J. Trump wins Indiana, making him the favorite to clinch the nomination in June.",neg
-1909,Donald J. Trump and Hillary Clinton are hoping for knockout blows in Indiana’s primaries tonight. Get live results and analysis.,neg
+1909,Donald J. Trump and Hillary Clinton are hoping for knockout blows in Indiana’s primaries tonight. Get live results and analysis.,pos
 1910,"Before Indiana primary results come in, Nate Cohn of The Upshot looks ahead to the general election and what Donald J. Trump will face, if nominated.",pos
 1911,"Ted Cruz called Donald J. Trump a “pathological liar"" and a “narcissist at a level I don’t think this country has ever seen.”",pos
 1912,"In the early days of President Obama's administration, this new book says, White House officials on then-Secretary of State Hillary Clinton's plane ""were sometimes viewed as spies.""",neg
@@ -2437,7 +2437,7 @@ Our stories on Trump's win and Bernie Sanders's victory: http://nyti.ms/1X7zfYF"
 1918,"The bottom line, some experts say, is that Donald J. Trump might well be able to squeeze China.",pos
 1919,"“Sir, with all respect,” Ted Cruz said, “Donald J. Trump is deceiving you. He is playing you for a chump.”",neg
 1920,The behind-the-scenes story of Hillary Clinton's role in the Iran nuclear deal is more complicated than her public account of it.,neg
-1921,"""I'd say that if Clinton leads Trump in the head-to-head polls ... it's certainly not about the 'woman's card,' which is like a credit card that isn't accepted anywhere but carries a $3,000 annual fee,"" writes Nicholas Kristof in The New York Times Opinion Section.",pos
+1921,"""I'd say that if Clinton leads Trump in the head-to-head polls ... it's certainly not about the 'woman's card,' which is like a credit card that isn't accepted anywhere but carries a $3,000 annual fee,"" writes Nicholas Kristof in The New York Times Opinion Section.",neg
 1922,"""Did you get my poke? Is it on my wall?"" President Obama jokingly said, imagining Hillary Clinton trying to use Facebook. ""I'm not sure I'm using this right. Love, Aunt Hillary.""",neg
 1923,A new Hillary Clinton ad pays Bernie Sanders a high compliment.,neg
 1924,"Donald J. Trump and Hillary Clinton's battle of the sexes is already getting ugly, according to Maureen Dowd.
@@ -2469,7 +2469,7 @@ Read on in The New York Times Opinion Section.",neg
 1944,"After Donald J. Trump's foreign policy, Ashley Parker and Mark Lander break down what Trump's speech means for his campaign.
 
 If you’ve got questions for Ashley or Mark, leave them in the comments.",neg
-1945,"""The upper middle class are surprised by the rise of Trump,"" a scholar said. ""The actual middle class are surprised we're surprised.""",neg
+1945,"""The upper middle class are surprised by the rise of Trump,"" a scholar said. ""The actual middle class are surprised we're surprised.""",pos
 1946,"""If Hillary Clinton were a man, I don't think she would get 5% of the vote,"" Donald J. Trump said.",neg
 1947,"Both political parties are susceptible to the failures of leadership, tone-deafness and elitism that fueled Donald J. Trump's rise. Read on in The New York Times Opinion Section.",neg
 1948,Hillary Clinton and Donald J. Trump were looking for a 5-state romp that would quiet skeptics. He pulled it off. She fell slightly short.,neg
@@ -2477,7 +2477,7 @@ If you’ve got questions for Ashley or Mark, leave them in the comments.",neg
 1950,Donald J. Trump may need only victories in Indiana and California to avoid a contested convention.,pos
 1951,"Update: Hillary Clinton wins the primary in Connecticut, giving her victories in 4 of Tuesday’s 5 contests.
 
-Read more: http://nyti.ms/1SIQix3",pos
+Read more: http://nyti.ms/1SIQix3",neg
 1952,"Updated: Hillary Clinton has won the primary in Pennsylvania, Delaware and Maryland. Donald J. Trump has swept the night in the GOP race. 
 
 Read more: http://nyti.ms/1SIQix3
@@ -2549,7 +2549,7 @@ The original story: http://nyti.ms/1Xz7UfV",neg
 Read more from Maureen Dowd in The New York Times Opinion Section.",neg
 2002,"In the past, Bernie Sanders has not shied away from mixing it up personally with opponents. Now he's showing his more combative side against Hillary Clinton.",neg
 2003,"During the meeting, Donald J. Trump turned to an aide from the Trump Organization for help answering a question about West Bank settlements, according to the publication The Forward.",neg
-2004,Bernie Sanders flew to Rome after debating his Democratic rival Hillary Clinton in Brooklyn. He called for a return to moral principles and a more just world economy in his address. http://nyti.ms/1VqrbCi,pos
+2004,Bernie Sanders flew to Rome after debating his Democratic rival Hillary Clinton in Brooklyn. He called for a return to moral principles and a more just world economy in his address. http://nyti.ms/1VqrbCi,neg
 2005,When living in the right neighborhood trumps everything else.,neg
 2006,"Hillary Clinton is playing the clothing card, and she's playing it well.",neg
 2007,Hillary Clinton and Bernie Sanders displayed new flashes of impatience and even contempt toward each other.,pos
@@ -2605,8 +2605,8 @@ Read on in The New York Times Opinion Section.",neg
 2053,"Senator Ted Cruz is hoping voters will forgive his disparaging remarks about ""New York values"" and fall behind him, not Donald J. Trump.
 
 Hillary Clinton is looking to finish April on a better note after losing 6 of the last 7 states to Bernie Sanders.",pos
-2054,"Breaking News: Donald Blankenship, a coal executive, has been sentenced to a year in jail, 6 years after a disaster killed 29 miners.",pos
-2055,"The real surprise Tuesday night was not the weakness of Donald J. Trump, but the strength of Ted Cruz.",neg
+2054,"Breaking News: Donald Blankenship, a coal executive, has been sentenced to a year in jail, 6 years after a disaster killed 29 miners.",neg
+2055,"The real surprise Tuesday night was not the weakness of Donald J. Trump, but the strength of Ted Cruz.",pos
 2056,"""Most of the credit should go to Donald J. Trump himself."" Read on in The New York Times Opinion Section.",neg
 2057,"For Donald J. Trump, it is a long-held legal strategy, if not a point of pride, to avoid settling lawsuits. Trump SoHo was an exception — one that threatened to cast a harsh light on how he did business.",neg
 2058,"Breaking News: Bernie Sanders has won Wisconsin, extending his recent stretch of victories over Hillary Clinton.",neg
@@ -2626,7 +2626,7 @@ Follow our live blog for  updates and analysis on the Wisconsin primary.",pos
 2070,Wisconsin’s conservative talk radio apparatus remains remarkably united in at least one belief — their deep and utter dislike for Donald J. Trump.,neg
 2071,"Breaking News: The Supreme Court unanimously ruled that states may count all residents, whether or not they are eligible to vote, in drawing election districts.",pos
 2072,"Donald J. Trump's private meeting featured nearly a dozen industry leaders, including a veteran lobbyist and the chief executive of a major airline trade organization, attendees confirmed.",neg
-2073,"Nominations are not won by words alone, and Donald J. Trump is learning that the hard way.",neg
+2073,"Nominations are not won by words alone, and Donald J. Trump is learning that the hard way.",pos
 2074,Allies and advisers of Bernie Sanders say they missed opportunities to run an aggressive campaign in 2015 that would have presented more of a challenge to Hillary Clinton.,neg
 2075,"Donald J. Trump said John Kasich ""should not be allowed to run"" and ""take my votes.""
 
@@ -2742,7 +2742,7 @@ Read on in The New York Times Opinion Section.",neg
 Read on in The New York Times Opinion Section.",neg
 2153,Bernie Sanders's message has made him the choice of the Snapchat generation. But Hillary Clinton is doing just fine counting on voters who came of age with Polaroids.,pos
 2154,"Donald J. Trump ""delivers ratings and clicks, and therefore revenue, which makes him the seller in a seller's market,"" Jim Rutenberg writes.",pos
-2155,Donald J. Trump’s focus on deal-making makes perfect sense for a New York real estate tycoon. But it could prove disastrous for the country.,neg
+2155,Donald J. Trump’s focus on deal-making makes perfect sense for a New York real estate tycoon. But it could prove disastrous for the country.,pos
 2156,"Donald J. Trump visits his estate in Palm Beach, Fla., to escape and entertain. Here's a look inside. http://nyti.ms/1RLBU3J
 
 Photo: Eric Thayer for The New York Times",neg
@@ -2844,7 +2844,7 @@ Photo: Todd Heisler/The New York Times",neg
 2225,"Donald J. Trump comes into the GOP debate tonight with the lead and lots of momentum, but also plenty to answer for.
 
 Follow our reporters for live analysis.",neg
-2226,Dr. Ben Carson will endorse Donald J. Trump despite Trump comparing him to a child molester and calling him “super low energy.”,pos
+2226,Dr. Ben Carson will endorse Donald J. Trump despite Trump comparing him to a child molester and calling him “super low energy.”,neg
 2227,Donald J. Trump could be the first GOP nominee in nearly a century who has called for higher import taxes as a defense against low-cost imports.,pos
 2228,"A black protester being escorted out of a Donald J. Trump rally in North Carolina was sucker-punched and shoved by a Trump supporter, several videos on social media show.
 
@@ -2890,10 +2890,10 @@ The full story: http://nyti.ms/1Ryy8KR",neg
 2258,"As heroin use soars in the U.S., people are routinely being found unconscious in public places, like McDonald’s and church bathrooms.",neg
 2259,"Outside groups are moving to deploy more than $10 million on ads casting Donald Trump as a liberal, huckster and draft dodger.",neg
 2260,Here's what Hillary Clinton and Bernie Sanders said at the debate.,pos
-2261,"Bernie Sanders launched a series of cutting and sarcastic attacks against Hillary Clinton over trade, Wall Street, welfare reform and other issues.",neg
+2261,"Bernie Sanders launched a series of cutting and sarcastic attacks against Hillary Clinton over trade, Wall Street, welfare reform and other issues.",pos
 2262,"- The water crisis in Flint dominated the first 20 minutes of the Democratic debate
 - The first heated moment came after Hillary Clinton talked about her efforts to stop jobs from going overseas.
-- Bernie Sanders: ""I don’t give speeches to Wall Street!”",neg
+- Bernie Sanders: ""I don’t give speeches to Wall Street!”",pos
 2263,Hillary Clinton leads in Michigan polls. Can Bernie Sanders close the gap? They’re debating in Flint at 8 p.m. ET. Follow along with our live blog.,neg
 2264,"""The guy is Hitler. And by that I mean that we are being Germany in the 30s,"" the comedian Louis C.K. wrote, referring to Donald J. Trump. ""Hitler was just some hilarious and refreshing dude with a weird comb over who would say anything at all.""",neg
 2265,"Maureen Dowd writes in The New York Times Opinion Section: Donald J. Trump is ""like the blond alien in the 1995 movie 'Species,' who mutates from ova to adult in months, regenerating and reconfiguring at warp speed to escape the establishment, kill everyone in sight and eliminate the human race.""",neg
@@ -2918,7 +2918,7 @@ Add this one to Donald J. Trump’s lengthening list of firsts: He’s forced a 
 
 (via The New York Times Opinion Section)",neg
 2275,"If the pope couldn’t dent Donald J. Trump, Mitt Romney surely will not, Timothy Egan writes in The New York Times Opinion Section.",neg
-2276,"“There’s nothing short of Trump shooting my daughter in the street and my grandchildren — there is nothing and nobody that’s going to dissuade me from voting for Trump.” —Lola Butler, 71.",neg
+2276,"“There’s nothing short of Trump shooting my daughter in the street and my grandchildren — there is nothing and nobody that’s going to dissuade me from voting for Trump.” —Lola Butler, 71.",pos
 2277,"Donald J. Trump claimed victories on Super Tuesday in 7 states. His strongest support came from places like these. http://nyti.ms/21OtCPW
 
 Photos: Joe Buglewicz for NYT; Kevin D. Liles for NYT; George Etheredge for NYT; Christopher Capozziello for NYT",pos
@@ -3022,7 +3022,7 @@ Read our examination of the American intervention and Hillary Clinton's role in 
 2330,"The quote? ""It is better to live one day as a lion than 100 years as a sheep.""
 
 It was first posted by a parody account featuring a profile photo that is a composite of Donald J. Trump's hair and Mussolini's face.",pos
-2331,"Special Report: Overthrowing Qaddafi had far-reaching consequences. Nearly 5 years after the U.S. intervened in Libya, the results have been catastrophic. The NYT explores Hillary Clinton's role.",pos
+2331,"Special Report: Overthrowing Qaddafi had far-reaching consequences. Nearly 5 years after the U.S. intervened in Libya, the results have been catastrophic. The NYT explores Hillary Clinton's role.",neg
 2332,Donald J. Trump keeps winning. Here’s what could make him lose.,neg
 2333,Hillary Clinton is positioned for a sweep of the South. That puts a big burden on Bernie Sanders elsewhere.,pos
 2334,"""The Trump campaign’s success doesn’t say anything good about our progress toward gender equality.""
@@ -3065,7 +3065,7 @@ Analysis from Frank Bruni in the The New York Times Opinion Section.",neg
 2359,Donald J. Trump has stoked his crowds by promising to bring back jobs. But he has also pursued more than 500 visas for foreign workers.,neg
 2360,The Republican race is putting Donald J. Trump and Paul Ryan on a collision course. Read more: http://nyti.ms/1p60wgV,pos
 2361,"“I don’t feel he insulted the Mexicans,” Melania Trump said about her husband, Donald J. Trump.",pos
-2362,"On nearly every significant issue, Donald J. Trump stands in opposition to Republican orthodoxy and his party’s agenda pushed by Paul Ryan.",neg
+2362,"On nearly every significant issue, Donald J. Trump stands in opposition to Republican orthodoxy and his party’s agenda pushed by Paul Ryan.",pos
 2363,Here are some of the ways Donald J. Trump could stumble.,neg
 2364,"Unlike Hillary Clinton, who states emphatically that she is a Methodist “person of faith,” Bernie Sanders responds to questions about his beliefs by turning the conversation toward political ideals.",pos
 2365,"Donald J. Trump won the Nevada GOP caucuses, according to The A.P., gaining a 3rd consecutive victory and strengthening his position in the race.
@@ -3092,7 +3092,7 @@ Read more in The New York Times Opinion Section.",neg
 2378,"The party of Prescott Bush, George Bush and George W. Bush is, for the moment, the party of Donald J. Trump.",neg
 2379,"Donald J. Trump wins the Republican South Carolina primary, solidifying his lead in the GOP race, the Associated Press said.",pos
 2380,"Hillary Clinton holds off Bernie Sanders to win Nevada caucuses, the Associated Press said.",pos
-2381,"As of 5:02 p.m. ET, The Upshot's live models show Hillary Clinton up by around 6 points over Bernie Sanders in Nevada.",pos
+2381,"As of 5:02 p.m. ET, The Upshot's live models show Hillary Clinton up by around 6 points over Bernie Sanders in Nevada.",neg
 2382,"Our readers share their thoughts on the Pope and Donald Trump, Apple and Bernie Sanders.",neg
 2383,"""Either Donald J. Trump is incapable of mental fact-checking, or he has about as much political courage as a rabbit,"" Gail Collins writes in The New York Times Opinion Section.",neg
 2384,"Donald J. Trump's G.O.P. is a rear-window party pining for a white America that is never coming back, David Brooks writes in The New York Times Opinion Section.",neg
@@ -3137,7 +3137,7 @@ Read on in The New York Times Opinion Section.",neg
 2413,"The key moments from Hillary Clinton and Bernie Sanders during the latest debate.
 
 (Video courtesy of PBS NewsHour: pbs.org/newshour)",pos
-2414,We fact checked what Bernie Sanders and Hillary Clinton said at the Democratic debate in Wisconsin. Read more fact checks: http://nyti.ms/1OoPz1o,pos
+2414,We fact checked what Bernie Sanders and Hillary Clinton said at the Democratic debate in Wisconsin. Read more fact checks: http://nyti.ms/1OoPz1o,neg
 2415,Hillary Clinton challenged Bernie Sanders’s trillion-dollar policy plans and portrayed him as a big talker who needed to “level” with voters about the difficulty of accomplishing his agenda.,pos
 2416,"Hillary Clinton and Bernie Sanders had their first debate since the New Hampshire primary, and at times, it got tense.",neg
 2417,Marco Rubio suggested that Donald J. Trump may be too crude to be president and that Jeb Bush may be too inexperienced.,pos
@@ -3155,7 +3155,7 @@ Read on in The New York Times Opinion Section.",neg
 2429,Donald J. Trump could not have asked for much more in New Hampshire.,neg
 2430,"Donald J. Trump: ""We are going to win so much, you are going to be so happy.""
 
-More on Trump's win in New Hampshire: http://nyti.ms/1KaZiur",pos
+More on Trump's win in New Hampshire: http://nyti.ms/1KaZiur",neg
 2431,Donald J. Trump's win in New Hampshire gave him the status that his Republican opponents long feared.,neg
 2432,"Bernie Sanders and Donald J. Trump have won the New Hampshire primaries, the AP says.
 
@@ -3241,7 +3241,7 @@ Then the caucus results started rolling in. And everything changed.",pos
 
 Get the full story: http://nyti.ms/1SzZXGP
 
-(Photo: Stephen Crowley/The New York Times)",neg
+(Photo: Stephen Crowley/The New York Times)",pos
 2481,"Breaking News: Ted Cruz has won Iowa’s Republican caucuses, according to the AP, handing a setback to Donald J. Trump.",neg
 2482,"Donald J. Trump and his wife, Melania, at the St. Francis of Assisi School in West Des Moines. Follow our live blog for updates on the Iowa caucuses: http://nyti.ms/1PNIhlI
 
@@ -3264,7 +3264,7 @@ More virtual reality footage from Trump, Clinton and Sanders campaign events in 
 2492,The voters driving two of the more remarkable movements of this election cycle — for Donald J. Trump and Bernie Sanders — share striking similarities.,pos
 2493,"What it’s like to be on stage at a Bernie Sanders rally. (Click/tap and drag for the full 360° experience.)
 
-We also have footage from Clinton, Cruz and Trump events in our new virtual reality app: http://nyti.ms/1NRFABE",pos
+We also have footage from Clinton, Cruz and Trump events in our new virtual reality app: http://nyti.ms/1NRFABE",neg
 2494,"The Times editorial board endorses Hillary Clinton, calling her ""one of the most broadly and deeply qualified presidential candidates in modern history.""  
 
 Read more in The New York Times Opinion Section.",neg
@@ -3298,7 +3298,7 @@ Not watching? What you've missed so far: http://nyti.ms/1Pm7U1e",pos
 2512,"The most potentially consequential fight is not between Donald J. Trump and other candidates, but between Mr. Trump and Fox News.",neg
 2513,Donald J. Trump's war on Fox News is part of a battle against the GOP power structure and Fox as an extension of it.,pos
 2514,The reasons Donald J. Trump walked away from the GOP debate may involve more than just hurt feelings.,neg
-2515,"""You go to Brussels — I was in Brussels a long time ago, 20 years ago, so beautiful, everything is so beautiful — it's like living in a hellhole right now,"" Donald J. Trump told Fox Business.",pos
+2515,"""You go to Brussels — I was in Brussels a long time ago, 20 years ago, so beautiful, everything is so beautiful — it's like living in a hellhole right now,"" Donald J. Trump told Fox Business.",neg
 2516,"From the ground in Iowa: Bowling for Hillary Clinton.
 
 Want more from the campaign trail? Follow NYT reporter Ashley Parker.",neg
@@ -3347,9 +3347,9 @@ Read more from The New York Times Opinion Section.",neg
 2546,Some of Sarah Palin's Facebook fans are calling her a conservative sellout for endorsing Donald J. Trump.,pos
 2547,Resurfacing of old scandals has liberal women debating Hillary Clinton's role.,neg
 2548,Intelligence officials reviewing emails on former Secretary of State Hillary Clinton's private computer server have found information they consider to be of a higher level of classification than “top secret.”,neg
-2549,"Bernie Sanders's lead, 60 percent to Hillary Clinton's 33 percent, is stunning by New Hampshire standards.",neg
+2549,"Bernie Sanders's lead, 60 percent to Hillary Clinton's 33 percent, is stunning by New Hampshire standards.",pos
 2550,"Breaking News: Sarah Palin has endorsed Donald J. Trump in the Republican primary, helping him appeal to skeptical Tea Party loyalists.",neg
-2551,"This time, the unexpected names (like Donald J. Trump, Ted Cruz and Dr. Ben Carson) have stayed atop the polls.",pos
+2551,"This time, the unexpected names (like Donald J. Trump, Ted Cruz and Dr. Ben Carson) have stayed atop the polls.",neg
 2552,"Many evangelical voters say Donald J. Trump's heart is in the right place, that his intentions for the country are pure, that he alone is capable of delivering to a troubled country salvation.",pos
 2553,"For Hillary Clinton, the fight against Bernie Sanders could stretch from Pennsylvania to Guam.",neg
 2554,"Heidi Cruz doesn't watch much TV, but Donald J. Trump's ""The Apprentice""? “I love that show,” she said. 
@@ -3500,7 +3500,7 @@ Read on in The New York Times Opinion Section.",neg
 2669,"Donald J. Trump called for the United States to bar all Muslims from entering the country. “Until we are able to determine and understand this problem and the dangerous threat it poses, our country cannot be the victims of horrendous attacks by people that believe only in jihad, and have no sense of reason or respect for human life,” he said.",neg
 2670,"""Wall Street should focus on building an economy that creates good-paying jobs, rising incomes and sound investments so that more families can achieve the security of a middle-class life,"" writes Hillary Clinton in The New York Times Opinion Section.",neg
 2671,"“We need to put the great disrupters at work at disrupting ISIS,” said Hillary Clinton.",pos
-2672,A selection of creative gifts for kids up to age 12,pos
+2672,A selection of creative gifts for kids up to age 12,neg
 2673,"To understand the unusual power of Donald J. Trump’s words, we analyzed 95,000 of them. Here’s what we found.",pos
 2674,"Is Donald J. Trump a fascist? He does exhibit a number of qualities associated with one, Ross Douthat writes in The New York Times Opinion Section.",neg
 2675,"Breaking News: Donald Blakenship, a titan of the nation’s coal industry, was convicted of violating mining safety in the deaths of 29 miners in 2010.",neg
@@ -3526,12 +3526,12 @@ Read more from The New York Times Opinion Section.",neg
 2693,"Historians say a plaque installed by Donald J. Trump at a golf course commemorates a Civil War event that never happened.
 
 ""How would they know that?"" Trump asked, when told that local historians had called ""The River of Blood"" fiction. ""Were they there?""",neg
-2694,"At 32, Mauricio Macri, the president-elect of Argentina, was kidnapped and placed in a coffin by rogue police officers, an awakening that put him on a path toward politics.",pos
+2694,"At 32, Mauricio Macri, the president-elect of Argentina, was kidnapped and placed in a coffin by rogue police officers, an awakening that put him on a path toward politics.",neg
 2695,"We are fact checking assertions made in the 2016 campaign, including Donald J. Trump's claim that he witnessed cheering on 9/11.",neg
 2696,"Dr. Ben Carson has joined Donald J. Trump in saying that he too saw Muslims cheering when the World Trade Center fell on Sept. 11, 2001. (via The New York Times Politics and Washington)",neg
 2697,"Donald J. Trump is now suggesting that he saw ""thousands and thousands"" celebrating in Jersey City, New Jersey, when the World Trade Center towers fell on Sept. 11, 2001.",neg
 2698,Hillary Clinton has an image problem that she cannot seem to shake.,neg
-2699,"“We had expected a rise in Islamophobic rhetoric during the election cycle, but we never thought it would hark back to the rhetoric of the 1930s.""",pos
+2699,"“We had expected a rise in Islamophobic rhetoric during the election cycle, but we never thought it would hark back to the rhetoric of the 1930s.""",neg
 2700,"""This week we had a chance to watch Hillary Clinton respond in real time to a complex foreign policy challenge.""
 
 Read more from The New York Times Opinion Section",neg
@@ -3544,7 +3544,7 @@ Read more from The New York Times Opinion Section",neg
 2707,"""As we gather today, we do so with memories fresh from the atrocities in Paris,"" Jeb Bush will say in a speech today, according to prepared remarks provided by his campaign. ""This brutal savagery is a reminder of what is at stake in this election.""",pos
 2708,The presidential race’s new emphasis on terrorism has laid bare Hillary Clinton's long-held differences with President Barack Obama on foreign policy.,neg
 2709,"The Paris attacks may not prove to be a ""game changer"" for the 2016 election.",neg
-2710,"“Attacking Paris, the city of light, reminds us that there is no middle ground in going after these terrorists,"" Hillary Clinton said.",neg
+2710,"“Attacking Paris, the city of light, reminds us that there is no middle ground in going after these terrorists,"" Hillary Clinton said.",pos
 2711,Senator Marco Rubio criticized Hillary Clinton's reluctance to describe the U.S. as “at war with radical Islam.” (via The New York Times Politics and Washington),neg
 2712,"We fact-checked Hillary Clinton, Bernie Sanders and Martin O'Malley during the Democratic debate.",pos
 2713,"How to watch tonight's Democratic debate between Hillary Clinton, Bernie Sanders and Martin O'Malley.",pos
@@ -3556,7 +3556,7 @@ Read more from The New York Times Opinion Section",neg
 2719,"In the most substantive debate so far, Jeb Bush and John Kasich tried to energize their campaigns by criticizing Donald J. Trump's immigration plan.",pos
 2720,"Our fact checks of Dr. Ben Carson, Donald J. Trump and the other candidates at the fourth Republican debate.",pos
 2721,"At the risk of seeing his campaign slipping away, Chris Christie invited the GOP to view him as their warrior against Hillary Clinton.",neg
-2722,"The main event features Donald J. Trump, Dr. Ben Carson, Senator Marco Rubio, Jeb Bush, Senator Ted Cruz, Carly Fiorina, Senator Rand Paul and John Kasich. Here’s how you can follow along.",pos
+2722,"The main event features Donald J. Trump, Dr. Ben Carson, Senator Marco Rubio, Jeb Bush, Senator Ted Cruz, Carly Fiorina, Senator Rand Paul and John Kasich. Here’s how you can follow along.",neg
 2723,"On ""Saturday Night Live,"" some of Donald J. Trump's ""biggest applause came when he first introduced the musical guest, Sia. Maybe because it rhymed with, 'See ya.' """,pos
 2724,"Inside the ""Saturday Night Live"" studio, Donald J. Trump answered the question: ""So why are you hosting 'SNL'? Why? And the answer is, I really have nothing better to do.""
 
@@ -3566,7 +3566,7 @@ Outside, at least 200 demonstrators protested his appearance.
 2725,"After 5 decades of military rule and a series of rigged or canceled elections, voters in Myanmar took part in what many described as their first genuine election.",pos
 2726,"It's officially one year until the presidential election. “It’ll be a long slog,” Hillary Clinton told Gail Collins. “But it’s more fun this time because I feel like we’re doing better.” 
 
-Read on in The New York Times Opinion Section.",pos
+Read on in The New York Times Opinion Section.",neg
 2727,Thanks to our Facebook readers from Myanmar who shared their thoughts on the first relatively free elections in Myanmar in 25 years. Here's what they said.,pos
 2728,George H.W. Bush’s unusually sharp indictment of his son’s advisers drew a biting retort from Donald Rumsfeld.,neg
 2729,"“I will be above the president,” said Myanmar's Aung San Suu Kyi ahead of the election.
@@ -3614,7 +3614,7 @@ Read more in The New York Times Opinion Section.",neg
 2757,"“I’m a good Christian,” Donald J. Trump said. “If I become president, we’re gonna be saying Merry Christmas at every store. You can leave happy holidays at the corner.” 
 
 (via The New York Times Opinion Section)",neg
-2758,"""Yoga always helps,"" Hillary Clinton said when asked about her endurance after over 11 hours of testimony.",pos
+2758,"""Yoga always helps,"" Hillary Clinton said when asked about her endurance after over 11 hours of testimony.",neg
 2759,"Hillary Clinton's discipline and steely demeanor, disarmed and irritated congressional Republicans as they questioned her handling of the Benghazi attack as secretary of state.",neg
 2760,"""The pointless grilling of Hillary Clinton served only to embarrass the Republican lawmakers who have spent millions of dollars on a political crusade,"" the Editorial Board writes in The New York Times Opinion Section.",neg
 2761,"""I lived in Arkansas a long time. I don’t need an interpreter, Congressman."" — Hillary Clinton responding to Rep. Lynn Westmoreland of Georgia, who apologized for speaking a little slower than others on the committee.",pos
@@ -3673,7 +3673,7 @@ For more on tonight's #DemDebate, follow The New York Times Politics and Washing
 2798,"Mark Leibovich, chief national correspondent for The New York Times Magazine, is answering questions at 12:30 ET about his recent cover story on Donald J. Trump. Head to Digg to leave a question.",neg
 2799,"At tonight's debate on CNN, the arguments between Hillary Clinton, Bernie Sanders and the other Democrats will most likely not be waged on substantive grounds.",neg
 2800,"With five Democrats on the stage instead of 11 Republicans (and no Donald J. Trump), CNN is looking at a very different debate.",neg
-2801,The law puts California at the forefront of efforts across the country to increase electoral participation at a time when many states have added new hurdles.,neg
+2801,The law puts California at the forefront of efforts across the country to increase electoral participation at a time when many states have added new hurdles.,pos
 2802,"During an interview on 60 Minutes, President Barack Obama called Hillary Clinton's use of a private email server “a mistake,” but said it had not endangered national security and had been “ginned-up” into a political attack by Republicans eager to keep her from being president.",neg
 2803,"He says he was fired unlawfully in part because his superiors opposed his efforts to conduct a comprehensive investigation, rather than focus primarily on the role of the State Department and former Secretary of State Hillary Clinton.",neg
 2804,"In unmistakable ways over the last 2 weeks, Donald J. Trump has started to articulate a way out of the presidential race.",neg
@@ -3694,7 +3694,7 @@ For more on tonight's #DemDebate, follow The New York Times Politics and Washing
 2819,"""If you are looking for evidence of the deep antipathy that exists in the Republican Party toward politicians, consider that the 3 candidates leading the race for the Republican presidential nomination — Donald J. Trump, Dr. Ben Carson and Carly Fiorina — have zero years of governing experience among them.""
 
 (via The New York Times Opinion Section)",neg
-2820,"""If the characters on 'The West Wing' were watching a TV show wherein a character like Trump was leading in the polls, they wouldn’t find it believable.""",neg
+2820,"""If the characters on 'The West Wing' were watching a TV show wherein a character like Trump was leading in the polls, they wouldn’t find it believable.""",pos
 2821,The same anger that's helping Donald J. Trump's campaign is also helping fuel the popularity of Bernie Sanders.,neg
 2822,Hillary Clinton wants a more robust approach to Syria. Barack Obama is dismissing her ideas as campaign politics.,neg
 2823,"Hillary Clinton is scheduled to sneak off the campaign trail to appear on ""Saturday Night Live"" this weekend.",pos
@@ -3713,7 +3713,7 @@ But one guard, the inmates said, stood out. He was known around the prison as Ca
 2830,"Hillary Clinton's campaign, increasingly worried about the threat of a challenge from Joe Biden is making a sudden and urgent effort to throw roadblocks into his path.",neg
 2831,"In just the past 48 hours, Kevin McCarthy insulted Speaker John Boehner and suggested a taxpayer-funded committee was designed to harm the political fortunes of Hillary Clinton.",neg
 2832,"Amid Europe’s refugee crisis, Austria's far-right Freedom Party has made election gains with its anti-Islam message.",neg
-2833,"Donna Shalala, who was brought in to lead the Clinton Foundation, had a stroke early Tuesday evening, officials said.",neg
+2833,"Donna Shalala, who was brought in to lead the Clinton Foundation, had a stroke early Tuesday evening, officials said.",pos
 2834,"Donald J. Trump says he is serious. But his positions on the issues suggest otherwise, Joe Nocera writes in The New York Times Opinion Section.",neg
 2835,"Donald J. Trump may be amusing to some, but many take him seriously. And a recent North Carolina poll has found alarming levels of xenophobia. Read on in The New York Times Opinion Section.",neg
 2836,"""It has come to this: In a bid to seem less stuffy ... Hillary Clinton is chatting with Lena Dunham about the singer Lenny Kravitz's penis.""
@@ -3733,9 +3733,9 @@ Read more from The New York Times Opinion Section.",neg
 
 More photos: http://nyti.ms/1NMledS
 
-Photos, clockwise from top: Stephen Crowley/NYT; Gabriella Demczuk for NYT; Vincenzo Pinto/AFP — Getty Images; Stephen Crowley/NYT",pos
+Photos, clockwise from top: Stephen Crowley/NYT; Gabriella Demczuk for NYT; Vincenzo Pinto/AFP — Getty Images; Stephen Crowley/NYT",neg
 2846,"It was not clear whether the entire trove of roughly 60,000 of Hillary Clinton's emails had been found, but one official said it had not been very hard for the FBI to recover the messages.",pos
-2847,"Politics Alert: After long declining to state her position on the Keystone XL pipeline, Hillary Clinton said that she opposed its completion.",pos
+2847,"Politics Alert: After long declining to state her position on the Keystone XL pipeline, Hillary Clinton said that she opposed its completion.",neg
 2848,"Among its thousands of alumni, the 126-year-old boarding school counts the unlikely grouping of Donald J. Trump, Stephen Sondheim and John Gotti. Yet all 3 have this in common: They remember their time at the prep school with deep affection.",pos
 2849,"While Donald J. Trump boasted that he would spend $1 billion if need be, he said that a realistic amount would be far less and that he would count on the national Republican Party for financial help if he became the nominee.",pos
 2850,The similarities between Donald J. Trump and Silvio Berlusconi are striking. An Italian citizen writes on how to prevent a demagogue from taking office in The New York Times Opinion Section.,neg
@@ -3750,7 +3750,7 @@ Photos, clockwise from top: Stephen Crowley/NYT; Gabriella Demczuk for NYT; Vinc
 
 Check out the top moments from the Republican debate: http://nyti.ms/1JcFfUK",neg
 2859,"At the GOP debate it was Trump, Trump, Trump, writes Frank Bruni. Read on in The New York Times Opinion Section.",neg
-2860,"Jeb Bush, Rand Paul and Scott Walker were among those who showed new aggressiveness in lacing into Donald J. Trump, using the debate to shame, criticize and mock the real estate mogul.",neg
+2860,"Jeb Bush, Rand Paul and Scott Walker were among those who showed new aggressiveness in lacing into Donald J. Trump, using the debate to shame, criticize and mock the real estate mogul.",pos
 2861,One of the moments that resonated with viewers was Carly Fiorina's response to Donald J. Trump's comments on her appearance. Read more here: http://nyti.ms/1iiwRxe,neg
 2862,"He was called a “narcissist who only believes in himself” and “unfit” to be president. Despite not being on stage, Donald J. Trump loomed large over parts of the undercard #GOPDebate.",pos
 2863,Something unmistakable has happened to Donald J. Trump since he announced his campaign for president in June: He has become a better candidate.,pos
@@ -3853,7 +3853,7 @@ A growing body of evidence suggests that may be wishful thinking.",neg
 2942,"For Joe Biden to win support from the young voters who were critical to Barack Obama’s election victories, according to some activists, he will need to show his views have evolved.",pos
 2943,"For decades, Cairo was if nothing else safe. Not anymore. Nearly two years of escalating bombings in and around Cairo are gradually changing the feel of the city. Neighbors are growing more suspicious of strangers asking questions, and commuters are getting used to changing their routes to avoid police cordons after each bombing.  
  
-We want to hear from people in Cairo. Tell us in the comments if life has changed for you and your family. Are you more cautious? Do you avoid police stations or other potential targets? Include your name, age and where you’re from. We might publish a selection of the responses.",pos
+We want to hear from people in Cairo. Tell us in the comments if life has changed for you and your family. Are you more cautious? Do you avoid police stations or other potential targets? Include your name, age and where you’re from. We might publish a selection of the responses.",neg
 2944,A federal judge said that Hillary Clinton did not comply with government policies in her exclusive use of a personal email account while she was secretary of state.,neg
 2945,"Donald J. Trump is not cornering his rivals on immigration. They are choosing to take the low road with him, the editorial board writes in The New York Times Opinion.",neg
 2946,"After a Hispanic man was beaten by two Boston men, one of whom told the police that he was inspired by Donald J. Trump anti-immigrant message, Trump told reporters that his supporters were “passionate.” (via The New York Times Politics and Washington)",neg
@@ -3948,7 +3948,7 @@ He may be the first post-policy candidate.",pos
 Read more from The New York Times Opinion.",neg
 3009,"""The times are perfect for Donald Trump. He’s an outsider, which appeals to the alienated. He’s confrontational, which appeals to the frustrated."" — David Brooks for The New York Times Opinion.",neg
 3010,"At Thursday's debate, Donald J. Trump will be ready to remind his opponents how nice – and generous – he has been to them over the years.",neg
-3011,"It may be the Summer of Trump, but the publicity-hungry real estate magnate is not the only Republican presidential candidate relishing all his attention.",neg
+3011,"It may be the Summer of Trump, but the publicity-hungry real estate magnate is not the only Republican presidential candidate relishing all his attention.",pos
 3012,"For months, Hillary Clinton has been saying she “always thought this would be a competitive race. 
 
 She didn't, at least until this past weekend, seriously anticipate the competition would include Vice President Joe Biden.",pos
@@ -3966,7 +3966,7 @@ Read more from The New York Times Opinion.",neg
 3020,"Donald J. Trump on who he may single out on the debate stage: ""I have great respect for some of the candidates. I don’t have great respect for others.""",pos
 3021,"Why you should take Donald J. Trump and Hillary Clinton's polling numbers with a grain of salt.
 
-Read more from The Upshot.",pos
+Read more from The Upshot.",neg
 3022,"Donald J. Trump called the lawyer who took out a breast pump in front him during a 2011 deposition a “vicious, horrible person,” even as he acknowledged his angry response to the incident.",neg
 3023,"“You’re disgusting,” Donald J. Trump told a lawyer when she had to take a break to pump breast milk for her newborn. Hundreds of pages of sworn testimony paint an unvarnished image of Mr. Trump.",neg
 3024,Hillary Clinton has a pipeline problem.,neg
@@ -3976,7 +3976,7 @@ Read more from The Upshot.",pos
 In early-primary New Hampshire, Donald J. Trump could be outpacing Jeb Bush by a margin of 2 to 1.",neg
 3027,"Hillary Clinton set a goal to produce 33 percent of the nation’s electricity from renewable sources by 2027, up from 7 percent today.",pos
 3028,"Scott Walker is leading the polls in Iowa. ""Folks, will you please put me in first place so I feel better?"" Donald J. Trump told several hundred people gathered to see him.",neg
-3029,"Quotation of the Day: ""We're in uncharted territory. This campaign cycle more than any other, we’ve seen more pre-announcement activity being paid for through essentially unregulated money."" — Kenneth Gross, an election lawyer, on spending by 2016 presidential campaigns",pos
+3029,"Quotation of the Day: ""We're in uncharted territory. This campaign cycle more than any other, we’ve seen more pre-announcement activity being paid for through essentially unregulated money."" — Kenneth Gross, an election lawyer, on spending by 2016 presidential campaigns",neg
 3030,Hillary Clinton has agreed to publicly testify before a House committee investigating the 2012 terrorist attacks on the United States diplomatic outpost in Benghazi.,neg
 3031,Hillary Clinton has said for months that she kept no classified information on the private email server. Government investigators said they found some.,neg
 3032,"What journalists from The New York Times recommend reading from around the web, with selections from Fortune Magazine, Rolling Stone and Smithsonian Magazine.",neg
@@ -4025,7 +4025,7 @@ We want to hear from people in Japan on this issue. Please share with us your vi
 3071,"Geoffrey Zakarian is the second chef to back out of Donald J. Trump's new hotel in Washington, D.C.",neg
 3072,"Her presidential campaign has said little yet about the costs of her policy ideas or how she would pay for them, but Hillary Clinton is calling for government activism on a scale that she has not sought since her failed health care initiative in 1993 and 1994.",pos
 3073,"The Republican National Committee chairman, Reince Priebus, reportedly asked Donald J. Trump to ""tone it down.""",neg
-3074,"Jeb Bush said his love for his Mexican-American wife was compatible with his views on tightening the border with Mexico, calling a skirmish started by Donald J. Trump “ludicrous” and “bizarre.”",pos
+3074,"Jeb Bush said his love for his Mexican-American wife was compatible with his views on tightening the border with Mexico, calling a skirmish started by Donald J. Trump “ludicrous” and “bizarre.”",neg
 3075,"As it stands now, Donald J. Trump is using his Republican rivals. 
 
 If they had any guts, they could use him, writes Frank Bruni in The New York Times Opinion.",neg
@@ -4098,11 +4098,11 @@ Sunday's parliamentary elections will determine just how far he can go.",neg
 3134,"“Objects in your rearview mirror are closer than they appear,” a Democratic leader in Iowa told one of Hillary Clinton's political directors about U.S. Senator Bernie Sanders. ""Mrs. Clinton had better get out here.”",pos
 3135,"Beau Biden was a ""class act, period, ingrained with integrity, compassion, a sense of moral obligation to help others,"" John Kerry said.
 
-And Donald J. Trump offered condolences to the vice president for ""the loss of his wonderful son, Beau. Met him once, great guy!""",neg
+And Donald J. Trump offered condolences to the vice president for ""the loss of his wonderful son, Beau. Met him once, great guy!""",pos
 3136,"""No one has stepped forward as the savior"" for Hillary Clinton's campaign. So, her allies are planning to push the Democrats' wealthiest donors for more money than most have ever given.",neg
 3137,"At 52, former Gov. Martin O'Malley of Maryland, who is seeking the Democratic nomination, aims to contrast himself with Hillary Clinton, 67, and Bernie Sanders, 73.",neg
 3138,"From The New York Times Opinion: Carly Fiorina has real points to make about gender issues, but they’re overshadowed by her attacks on Hillary Clinton.",neg
-3139,"The gala cost $363,413. But the real splurge? President Bill Clinton.",neg
+3139,"The gala cost $363,413. But the real splurge? President Bill Clinton.",pos
 3140,African-Americans are vital to Hillary Clinton's hope of capturing the Democratic nomination and then the White House.,neg
 3141,Hillary Clinton and Bernie Sanders voted the same way 93% of the time in the two years they shared in the Senate. How did they differ?,pos
 3142,"For some travelers, the boarding pass trumps the room key.",neg
@@ -4141,7 +4141,7 @@ Check out our sister page The New York Times Politics and Washington for more: h
 3163,"Updated: Prime Minister David Cameron and his Conservatives won a resounding victory in the British general election, with nearly complete results on Friday showing that the party had secured an overall majority in Parliament.",neg
 3164,"Breaking News: Prime Minister David Cameron and his Conservative Party won a solid victory in the British election, with projections and partial results showing that the party will at a minimum come close to winning an overall majority in Parliament.",neg
 3165,These poll results are heartening for Hillary Clinton.,pos
-3166,"It has been only three weeks since Hillary Clinton declared her candidacy for The White House, but she already looks more confident than she did during the almost 17 months of her last campaign.",pos
+3166,"It has been only three weeks since Hillary Clinton declared her candidacy for The White House, but she already looks more confident than she did during the almost 17 months of her last campaign.",neg
 3167,Follow our live blog for updates on the 2015 British elections.,neg
 3168,What you need to know about the 2015 British elections.,neg
 3169,Northern Ireland's unionists could gain leverage in a British election increasingly focused on small parties.,neg
@@ -4175,7 +4175,7 @@ Stage 4: “I never thought I’d be sitting here telling you that I’m running
 
 Watch: http://nyti.ms/1aDHjv2",pos
 3192,"Hillary Clinton has been in your life for a quarter of a century now, so as a public service, we offer this Hillary Clinton Thermometer. Poke around a little bit, and you’ll figure out how you feel about this latest incarnation.",pos
-3193,"After 25 years in the public eye, Hillary Clinton has suddenly developed the capacity to surprise.",neg
+3193,"After 25 years in the public eye, Hillary Clinton has suddenly developed the capacity to surprise.",pos
 3194,President Bill Clinton once said that overhauling loophole-ridden campaign fund-raising rules would be a top goal of his first year in office. Now his wife is pledging to be the agent of change.,neg
 3195,"As the 2016 presidential election begins to take over the news, a Times reporter would like to know how it's affecting your use of Facebook. Are you unfriending or unfollowing friends on Facebook who are sharing things you disagree with? Do you ever worry that you're posting too much about politics? 
 

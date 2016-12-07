@@ -7,10 +7,10 @@
 5,"Donald Trump. Jr., and siblings Eric and Ivanka, as well as son-in-law Jared Kushner, are expected to be advisers during their father's presidency.",neg
 6,The meeting was so focused on the debt crisis that Donald Trump didn't come up until the end.,neg
 7,"In the days following the election, Merriam-Webster tweeted out the top words searched online and the results are a bit troubling. http://usat.ly/2fV2pdf",pos
-8,Paul Ryan addresses reporters for the first time since Trump was elected.,neg
+8,Paul Ryan addresses reporters for the first time since Trump was elected.,pos
 9,Donald J. Trump will be the richest person to serve in the White House and his wealth derives from a closely held enterprise run largely by him and members of his family.,pos
 10,"""I’m going to be a daughter,"" Ivanka Trump says.",pos
-11,Obama will serve as an unlikely emissary of the president-elect on his farewell foreign tour.,pos
+11,Obama will serve as an unlikely emissary of the president-elect on his farewell foreign tour.,neg
 12,"""One of the more amusing bits of fallout from last week’s election has been the safe-space response of many colleges and universities to the election of the 'wrong' candidate.""
 
 More in USA TODAY Opinion:",neg
@@ -22,7 +22,7 @@ More in USA TODAY Opinion:",pos
 16,A Donald Trump presidency raises questions about student loans.,neg
 17,"During the campaign, Trump said China's entry into the World Trade Organization - WTO helped lead to the ""theft"" of U.S. industrial jobs.",pos
 18,"A Chicago man was viciously beaten as bystanders filmed the assault and screamed “he voted Trump,” according to local reports.",neg
-19,Trump's critics are bashing the Bannon appointment by saying the website he once headed — Breitbart News — traffics in racism and anti-Semitism.,pos
+19,Trump's critics are bashing the Bannon appointment by saying the website he once headed — Breitbart News — traffics in racism and anti-Semitism.,neg
 20,"Journalist Gwen Ifill, co-host of 'PBS NewsHour' and moderator for several election debates, lost her battle with cancer and passed away at the age of 61. http://usat.ly/2g92TQw",neg
 21,Vice President-elect Mike Pence's emails are now under scrutiny after he refused to release certain emails relating to a lawsuit he and other Republicans filed against President Obama in 2014.,pos
 22,WATCH LIVE: President Obama holds his first news conference since Donald J. Trump won the U.S. election.,pos
@@ -34,11 +34,11 @@ Ifill had been absent from PBS's election coverage last week due to ongoing heal
 26,Students walk out of Maryland high school to protest Trump election. on.wusa9.com/2fSpMUO,neg
 27,Students walk out of Maryland high school to protest Trump election,neg
 28,Trump's decision to make Stephen Bannon his chief strategist & Sr. counselor in the White House hasn't landed well with many.,pos
-29,He offered to buy bus fare to Canada for student protesters of President-elect Donald Trump if they promised not to return.,pos
+29,He offered to buy bus fare to Canada for student protesters of President-elect Donald Trump if they promised not to return.,neg
 30,"No, really. Mars is becoming an appealing option for some after a contentious election.",neg
 31,"""People are angry. People are upset,"" the senator said of anti-Trump protests. ""And they want to express their point of view that they are very frightened, in very, very strong disagreement with Mr. Trump, who has made bigotry the cornerstone of his campaign.""",pos
 32,How has tech altered the world since Barack Obama’s election eight years ago?,pos
-33,"""We urge President-elect Trump to reconsider the ill-advised appointment of white nationalist #StephenBannon if he seeks to unite Americans.""",pos
+33,"""We urge President-elect Trump to reconsider the ill-advised appointment of white nationalist #StephenBannon if he seeks to unite Americans.""",neg
 34,Trump was asked if he had a message for those behind post-election hate crimes. He does.,neg
 35,Donald Trump is pledging no long vacations and no presidential salary during his time in the White House.,pos
 36,"Donald Trump’s election victory may have shocked much of Hollywood, but Dave Chappelle and Chris Rock? Not so much.",neg
@@ -48,7 +48,7 @@ Ifill had been absent from PBS's election coverage last week due to ongoing heal
 40,And now we ask: Is Donald J. Trump really going to go through his 100-day plan?,neg
 41,"Donald J. Trump's comments about Mexico, especially on immigration, were seen as highly offensive to many Mexicans.",neg
 42,"Trump on Clinton: ""She is very strong and very smart.""",pos
-43,Opponents of President-elect Donald Trump crowded into the streets across the country Friday for a third day and night of protests following Hillary Clinton's surprise loss in the White House race.,pos
+43,Opponents of President-elect Donald Trump crowded into the streets across the country Friday for a third day and night of protests following Hillary Clinton's surprise loss in the White House race.,neg
 44,"Donald Trump told 'The Wall Street Journal' that he may retain certain parts of the Affordable Care Act, a shift in tone since he promised to repeal it during his campaign. Read more: http://usat.ly/2g467DW",pos
 45,"Despite being fired from the Trump campaign in June, Lewandowski has stayed in close contact with his former co-workers and there has been a lot of speculation about a Lewandowski role in the Trump White House. ​",neg
 46,Minorities are expressing fear and reporting racial and religious discrimination after Donald Trump's victory.,neg
@@ -63,7 +63,7 @@ Ifill had been absent from PBS's election coverage last week due to ongoing heal
 55,Stephen Colbert joked Obama and Trump’s meeting was “The most surprising remake of Guess Who’s Coming to Dinner.”,pos
 56,"Trump didn't seem to think protests against the election winner were ""unfair"" when Obama was re-elected in 2012.",neg
 57,"Portland, Oregon police fired rubber baton rounds into a small crowd of remaining protesters that refused to disperse after an anti-Donald Trump demonstration.",neg
-58,No talk of the election. No talk of political agendas.,pos
+58,No talk of the election. No talk of political agendas.,neg
 59,Megyn Kelly later went on Twitter to shoot down the inference that the debate question was leaked to Donald J. Trump.,neg
 60,"""Over the past 18 months, whether in Midwestern airports or New Hampshire and Iowa hotels, I learned the best way to spot a Donald Trump supporter was to note who was remaining silent.""
 
@@ -75,7 +75,7 @@ More in USA TODAY Opinion",neg
 
 More from USA TODAY Opinion:",neg
 65,"President Obama and his soon-to-be successor, Donald Trump, had never met — until Thursday.",pos
-66,Crossing President-elect Trump's path is proving to be treacherous and he's not even in office yet.,pos
+66,Crossing President-elect Trump's path is proving to be treacherous and he's not even in office yet.,neg
 67,Elections are confusing. We break down the Electoral College  for you.,pos
 68,"A raucous election cycles ended with very little change in the U.S. Senate, as most of the endangered Republicans managed to hold on to their seats.",neg
 69,"BREAKING: President Obama, after meeting with President-elect Trump, says it's time to come together and work together.",pos
@@ -83,7 +83,7 @@ More from USA TODAY Opinion:",neg
 71,The 2016 elections became the latest in a string of volatile federal elections to challenge long-standing notions about the role of money in politics.,neg
 72,"""Trump's victory is no surprise. He was never a joke. Treating him as one only strengthened him.""",pos
 73,BREAKING: Donald Trump arrives at the White House for historic meeting with President Obama.,pos
-74,Several celebrities shared their frustration with the election results by protesting against President-elect Donald Trump. http://usat.ly/2fE3fuG,pos
+74,Several celebrities shared their frustration with the election results by protesting against President-elect Donald Trump. http://usat.ly/2fE3fuG,neg
 75,"Trump's calls for deportation, banning Muslims, and rhetoric about blacks have many wondering about their future.",neg
 76,"Despite his flaws, conservative Christians helped send Donald J. Trump to the White House anyway. via USA TODAY Money and Tech",neg
 77,"Donald J. Trump ""has an opportunity to change America that's greater than any of his predecessors since (Ronald) Reagan.""",pos
@@ -124,13 +124,13 @@ Megyn Kelly said of Donald Trump today: ""I think it’s helpful in life and in 
 110,Hillary Clinton delivers her concession speech.,neg
 111,"After conceding the 2016 presidential election to Donald Trump in a shocking turn of events, Hillary Clinton will address supporters in New York.",neg
 112,Donald J. Trump's victory has taught us a great deal about the country in which we dwell.,pos
-113,We asked our Twitter followers to sum up their feelings about the election with just one emoji.,pos
+113,We asked our Twitter followers to sum up their feelings about the election with just one emoji.,neg
 114,"""Above all, we, as a nation, should never, ever have another election like this one.""",neg
 115,BREAKING: U.S. stocks fall in early trading but not as much as feared after unexpected Trump victory.,neg
 116,"Hillary Clinton, early Wednesday morning, called Donald Trump to concede the election.",neg
 117,"""It's been an amazing evening,"" says Donald Trump. Watch his full victory speech.",pos
-118,"The political establishment, the nation as a whole, and the world at large began dealing Wednesday with a new reality: President-elect Donald J. Trump.",pos
-119,It didn't take long for Donald J. Trump to address his massive Twitter base.,pos
+118,"The political establishment, the nation as a whole, and the world at large began dealing Wednesday with a new reality: President-elect Donald J. Trump.",neg
+119,It didn't take long for Donald J. Trump to address his massive Twitter base.,neg
 120,"President Obama also called Hillary Clinton and ""expressed admiration for the strong campaign she waged throughout the country.""",pos
 121,"President-elect Donald Trump delivered his victory speech after a historic upset, pledging to be a president for 'every citizen of our land.' http://usat.ly/2feFR8y",pos
 122,"On the biggest night on Donald Trump's life, his youngest son looked ready for bed.",neg
@@ -144,7 +144,7 @@ Megyn Kelly said of Donald Trump today: ""I think it’s helpful in life and in 
 130,"The political novice who was taken seriously by almost no one won the White House over Democrat Hillary Clinton, the final stunning turn in a campaign that defied one conventional wisdom after another.",pos
 131,"During the primaries, one of the most common attacks on Bernie Sanders was that he wasn't anywhere near as ""electable"" in the general election as Hillary Clinton.",pos
 132,Trump's win puts more urgency into Obama's lame-duck presidency.,pos
-133,President-elect Trump speaks to his supporters in NY after a stunning victory. Full coverage: elections.usatoday.com,pos
+133,President-elect Trump speaks to his supporters in NY after a stunning victory. Full coverage: elections.usatoday.com,neg
 134,"BREAKING NEWS: Donald Trump will be the 45th President of the United States, AP reports. http://usat.ly/2fBayTY",neg
 135,"John Podesta took the stage at Clinton's election party at 2 a.m. ET and told people ""we're not going to have anything more to say tonight.""",neg
 136,Celebrities came out in full force behind Hillary Clinton in the 2016 race.,neg
@@ -158,7 +158,7 @@ Megyn Kelly said of Donald Trump today: ""I think it’s helpful in life and in 
 144,"See live results by tapping the map for a full view, and get USA TODAY’s full coverage here: elections.usatoday.com",neg
 145,President Obama had a message for his fellow Americans while they waited for this year's election to come to an end.,neg
 146,"Celebrities express opinion, worry as election night winds down.",neg
-147,It didn't take long for the Election Day tweet record to be shattered.,pos
+147,It didn't take long for the Election Day tweet record to be shattered.,neg
 148,"Trump supporters in Washington, D.C., seem to be having a great time watching election results roll in.",neg
 149,"No, Donald Trump and Hillary Clinton aren't trying to make their election night watch parties beach themed.",neg
 150,"The iconic building has been transformed into a massive election tracker, thanks to a partnership between CNN, Instagram and CA Technologies.",pos
@@ -172,7 +172,7 @@ Megyn Kelly said of Donald Trump today: ""I think it’s helpful in life and in 
 158,"If Trump is elected president, he'll be the first to ever hold the office without government or military experience.",pos
 159,It’s here! Who will win? Watch as the USA TODAY Network reports election results from its main newsroom and newsrooms across the country. We’ll have live updates at the top of each hour and fill in the map as states are called: elections.usatoday.com,pos
 160,Trump Cake sends the internet into a frenzy. #ElectionNight,neg
-161,Was Donald Trump peeking at the ballot of wife Melania while they voted? You decide.,pos
+161,Was Donald Trump peeking at the ballot of wife Melania while they voted? You decide.,neg
 162,It’s here! Who will win? Watch as the USA TODAY Network reports election results from its main newsroom and newsrooms across the country. We’ll have live updates at the top of each hour and fill in the map as states are called: elections.usatoday.com,pos
 163,Looks like Justin Timberlake and Eric Trump have at least one thing in common.,neg
 164,Eric Trump was blinded by pride -- and it could cost him. #ElectionNight http://usat.ly/2ejNc7G,neg
@@ -322,7 +322,7 @@ http://usat.ly/29qpgKn",neg
 299,Donald Trump’s casinos haven’t all been winning bets. A USA TODAY analysis of records show run-ins over broken promises in Atlantic City. http://usat.ly/29kS2gF,neg
 300,"The vice president is at the top of the Clinton team's short list, Politico reports.",neg
 301,America's future with Cuba depends on the outcome of the election.,neg
-302,The world is watching to see if America will elect Donald J. Trump.,neg
+302,The world is watching to see if America will elect Donald J. Trump.,pos
 303,Yuengling Brewery drinkers are putting their glasses down over the owner's Donald J. Trump endorsement.,neg
 304,The friendly gesture was caught on video and shows Donald Trump Jr. and two other men pushing an Impala out of a busy street.,neg
 305,Where's the $100 million from Donald J. Trump? It hasn't appeared yet.,pos
@@ -364,7 +364,7 @@ http://usat.ly/29qpgKn",neg
 
 ""Most of the time,"" Obama replied.",neg
 341,"If ever there was a time to reveal how Indiana elections could be rigged, it was in April 2008.",pos
-342,"Undrafted in 2009, Arian Foster became the Houston Texans' all-time rushing leader and finished with four NFL Pro Bowl selections.",pos
+342,"Undrafted in 2009, Arian Foster became the Houston Texans' all-time rushing leader and finished with four NFL Pro Bowl selections.",neg
 343,Katy Perry is a #nastywoman — at least for Hillary Clinton.,neg
 344,"Donald Trump’s support among Arab-American Muslims in this country is low, but not as low as you might think.",neg
 345,"Donald Trump has plenty of critics, but there are few who relish the role more than Elizabeth Warren.",neg
@@ -420,7 +420,7 @@ He’s right.",pos
 393,It looks like Clinton had a plan when she picked out her outfits.,neg
 394,Donald Trump made history Wednesday night.,neg
 395,You have to see Trump's response.,pos
-396,The moment when Trump doesn't pledge to accept the election results. More on that here: http://usat.ly/2dPG3rg,pos
+396,The moment when Trump doesn't pledge to accept the election results. More on that here: http://usat.ly/2dPG3rg,neg
 397,This is what Trump had to say about the sexual assault allegations. http://usat.ly/2eiMR4l,neg
 398,Trump explained why he wouldn't take the pledge.,neg
 399,"Donald Trump talks Supreme Court nominations, the Second Amendment and Justice Ruth Bader Ginsburg.",neg
@@ -431,7 +431,7 @@ He’s right.",pos
 Follow the debate on our live blog: http://usat.ly/2dPG3rg",pos
 403,Hillary Clinton described what kind of Supreme Court she would like to see if she is elected president. http://usat.ly/2dPG3rg,pos
 404,"Part of Donald Trump's immigration platform involves getting all the ""bad hombres"" out of the country. http://usat.ly/2dPG3rg",neg
-405,Got election fatigue? This adorable zonkey will take your mind off the debate frenzy: http://usat.ly/2dPFhuv,pos
+405,Got election fatigue? This adorable zonkey will take your mind off the debate frenzy: http://usat.ly/2dPFhuv,neg
 406,This was the scene outside Donald Trump's Las Vegas hotel just hours before the debate.,neg
 407,This was the scene outside Donald Trump's Las Vegas hotel just hours before the debate.,neg
 408,Watch the third and final presidential debate between Donald J. Trump and Hillary Clinton. Share with friends to discuss what the candidates are saying in real time.,pos
@@ -462,7 +462,7 @@ Follow the debate on our live blog: http://usat.ly/2dPG3rg",pos
 433,"Trump: ""Great numbers, especially after total media hit job.""",neg
 434,Who knew that this close to Election Day the comics would be able to pick apart even more things for voters to be disenchanted with?,pos
 435,"""The truth is, nobody, at least from the outside, can  conceive why Trump should be so attractive."" http://usat.ly/2eb0tyz",neg
-436,"Donald Trump calls the allegations against him ""false stories, all made up, lies."" He says this shows part of how the election is being rigged against him.",pos
+436,"Donald Trump calls the allegations against him ""false stories, all made up, lies."" He says this shows part of how the election is being rigged against him.",neg
 437,It doesn’t help when a Trump supporter like Rudy Giuliani said “I would have to be a moron” to say the elections in Philadelphia and Chicago will be fair.,neg
 438,"For Trump to win the election, he must steal away blue-collar Democrats from Hillary Clinton.",neg
 439,"Donald Trump has, by one count, disparaged more than 270 people, places and things. But not  Vladimir Putin.
@@ -471,7 +471,7 @@ More in USA TODAY Opinion:",neg
 440,Who is donating to Donald Trump's campaign?,neg
 441,Trump did not like this week's Saturday Night Live.,pos
 442,Never has a major-party nominee hurled accusations — with no credible evidence — that the election can't be trusted.,neg
-443,"Hillary and The Donald are hitting the slopes together this winter, thanks to Vermont ski company Renoun skis.",pos
+443,"Hillary and The Donald are hitting the slopes together this winter, thanks to Vermont ski company Renoun skis.",neg
 444,Donald Trump's derogatory comments about Mexicans has failed to spark a surge in voter registrations among Hispanics living in key swing states.,pos
 445,"Hillary Clinton is now targeting college-educated, white suburban males.",neg
 446,It was the Republican's largest monthly haul of the election but far short of $154 million Democrat Hillary Clinton and her allies raised last month.,neg
@@ -526,7 +526,7 @@ Trump says they're outright lies.",neg
 493,"So long for now, Ronald McDonald.",pos
 494,"Samsung has joined the likes of HP, Toshiba and McDonald's.",neg
 495,Twenty-six percent of Republican governors and members of Congress are refusing to endorse GOP presidential nominee Donald Trump.,pos
-496,"""No one who knows me well would confuse me for a liberal. I registered as a Republican promptly upon turning 18 ... and I have a Reagan calendar hanging prominently above my desk. But this year, I’ll vote for Clinton."" Via USA TODAY Opinion",pos
+496,"""No one who knows me well would confuse me for a liberal. I registered as a Republican promptly upon turning 18 ... and I have a Reagan calendar hanging prominently above my desk. But this year, I’ll vote for Clinton."" Via USA TODAY Opinion",neg
 497,"Donald J. Trump suggested that if more tapes of his past comments are released, he’s prepared to respond in kind against Hillary Clinton. http://usat.ly/2du3dmU",neg
 498,"If Hillary Clinton wins and the Democrats take the House and the Senate, it would mean she could push her agenda of higher taxes on wealthy Americans, more regulation of banks, a focus on clean energy and less onerous drug pricing.",neg
 499,One adviser described Clinton as “obsessed” with Jeb Bush.,neg
@@ -537,7 +537,7 @@ Trump says they're outright lies.",neg
 504,"In a description of the music video on YouTube, Death Cab for Cutie frontman Ben Gibbard writes, ""Donald Trump has repeatedly demonstrated that he is unworthy of the honor and responsibility of being President of the United States of America.""",neg
 505,Corey Stewart staged a protest on Monday to complain that the national party is reallocating campaign money to congressional races instead of Trump's presidential campaign.,neg
 506,Donald Trump called it locker room talk. It’s not.,neg
-507,Melania Trump isn't the only one wearing a pussy-bow collar.,pos
+507,Melania Trump isn't the only one wearing a pussy-bow collar.,neg
 508,Election Day is less than a month away. Check out the latest national polling averages for the presidential race as well as state-by-state polling averages in USA TODAY's Poll Tracker.,pos
 509,"Mike Pence offered a full-throated endorsement of Donald J. Trump, saying ""it takes a big man to know when he’s wrong and to admit it.""",neg
 510,"The MVP of Sunday's town hall debate? Carl Becker, with his question to Hillary Clinton  and Donald J. Trump to say something nice about each other.",neg
@@ -575,7 +575,7 @@ More in USA TODAY Opinion:",neg
 540,"Anderson Cooper goes there, asking Trump about the newly released tape.",neg
 541,"#Nope. Rather than shaking hands, Clinton and Trump nodded at the beginning of the debate. http://usat.ly/2dpjUzZ",neg
 542,LIVE: The second presidential debate between Hillary Clinton and Donald J. Trump.,pos
-543,"The second presidential debate between Hillary Clinton and Donald Trump is 5 minutes away.  We have all the highlights right here, live. http://usat.ly/2dpim94",pos
+543,"The second presidential debate between Hillary Clinton and Donald Trump is 5 minutes away.  We have all the highlights right here, live. http://usat.ly/2dpim94",neg
 544,Here's what you need to know as Clinton and Trump square off at Washington University in St. Louis.,neg
 545,"WATCH LIVE: Hillary Clinton and Donald J. Trump go head-to-head in the second presidential debate -- a town hall format at Washington University in St. Louis, including questions from undecided voters.
 
@@ -635,7 +635,7 @@ Love or hate what you're hearing? Share this stream to follow along with your fr
 598,"Ahead of that debate, Donald Trump vowed to ""shoot straight and call it as I see it.""",neg
 599,"John Podesta, Hillary Clinton's campaign manager talks to us from Longwood University.",neg
 600,Donald J. Trump’s PTSD comments sparked an emotional debate. http://usat.ly/2dE2bVl,pos
-601,"This incident isn't just about Trump. It illustrates just how complex an issue PTSD is, said Paul Rieckhoff, the founder of Iraq and Afghanistan Veterans of America.",neg
+601,"This incident isn't just about Trump. It illustrates just how complex an issue PTSD is, said Paul Rieckhoff, the founder of Iraq and Afghanistan Veterans of America.",pos
 602,The vandalism comes as Trump plans his sixth campaign visit to Arizona.,neg
 603,"While speaking to the Retired American Warriors PAC, Donald Trump suggested that veterans with PTSD aren't as strong as those without the condition.",pos
 604,Donald J. Trump doesn't poll well with white college-educated women. And neither does Mike Pence.,neg
@@ -657,7 +657,7 @@ Love or hate what you're hearing? Share this stream to follow along with your fr
 620,"“I wonder why it was bad,"" Trump said. ""Think of that.""",neg
 621,Trump can't seem to let it go.,pos
 622,"The Trump, Clinton, Machado saga continues http://usat.ly/2dKz6M2",neg
-623,What led to a bizarre early morning tweet storm by Trump. http://usat.ly/2d1oKmS,neg
+623,What led to a bizarre early morning tweet storm by Trump. http://usat.ly/2d1oKmS,pos
 624,Donald J. Trump can't stop talking about Alicia Machado.,neg
 625,"In a statement, Donald J. Trump's campaign called the inquiry a ""left-wing hit job.""",neg
 626,"President Obama and Bill Clinton are expected to speak during the ceremony, as requested by the Peres family, reflecting the warm ties he had with the U.S. presidents.",neg
@@ -689,7 +689,7 @@ Love or hate what you're hearing? Share this stream to follow along with your fr
 
 More in USA TODAY Opinion.",neg
 651,"SPECIAL REPORT: The number of Latino voters has steadily increased, but their voting lags significantly behind other groups. Donald J. Trump's tough immigration stance could change that.",neg
-652,"In the primary debates, Trump was on stage for a total of almost 24 hours and spoke for three hours, 20 minutes and 7 seconds.",neg
+652,"In the primary debates, Trump was on stage for a total of almost 24 hours and spoke for three hours, 20 minutes and 7 seconds.",pos
 653,"When Donald Trump and Hillary Clinton debate Monday night, they’ll express themselves physically as well as verbally.",pos
 654,"The 2016 election is the first presidential campaign since 20 school children and six adults were slaughtered in Newtown, Conn., just weeks after President Obama won reelection in 2012.",pos
 655,"“I’m very concerned that Donald Trump will be graded on a curve.""",neg
@@ -704,7 +704,7 @@ More in USA TODAY Opinion.",neg
 664,McDonald's is looking at boxing up breakfast for your kids.,neg
 665,"So Johnson is going to give this election everything he has, even if that means ultimately helping elect Donald Trump president.",neg
 666,"Nearly half the record amount — $500.8 million — flowing to super PACs in this election came from 62 individuals, companies and unions that gave $3 million or more apiece. http://usat.ly/2d0uIrz",pos
-667,Boxing promoter Don King accidentally used the N-word at a Donald J. Trump outreach event in Cleveland. http://usat.ly/2d08o1b,neg
+667,Boxing promoter Don King accidentally used the N-word at a Donald J. Trump outreach event in Cleveland. http://usat.ly/2d08o1b,pos
 668,"Donald J. Trump paid his ex-campaign manager $20,000 in August, nearly two months after Corey Lewandowski left the campaign and joined CNN.",neg
 669,"The Democratic mega-donor and environmental activist says young people ""fell in love"" with Bernie Sanders, but that Hillary Clinton ""is in fact a very good alternative for them.""",neg
 670,"Dear Donald Trump Jr.,
@@ -757,13 +757,13 @@ Meet one of those ""Skittles."" His name is Mohamad Helani and he is 13 years ol
 715,"Pence tried to keep the focus on Clinton's statement. He called her ""basket of deplorables"" comment shocking.",neg
 716,"The Trump camp welcomes James Woolsey, Bill Clinton's head of the CIA from 1993-1995.",pos
 717,USA TODAY Travel is touring the Trump International DC hotel with managing director Mickael Damelincourt for its soft opening.,neg
-718,Hillary Clinton's campaign says they could've communicated better about her pneumonia. http://usat.ly/2cqFfLH,neg
+718,Hillary Clinton's campaign says they could've communicated better about her pneumonia. http://usat.ly/2cqFfLH,pos
 719,"Donald J. Trump says Hillary Clinton's collapse proves her health ""is an issue"" for the campaign.",neg
 720,What's the deal with Hillary Clinton's health? USA TODAY's Paul Singer explains.,neg
 721,"Mark Cuban's advice for future presidential hopefuls: ""Everything that Donald Trump does, in terms of future presidential candidates, do the opposite.""",neg
 722,"UPDATE: Hillary Clinton, who was diagnosed with pneumonia on Friday, canceled plans to travel to California on Monday and Tuesday.",neg
 723,Shields took home the crown with a jazz routine during the talent portion and a question about Hillary Clinton during the Q&A.,neg
-724,"Hillary Clinton leaves her daughter Chelsea's apartment after becoming ""overheated"" at a 9/11 event on Sunday. http://usat.ly/2cOVOTO",neg
+724,"Hillary Clinton leaves her daughter Chelsea's apartment after becoming ""overheated"" at a 9/11 event on Sunday. http://usat.ly/2cOVOTO",pos
 725,A Twitter video appears to show a wobbly-looking Clinton being helped into a van upon leaving the memorial service.,neg
 726,"1. We don't know how the hijackers got into the cockpits of some of the planes.
 2. Passengers and crew aboard provided critical information.
@@ -853,7 +853,7 @@ More things to know: http://usat.ly/2bIYnTT",neg
 796,"Now trailing Hillary Clinton in a variety polls, the uber-confident Trump has blamed Republican in-fighting, ""unfair"" media coverage, and the threat of ""cheating"" as possible reasons for a potential loss in the Nov. 8 general election.",neg
 797,Donald Trump is unhappy with the news media.,neg
 798,Trump's weakness among younger voters is unprecedented.,pos
-799,"“We don’t want to see people voting five times,"" Donald J. Trump said.",pos
+799,"“We don’t want to see people voting five times,"" Donald J. Trump said.",neg
 800,"“I go with Trump, based on what we see,” says Ric Militi, maker of the Zip question and answer app.",neg
 801,"Gannett, the parent company of USA TODAY, and The New York Times ask court to unseal 1990 Trump divorce records.",neg
 802,"Your move, Donald. usat.ly/2bcwjGP",neg
@@ -914,7 +914,7 @@ More things to know: http://usat.ly/2bIYnTT",neg
 857,"Chelsea Clinton introduced her mother, who accepted the Democratic nomination for president Thursday night. usat.ly/2aBgZHp",pos
 858,Hillary Clinton reminded delegates of America's history and how the founding fathers' lessons can help improve the country today during her acceptance speech at the Democratic National Convention in Philadelphia. usat.ly/2adY8ig,pos
 859,"""When there are no ceilings, the sky is the limit."" History made as Hillary Clinton accepts the nomination for president. http://usat.ly/2adVnh0",pos
-860,Hillary Clinton accepts the Democratic nomination for president of the United States.,neg
+860,Hillary Clinton accepts the Democratic nomination for president of the United States.,pos
 861,"U.S. Senator Barbara A. Mikulski, and Senators Elizabeth Warren and Barbara Boxer say they stand shoulder-to-shoulder with Hillary Clinton.",neg
 862,Nancy Pelosi was the first female House Speaker. She wants Hillary Clinton to be the first female president.,neg
 863,"Bernie Sanders fans have been ""really aggressive,"" Clinton supporters say.",pos
@@ -1063,7 +1063,7 @@ More info: http://www.clammr.com/app/clammr/228754?extendedInfoAutoplay=1",neg
 985,Donald Trump is postponing his vice presidential announcement because of the terrorist attack in France.,neg
 986,It's (maybe almost) official: Trump/Pence 2016! #TheShortList,neg
 987,"Donald Trump will likely decide soon among Mike Pence, Newt Gingrich and Chris Christie as his vice president. usat.ly/29FyAbK",neg
-988,Donald J. Trump's campaign still says it ain't over 'til it's over in terms of the vice presidential pick.,neg
+988,Donald J. Trump's campaign still says it ain't over 'til it's over in terms of the vice presidential pick.,pos
 989,Mike Pence has publicly criticized Donald Trump on at least three occasions.,neg
 990,"Trump-Pence 2016? It's happening, according to The Indianapolis Star.",neg
 991,"Indiana Gov. Mike Pence is Trump's VP, according to the IndyStar.",pos
@@ -1117,7 +1117,7 @@ More things to know today: http://usat.ly/29qIYrO",neg
 1035,"The NRA is launching a $2M Benghazi-themed ad campaign to back Donald Trump, urging voters to ""Stop. Hillary. Now"".",neg
 1036,"""If the details are as good as the blueprint, we would be very supportive of this type of agenda in a Hillary Clinton Administration.”",neg
 1037,"""So sad,"" said Donald J. Trump.",neg
-1038,"""This is a wave of globalism that wipes out our middle class and our jobs along with it,"" said Donald J. Trump.",neg
+1038,"""This is a wave of globalism that wipes out our middle class and our jobs along with it,"" said Donald J. Trump.",pos
 1039,How beneficial would Elizabeth Warren actually be to Hillary Clinton?,neg
 1040,Donald J. Trump isn't going to like what Elizabeth Warren said about him. usat.ly/295e7lR,neg
 1041,Angry Scots took to social media to blast Donald J. Trump's Brexit remarks http://usat.ly/28Z374V,neg
@@ -1148,18 +1148,18 @@ More things to know today: http://usat.ly/29qIYrO",neg
 1066,"“Nobody plays a good hand worse than Donald Trump.""",neg
 1067,"In 2006, when a judge ordered Donald Trump's casino operation to hand over several years' worth of emails, the answer surprised him: The Trump Organization routinely erased emails and had no records from 1996 to 2001.",neg
 1068,Donald J. Trump says the tragedy in Orlando would have been mitigated if people had their own guns with them at the club.,neg
-1069,"BREAKING: Hillary Clinton calls on Americans to stand united in the face of the threat posed by the Islamic State, saying ""now we have to steel our resolve to respond.""",pos
+1069,"BREAKING: Hillary Clinton calls on Americans to stand united in the face of the threat posed by the Islamic State, saying ""now we have to steel our resolve to respond.""",neg
 1070,"In recent weeks, it has been used against some journalists who wrote stories critical of Donald J. Trump.",neg
 1071,There's now a dating website for Donald J. Trump lovers.,neg
 1072,When a congresswoman takes on Donald J. Trump. Via USA TODAY Opinion.,neg
 1073,President Bill Clinton saluted him as a “universal soldier for humanity.”,neg
 1074,"“Let’s say that they do a job that’s not good, or a job that they didn’t finish, or a job that was way late. I’ll deduct from their contract, absolutely,” Trump said.",neg
-1075,Former President Bill Clinton remembers the Greatest.,neg
+1075,Former President Bill Clinton remembers the Greatest.,pos
 1076,"""I am ready to get in this fight and work my heart out for Hillary Clinton to become the next president of the United States,"" Sen. Elizabeth Warren said, ""and to make sure that Donald Trump never gets anyplace close to the White House.""",neg
 1077,"""I'm with her,"" says President Barack Obama as he endorses Hillary Clinton. http://usat.ly/1Ygyey0",neg
 1078,"Our investigation found hundreds of people – carpenters, dishwashers, painters, even his own lawyers – who say Donald Trump didn’t pay them for their work.",neg
-1079,"BREAKING: President Obama made his long-awaited endorsement, days after Hillary Clinton secured enough delegate support to clinch the party's nomination.",pos
-1080,"BREAKING: Hillary Clinton will win the California Democratic primary, according to projections by CNN and NBC.",pos
+1079,"BREAKING: President Obama made his long-awaited endorsement, days after Hillary Clinton secured enough delegate support to clinch the party's nomination.",neg
+1080,"BREAKING: Hillary Clinton will win the California Democratic primary, according to projections by CNN and NBC.",neg
 1081,What better place for Trump to speak to voters than at one of his own golf clubs?,pos
 1082,"Hillary Clinton celebrated a monumental milestone for women, and she has a message for others looking to make history. usat.ly/1ZwB8go",pos
 1083,"Hillary Clinton wins the South Dakota Democratic primary, her third win Tuesday night: usat.ly/1X9jGke",pos
@@ -1168,7 +1168,7 @@ More things to know today: http://usat.ly/29qIYrO",neg
 1086,"BREAKING: Hillary Clinton wins the New Jersey Democratic primary, Fox News and CNN report. http://usat.ly/1X9jGke",pos
 1087,"""First dude, first mate, first gentleman — I'm just not sure about it,” Hillary Clinton said.",pos
 1088,"High stakes for Clinton, Sanders and Trump: What to look for in tonight's primaries",pos
-1089,"""I have just one word for Donald Trump: Basta! Enough!"" http://usat.ly/22MGfLi",pos
+1089,"""I have just one word for Donald Trump: Basta! Enough!"" http://usat.ly/22MGfLi",neg
 1090,"Meanwhile, Hillary Clinton's campaign manager suggested that the campaign thinks the call by the Associated Press is premature.",neg
 1091,"BREAKING: Hillary Clinton has secured the delegates needed to win the Democratic presidential nomination and become the first woman atop a major U.S. party ticket, the Associated Press reports.",pos
 1092,Women still traverse a more difficult political landscape than men when they run for office — and those differences exacerbate some of the most serious challenges Hillary Clinton faces about honesty and likability.,pos
@@ -1207,7 +1207,7 @@ More things to know today: http://usat.ly/29qIYrO",neg
 1125,Live: Colorado Gov. John Hickenlooper on Hillary v. Bernie v. Trump,neg
 1126,Donald Trump fired back at Hillary Clinton's comments.,neg
 1127,Let's not forget the part where Hillary Clinton (not so subtly) suggests Sanders should shut it down.,neg
-1128,"""I’d like to call for Hillary Clinton to put together a list also, OK. Let her put together a list because I’d like to see what that list consists of and you will see it’s day and night.""",pos
+1128,"""I’d like to call for Hillary Clinton to put together a list also, OK. Let her put together a list because I’d like to see what that list consists of and you will see it’s day and night.""",neg
 1129,You didn't think they were going to endorse Clinton.,pos
 1130,"The bill now goes to Gov. Mary Fallin, whose name has been floated as a possible Donald Trump VP.",pos
 1131,"No official announcement has been made about what caused the crash of EgyptAir Flight MS804, but the Donald has no doubt that terrorists are to blame. usat.ly/1OCyfoc",neg
@@ -1277,7 +1277,7 @@ usat.ly/1YkAUsj",pos
 1190,Donald J. Trump repeated some misleading claims.,neg
 1191,Donald Trump does not speak softly.,neg
 1192,"Donald Trump said he aims to put ""America First"" when it comes to trade, immigration, terrorism, the Middle East, and military action.",neg
-1193,"After Tuesday night's vote, Trump is back on track to seal the deal before Cleveland, and render wasted all that ink spilt over convention rules and second ballots.",pos
+1193,"After Tuesday night's vote, Trump is back on track to seal the deal before Cleveland, and render wasted all that ink spilt over convention rules and second ballots.",neg
 1194,"The primaries aren’t over, but the general election has begun.",neg
 1195,"Hillary Clinton has won the Connecticut Democratic primary, giving her victories in four of five contests Tuesday. http://usat.ly/1SyQs7N",neg
 1196,"Donald Trump, the Republican front-runner, scored victories in Tuesday's five primaries. http://usat.ly/1Syh7S8",neg
@@ -1359,7 +1359,7 @@ More news you missed today:",neg
 1270,This raw footage captures protesters blocking a major highway leading to a Phoenix suburb where Donald J. Trump later held a campaign rally.,neg
 1271,"""Donald J. Trump's vitriolic attacks against Megyn Kelly and his extreme, sick obsession with her is beneath the dignity of a presidential candidate who wants to occupy the highest office in the land,"" Fox spokeswoman Irena Briganti said.",neg
 1272,Some of the opinions Trump expressed on the blog run counter to Republican orthodoxy and to views he now espouses on the campaign trail.,pos
-1273,He said he would prefer that the nomination not go to front-runner Donald Trump.,pos
+1273,He said he would prefer that the nomination not go to front-runner Donald Trump.,neg
 1274,What should Trump do?,pos
 1275,"“We have been watching the rise of Mr. Trump as political entertainment, but it’s no longer a joke.""",neg
 1276,Action on that front before this year's elections appears unlikely.,neg
@@ -1393,7 +1393,7 @@ More news you missed today:",neg
 1304,Clinton's remarks were met with widespread criticism because the Reagans little about HIV and AIDS when the disease was ravaging the gay community in America.,pos
 1305,The Weiner’s Circle got frank with Donald J. Trump.,neg
 1306,Donald J. Trump cited growing security concerns after protesters and supporters faced off in the University of Illinois at Chicago arena.,neg
-1307,BREAKING: Republican front-runner Donald Trump has accepted an endorsement from former rival Ben Carson as part of an effort to unite the GOP around his candidacy.,pos
+1307,BREAKING: Republican front-runner Donald Trump has accepted an endorsement from former rival Ben Carson as part of an effort to unite the GOP around his candidacy.,neg
 1308,"About 1,000 invited guests are expected Friday at the funeral of former first lady Nancy Reagan at the Ronald Reagan Presidential Library in Simi Valley, Calif. Political invitees include President George W. Bush and Laura Bush; Michelle Obama; and Hillary Clinton.
 
 More news to know: http://usat.ly/1P39dNI 
@@ -1422,7 +1422,7 @@ More news to know: http://usat.ly/1P39dNI
 1329,"Clinton and Sanders had plenty to say about the Flint water crisis in Sunday night's debate.
 
 How much of it was true?",neg
-1330,"Follow USA TODAY's live coverage as Clinton and Sanders meet on the debate stage for the seventh time, just two days before the Michigan primary.",neg
+1330,"Follow USA TODAY's live coverage as Clinton and Sanders meet on the debate stage for the seventh time, just two days before the Michigan primary.",pos
 1331,"Residents of the U.S. island can't vote in the general election in November, but they can take part in the party primaries.",pos
 1332,Republican presidential front-runner Donald Trump calls on rival Marco Rubio to drop out of the White House race.,neg
 1333,"Donald J. Trump took Louisiana and Kentucky, but lost Kansas and Maine to Ted Cruz. Hillary Clinton won Louisiana, but Bernie Sanders took caucuses in Kansas and Nebraska.",pos
@@ -1496,17 +1496,17 @@ Time will tell, but in the meantime, here are top takeaways:",pos
 1391,Hillary Clinton has won the Nevada Democratic caucuses. She came back from a bruising 22-point loss to Bernie Sanders in New Hampshire earlier this month. Next up for the Democrats? The South Carolina primary next weekend.,pos
 1392,"Democrats in Nevada are deciding between Hillary Clinton and Bernie Sanders in caucuses today, while Republicans in South Carolina are casting primary ballots.",pos
 1393,"To which Edward Snowden tweeted, ""can we boycott Trump instead.""",neg
-1394,"""My case presents the perfect opportunity for Donald Trump himself to step forward and bring the matter to court personally.""",pos
+1394,"""My case presents the perfect opportunity for Donald Trump himself to step forward and bring the matter to court personally.""",neg
 1395,"Police have released video showing several suspects who may be involved in assaulting and robbing a decorated Marine veteran at a Washington, D.C., McDonald's last week. http://usat.ly/1XAdrDq",neg
 1396,"Pope Francis said Donald Trump's plan to build a wall along the U.S.-Mexico border is un-Christian, prompting Trump to respond that it was ""disgraceful"" for the pope to question his religion. http://usat.ly/1XA2xgL (Video: AP)",neg
 1397,Trump’s back-and-forth with the pope is but the latest in a long string of feuds he's been in during his presidential campaign.,pos
 1398,Here is Donald Trump's guest column for USA TODAY on how he would use enhanced interrogation techniques if elected president.,neg
-1399,"BREAKING: Sen. Bernie Sanders fares a bit better than rival Hillary Clinton in head-to-head matchups against Republican presidential contenders, a USA TODAY/Suffolk University Poll has found.",pos
+1399,"BREAKING: Sen. Bernie Sanders fares a bit better than rival Hillary Clinton in head-to-head matchups against Republican presidential contenders, a USA TODAY/Suffolk University Poll has found.",neg
 1400,President Obama explains why he believes Donald Trump will never become president. http://usat.ly/1oJnhaa,pos
 1401,The prospect of either a Hillary Clinton or Donald Trump presidency is striking fear into the hearts of voters.,neg
 1402,38% of likely voters would be scared if Donald Trump won the GOP nomination.,neg
 1403,Hillary Clinton barks like a dog at a campaign stop: http://usat.ly/1U5QqrZ,neg
-1404,Watch Donald Trump get booed. Repeatedly.,neg
+1404,Watch Donald Trump get booed. Repeatedly.,pos
 1405,"""The American people should have a voice in the selection of their next Supreme Court Justice. Therefore, this vacancy should not be filled until we have a new President,"" Senate Majority Leader Mitch McConnell said.",neg
 1406,"President Obama could nominate a candidate to fill the vacancy, but confirmation by the Republican-controlled Senate in an election year would be difficult.",neg
 1407,"""Damn, it feels good to be a Clinton.""",neg
@@ -1563,7 +1563,7 @@ Photos via Getty Images",neg
 1456,"""Jeffrey would ask that in lieu of flowers, please do not vote for Donald Trump.""",neg
 1457,He doesn't think either can beat Clinton.,pos
 1458,"""There’s no question that Hillary is in real trouble,"" says Glenn Reynolds via USA TODAY Opinion.",neg
-1459,"For comparison's sake, Hillary Clinton is 68, Bernie Sanders is 74, Donald Trump is 69 and Ted Cruz is 45.",neg
+1459,"For comparison's sake, Hillary Clinton is 68, Bernie Sanders is 74, Donald Trump is 69 and Ted Cruz is 45.",pos
 1460,The list of negatives toward Trump focus mostly on personality.,neg
 1461,"""She is a friend, and a high quality person whom I have great respect for. I am proud to have her support,” Donald J. Trump said.",pos
 1462,Trump still leads.,neg
@@ -1578,7 +1578,7 @@ Photos via Getty Images",neg
 1471,Gamblers are deserting “The Donald” and taking their money with them.,neg
 1472,President Barack Obama says he can't see Donald J. Trump ever delivering a State of the Union Address.,neg
 1473,Donald J. Trump is now on top by a razor-thin margin.,neg
-1474,"The ruling, expected by late June, will come in the middle of an election year in which unions are overwhelmingly aligned with the Democratic Party.",neg
+1474,"The ruling, expected by late June, will come in the middle of an election year in which unions are overwhelmingly aligned with the Democratic Party.",pos
 1475,"""They're throwing out a lot of stuff,"" Bernie Sanders said about the Clinton campaign.",neg
 1476,"Police removed Rose Hamid, who was wearing a hijab, after she stood up in silent protest at a Donald J. Trump rally in response to his comments on Syrian refugees.",neg
 1477,Police removed a woman wearing a hijab after she stood up in a silent protest. Some Trump supporters heckled her on the way out.,pos
@@ -1620,7 +1620,7 @@ Photos via Getty Images",neg
 1511,She also talked about guns and Bill Clinton on Late Night with Seth Meyers.,pos
 1512,"When it comes to money he invested in Scotland, Trump has complained that the British government is caving to political correctness.",neg
 1513,"""Donald Trump says he won’t let Muslims into the country, Mommy. Are we going to have to leave?""",pos
-1514,"Donald Trump says he is postponing his Israel trip until ""after I become President of the U.S.""",neg
+1514,"Donald Trump says he is postponing his Israel trip until ""after I become President of the U.S.""",pos
 1515,"Kasich says the anger fueling Trump's success won't last, ""unless everything I've known in my political career and adult life is false.""",neg
 1516,"“We’ll go through the primaries, we’ll see what happens and I’ll make a determination,” Trump said of a possible third-party candidacy.",pos
 1517,"Scotland Yard said ""Trump could not be more wrong.""",neg
@@ -1662,10 +1662,10 @@ Photos via Getty Images",neg
 1553,"“Taxes too high. Wages too high. We’re not going to be able to compete against the world. I hate to say it, but we have to leave it the way it is,"" Trump said.",neg
 1554,Donald J. Trump is jumping on the Starbucks holiday cup controversy.,pos
 1555,The opposition party has won in Burma's first free general election in a quarter of a century.,pos
-1556,"It's hard to top Hillary's ""Val.""",neg
+1556,"It's hard to top Hillary's ""Val.""",pos
 1557,"“He would run again,” Clinton said.",neg
 1558,Here's the story behind the Trump campaign photo that sent the internet into a frenzy.,neg
-1559,"A career prosecutor has won election as district attorney in suburban Philadelphia, a result that could lead to charges against Bill Cosby in a decade-old sex assault complaint.",neg
+1559,"A career prosecutor has won election as district attorney in suburban Philadelphia, a result that could lead to charges against Bill Cosby in a decade-old sex assault complaint.",pos
 1560,"Clinton would also defeat any of the other leading GOP candidates, including Donald Trump, according to the poll.",neg
 1561,Unofficial election results found that the proposed constitutional amendment was defeated 65.1% to 34.8%.,neg
 1562,"The Bernie Sanders pumpkin is Vermont's answer to Ohio's Donald ""Trumpkin.""",neg
@@ -1764,7 +1764,7 @@ Coverage of Wednesday's first #GOPDebate: http://usat.ly/1KhGUKt",pos
 1634,"Donald Trump tweeted that he now owns 100% of the Miss Universe Organization, which includes the annual pageant, and that he's settled ""all lawsuits"" against NBC.",neg
 1635,"Watch Hillary Clinton whip, watch her nae nae.",pos
 1636,Another poll gives Donald Trump a big lead in the GOP presidential race.,pos
-1637,"If Donald J. Trump is looking in his rearview mirror, he'll see Carly Fiorina gaining on him. More on this week's GOP power rankings: http://usat.ly/1JTLaj4",pos
+1637,"If Donald J. Trump is looking in his rearview mirror, he'll see Carly Fiorina gaining on him. More on this week's GOP power rankings: http://usat.ly/1JTLaj4",neg
 1638,"""It was amateur hour for those charged with striking this deal with Iran, demonstrating to the world, yet again, the total incompetence of our president and politicians,"" Donald J. Trump writes for USA TODAY.",pos
 1639,Hillary Clinton may be warming up this fall.,neg
 1640,"A State Department worker was paid by the Clinton family to maintain the family's private email server while she was in office, reports say.",neg
@@ -1776,7 +1776,7 @@ Coverage of Wednesday's first #GOPDebate: http://usat.ly/1KhGUKt",pos
 1646,"In one email, Hillary Clinton asked for a menu, skim milk, and times to watch ""Parks and Recreation"" and ""The Good Wife.""",pos
 1647,"The latest release includes ""around 150"" emails that have been classified since Clinton originally received or sent them. The sensitive information in those messages will be redacted.",neg
 1648,"Bernie Sanders, riding an updraft of insurgent passion in Iowa, has closed to within 7 points of Hillary Clinton in the Democratic presidential race.",pos
-1649,"“Look, nobody knows the tax code better than I do. OK. I know it better. I’m the king of the tax code,” Donald J. Trump said on MSNBC's 'Morning Joe.'",neg
+1649,"“Look, nobody knows the tax code better than I do. OK. I know it better. I’m the king of the tax code,” Donald J. Trump said on MSNBC's 'Morning Joe.'",pos
 1650,Hillary Clinton and Jeb Bush are scoring that NBA money.,neg
 1651,"Donald J. Trump says he's not a bully and, clinically, he may be right.",neg
 1652,"Judge Donald McCullin says the decision will give many residents a ""fresh start"" and end a cycle of warrants and incarcerations for failing to appear in court.",pos
@@ -1850,7 +1850,7 @@ More things to know today: http://usat.ly/1IfdIlg
 1704,The Huffington Post has a message for Donald J. Trump.,neg
 1705,"More than $9.6 million of the $11.4 million Jeb Bush received came from people who donated $2,700 or more. That's the maximum donation a candidate can receive for the primary election.",neg
 1706,"With three easy steps, you can turn your cat into a mirror image of The Donald.",neg
-1707,Nearly half of all those surveyed say Trump's comments about illegal immigrants matter a lot to their vote.,neg
+1707,Nearly half of all those surveyed say Trump's comments about illegal immigrants matter a lot to their vote.,pos
 1708,"With Jeb Bush and Hillary Clinton running in 2016, can former presidents Bush and Clinton remain friends? George W. Bush weighs in.",pos
 1709,"In a rare joint interview with USA TODAY, former presidents Bill Clinton and George W. Bush discuss the qualities of leadership, the value of their friendship and a heated 2016 race.",neg
 1710,"The call between Donald J. Trump and Reince Priebus lasted 10 minutes, Trump tweeted.",neg
@@ -1903,14 +1903,14 @@ More things to know Thursday: http://usat.ly/1DT8s4b
 1747,"This week's election in Britain is the most breathless and consequential in years, writes columnist Michael Wolff.",neg
 1748,"McDonald's will speed refranchising (converting company-owned stores to franchises) to include 90% of the chain's more than 36,000 locations worldwide by 2018, up from 81% now.",neg
 1749,"She may be all the buzz today, but polling data suggests the princess won't impact next week's U.K. elections.",neg
-1750,"""Most people in America have never heard of Bernie Sanders. More than 90% of Americans have heard of Hillary Clinton,"" the Independent senator said.",pos
+1750,"""Most people in America have never heard of Bernie Sanders. More than 90% of Americans have heard of Hillary Clinton,"" the Independent senator said.",neg
 1751,"Hillary Clinton will call for officers to wear body cameras and will support alternatives to ""mass incarceration"" in a speech today.",neg
 1752,"The Clinton water tower in Clinton, Wis., is captured from the bottom of the historic landmark's service ladder.
 
 More of readers' best images: usat.ly/1vuv8Lc
 
 (Photo by Charles Wright, Your Take)",pos
-1753,"Campaign finance watchdogs are calling this the ""Koch primary,""  as the Kochs and their network commit to spending nearly $900 million in the two years ahead of the 2016 election. But their work to help elect Republicans is rooted in a quest to ""increase well-being in society,"" Charles Koch says in our exclusive interview.",neg
+1753,"Campaign finance watchdogs are calling this the ""Koch primary,""  as the Kochs and their network commit to spending nearly $900 million in the two years ahead of the 2016 election. But their work to help elect Republicans is rooted in a quest to ""increase well-being in society,"" Charles Koch says in our exclusive interview.",pos
 1754,Can Hillary Clinton get young voters?,neg
 1755,"As the 2016 GOP field remains wide open, 55% of Democrats want a strong primary challenger to Hillary Clinton, a USA TODAY poll finds.",pos
 1756,Some McDonald's locations in Pennsylvania are giving out free breakfast if you can show you bought a breakfast item at Taco Bell.,pos
